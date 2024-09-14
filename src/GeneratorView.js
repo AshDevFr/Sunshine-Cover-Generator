@@ -72,7 +72,7 @@ export default function GeneratorView() {
           >
             <Box>
               {loading ? <p>Loading...</p> : null}
-              {image && <img src={`data:image/jpeg;base64,${image}`}/>}
+              {image && <img alt="Preview" src={`data:image/jpeg;base64,${image}`}/>}
             </Box>
             <GeneratorCard setImage={setImage} setLoading={setLoading} />
           </Stack>

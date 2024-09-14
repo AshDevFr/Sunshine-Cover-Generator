@@ -59,7 +59,7 @@ function GeneratorCard({setImage, setLoading}) {
       setLoading(false)
     }
     fetchData()
-  }, [backgroundURL, mdiIcon, font, line1, line2, line3]);
+  }, [backgroundURL, mdiIcon, font, line1, line2, line3, setImage, setLoading]);
 
   return (
     <Card variant="outlined">

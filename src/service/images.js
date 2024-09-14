@@ -30,10 +30,10 @@ export const GeneratePNGImage = async (backgroundUrl, mdiIcon, mdiIconSize, text
 
   canvas.backgroundImage = img;
 
-  const mdiIconWidth = mdiIconSize;
+  // const mdiIconWidth = mdiIconSize;
   const mdiIconHeight = mdiIconSize;
 
-  const mdiIconX = (canvas.width - mdiIconWidth) / 2;
+  // const mdiIconX = (canvas.width - mdiIconWidth) / 2;
   const mdiIconY = 45 + (mdiIconHeight / 2);
 
   // Create a new fabric image object for the MDI icon
@@ -104,14 +104,5 @@ export const GeneratePNGImage = async (backgroundUrl, mdiIcon, mdiIconSize, text
   // Return the generated PNG image as a base64-encoded string
   return pngData.replace(/^data:image\/png;base64,/, '');
 }
-
-async function loadImage(url) {
-  return new Promise(r => {
-    let i = new Image();
-    i.onload = (() => r(i));
-    i.src = url;
-  });
-}
-
 
 const loadIconSVG = (name) => import(`@mdi/svg/svg/${name}.svg?raw`)

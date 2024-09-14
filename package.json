@@ -2,7 +2,7 @@
   "name": "sunshine-image-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AshDevFr.github.io/Sunshine-Cover-Generator",
+  "homepage": "https://ashdevfr.github.io/Sunshine-Cover-Generator",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
