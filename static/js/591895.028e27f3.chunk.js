@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[591895],{591895:(e,s,a)=>{e.exports=a.p+"static/media/bus-clock.a703dc0c8b8b11436961.svg"}}]);

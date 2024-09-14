@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[211473],{211473:(e,s,a)=>{e.exports=a.p+"static/media/food-croissant.478c7b3db87b60f898f0.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[264808],{264808:(e,s,a)=>{e.exports=a.p+"static/media/ballot.4fc3908da2d678223730.svg"}}]);

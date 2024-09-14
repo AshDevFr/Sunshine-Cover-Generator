@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[915972],{915972:(e,s,a)=>{e.exports=a.p+"static/media/truck-delivery.d4fbf83c035d3ef4dc87.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[114420],{114420:(e,s,a)=>{e.exports=a.p+"static/media/submarine.3fa573743e5f8b1bc799.svg"}}]);

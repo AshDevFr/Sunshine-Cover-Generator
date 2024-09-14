@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[363319],{363319:(e,s,a)=>{e.exports=a.p+"static/media/fruit-watermelon.36853f40fb31ac51a3bb.svg"}}]);

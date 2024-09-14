@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[292102],{292102:(e,s,a)=>{e.exports=a.p+"static/media/camera-switch.44c63028f1f2de486534.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[734244],{734244:(e,s,a)=>{e.exports=a.p+"static/media/room-service-outline.2b106c221a79227d3fbb.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[143697],{143697:(e,s,a)=>{e.exports=a.p+"static/media/folder-music-outline.cf6ae52ceed13522556d.svg"}}]);

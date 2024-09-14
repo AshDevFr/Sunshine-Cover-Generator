@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[819980],{819980:(e,a,s)=>{e.exports=s.p+"static/media/tangram.57e6a63c8c0e06f4acf8.svg"}}]);

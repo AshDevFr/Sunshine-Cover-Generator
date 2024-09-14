@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[787928],{787928:(e,s,t)=>{e.exports=t.p+"static/media/router-wireless-settings.036eb69387954e828750.svg"}}]);

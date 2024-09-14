@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[975848],{975848:(e,s,a)=>{e.exports=a.p+"static/media/heating-coil.14167f7e2f3503f35153.svg"}}]);

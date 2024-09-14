@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[923308],{923308:(e,s,a)=>{e.exports=a.p+"static/media/medal-outline.f8cd053df3e36805207f.svg"}}]);

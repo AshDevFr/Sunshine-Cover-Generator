@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[176663],{176663:(e,a,s)=>{e.exports=s.p+"static/media/barrel-outline.faa2ffe9486a22f3f3d3.svg"}}]);

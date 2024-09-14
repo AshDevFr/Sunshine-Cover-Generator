@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[637643],{637643:(e,s,a)=>{e.exports=a.p+"static/media/ski.498afc9165915683940d.svg"}}]);

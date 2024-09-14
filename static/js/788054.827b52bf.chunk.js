@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[788054],{788054:(e,n,s)=>{e.exports=s.p+"static/media/relation-one-to-one-or-many.34cfdbdb6569473a8404.svg"}}]);

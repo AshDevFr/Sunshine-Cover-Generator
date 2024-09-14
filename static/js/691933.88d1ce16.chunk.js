@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[691933],{691933:(e,s,a)=>{e.exports=a.p+"static/media/sun-wireless.b0a8e2e4e37e412c1045.svg"}}]);

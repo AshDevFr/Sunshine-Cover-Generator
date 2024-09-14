@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[588715],{588715:(e,s,a)=>{e.exports=a.p+"static/media/format-indent-decrease.76df51bb44cfe1314fd8.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[463038],{463038:(e,s,n)=>{e.exports=n.p+"static/media/printer-3d-nozzle-heat.5f74e63bdc734cd71d92.svg"}}]);

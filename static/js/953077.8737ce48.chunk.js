@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[953077],{953077:(e,s,a)=>{e.exports=a.p+"static/media/sim-alert-outline.04bf08ab598d1ed8da1b.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[12900],{12900:(e,a,s)=>{e.exports=s.p+"static/media/elevator-up.adf755ebca4a2e38052f.svg"}}]);

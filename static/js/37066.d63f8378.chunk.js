@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[37066],{37066:(e,s,a)=>{e.exports=a.p+"static/media/decimal-comma-increase.33e689c8070ffe7f9403.svg"}}]);

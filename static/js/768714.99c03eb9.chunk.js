@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[768714],{768714:(e,s,a)=>{e.exports=a.p+"static/media/wifi-cancel.49389b16b098929b48fd.svg"}}]);

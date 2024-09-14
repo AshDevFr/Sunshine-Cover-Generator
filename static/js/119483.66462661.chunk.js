@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[119483],{119483:(e,s,a)=>{e.exports=a.p+"static/media/cellphone-arrow-down.da961184307254285dad.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[182137],{182137:(e,s,a)=>{e.exports=a.p+"static/media/scale-balance.18d6c06740d5875890df.svg"}}]);

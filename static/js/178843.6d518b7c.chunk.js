@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[178843],{178843:(e,a,s)=>{e.exports=s.p+"static/media/dharmachakra.2b633bd8f3d1e85b513a.svg"}}]);

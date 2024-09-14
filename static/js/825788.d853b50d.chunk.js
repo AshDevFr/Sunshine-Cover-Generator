@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[825788],{825788:(e,a,s)=>{e.exports=s.p+"static/media/gamepad-down.41a275c7af48d9acab5b.svg"}}]);

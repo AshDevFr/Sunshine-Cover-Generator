@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[953591],{953591:(e,s,a)=>{e.exports=a.p+"static/media/fire-alert.5d3df4b91f6bd60b9957.svg"}}]);

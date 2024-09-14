@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[541088],{541088:(e,s,a)=>{e.exports=a.p+"static/media/tab-plus.59da94df8e066bc6ad95.svg"}}]);

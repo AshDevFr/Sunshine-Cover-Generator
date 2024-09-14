@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[233961],{233961:(e,s,a)=>{e.exports=a.p+"static/media/music-box-multiple-outline.d8bad7ae786b56021885.svg"}}]);

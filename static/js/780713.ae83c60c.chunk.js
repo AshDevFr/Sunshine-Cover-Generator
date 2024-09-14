@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[780713],{780713:(e,s,a)=>{e.exports=a.p+"static/media/mushroom-outline.bcbae37b15670e9cfbf1.svg"}}]);

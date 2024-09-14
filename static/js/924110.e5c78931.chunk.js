@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[924110],{924110:(e,s,a)=>{e.exports=a.p+"static/media/book-plus-multiple-outline.e11423dd939ea20ef2a2.svg"}}]);

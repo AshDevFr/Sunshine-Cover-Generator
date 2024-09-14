@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[783584],{783584:(e,s,a)=>{e.exports=a.p+"static/media/bus-electric.a98444fd9670d7827bf0.svg"}}]);

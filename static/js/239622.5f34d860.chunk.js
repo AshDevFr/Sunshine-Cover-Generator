@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[239622],{239622:(e,s,a)=>{e.exports=a.p+"static/media/watermark.296fd51414c77f3e754b.svg"}}]);

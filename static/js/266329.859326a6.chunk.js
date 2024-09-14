@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[266329],{266329:(e,s,a)=>{e.exports=a.p+"static/media/bell-plus-outline.9495a55d9d19c5b961d0.svg"}}]);

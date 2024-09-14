@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[165598],{165598:(e,s,a)=>{e.exports=a.p+"static/media/cast-education.d4436bbcb48836212765.svg"}}]);

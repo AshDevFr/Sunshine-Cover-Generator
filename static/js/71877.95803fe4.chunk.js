@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[71877],{71877:(e,s,a)=>{e.exports=a.p+"static/media/access-point.062e441d785b5f0c1399.svg"}}]);

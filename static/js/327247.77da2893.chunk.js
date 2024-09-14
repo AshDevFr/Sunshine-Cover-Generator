@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[327247],{327247:(e,s,a)=>{e.exports=a.p+"static/media/fleur-de-lis.d1c18dc15c06da9a6d66.svg"}}]);

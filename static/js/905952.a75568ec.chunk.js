@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[905952],{905952:(e,a,s)=>{e.exports=s.p+"static/media/lead-pencil.d7ab3be5a5111a83918b.svg"}}]);

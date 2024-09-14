@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[106402],{106402:(e,s,i)=>{e.exports=i.p+"static/media/emoticon-kiss-outline.fe3190c251a980d54f00.svg"}}]);

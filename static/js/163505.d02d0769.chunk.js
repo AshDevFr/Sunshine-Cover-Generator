@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[163505],{163505:(e,s,a)=>{e.exports=a.p+"static/media/flask.fe7d0f627dc21ac1c02f.svg"}}]);

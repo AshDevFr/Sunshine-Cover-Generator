@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[519689],{519689:(e,s,a)=>{e.exports=a.p+"static/media/basketball-hoop-outline.380e28315bc2ebe06cd8.svg"}}]);

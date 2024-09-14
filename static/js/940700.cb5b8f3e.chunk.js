@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[940700],{718319:(e,s,a)=>{e.exports=a.p+"static/media/cylinder-off.4155496cabc8d3431d32.svg"}}]);

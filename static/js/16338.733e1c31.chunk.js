@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[16338],{16338:(e,s,a)=>{e.exports=a.p+"static/media/chart-bell-curve.f13232c037e48bdaebce.svg"}}]);

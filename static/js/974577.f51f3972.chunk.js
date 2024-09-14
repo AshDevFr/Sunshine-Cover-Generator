@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[974577],{974577:(e,s,a)=>{e.exports=a.p+"static/media/music-off.2271507cfb3f0fc03d73.svg"}}]);

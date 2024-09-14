@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[807337],{807337:(e,a,s)=>{e.exports=s.p+"static/media/kayaking.916e4ff2fbfcbaa116bc.svg"}}]);

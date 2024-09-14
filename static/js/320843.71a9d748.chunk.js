@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[320843],{320843:(e,s,a)=>{e.exports=a.p+"static/media/cards-diamond-outline.814310f4e5a3e9d0a5ef.svg"}}]);

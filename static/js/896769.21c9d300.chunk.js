@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[896769],{896769:(e,s,a)=>{e.exports=a.p+"static/media/cabin-a-frame.e2573ce272b4df54bc1c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[659930],{659930:(e,s,a)=>{e.exports=a.p+"static/media/facebook-gaming.f1952c1523a714cd1926.svg"}}]);

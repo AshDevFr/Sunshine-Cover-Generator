@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[319898],{319898:(e,s,a)=>{e.exports=a.p+"static/media/dolby.6ee7fa7eee108aa9e507.svg"}}]);

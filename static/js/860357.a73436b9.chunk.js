@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[860357],{860357:(e,s,a)=>{e.exports=a.p+"static/media/format-letter-case.39c2a517711d4cf90088.svg"}}]);

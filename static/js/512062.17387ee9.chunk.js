@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[512062],{512062:(e,a,s)=>{e.exports=s.p+"static/media/battery-alert.2cb572c90a6059de6b2a.svg"}}]);

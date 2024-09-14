@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[748310],{748310:(e,s,a)=>{e.exports=a.p+"static/media/leaf-off.26c6e1721013f6d9167a.svg"}}]);

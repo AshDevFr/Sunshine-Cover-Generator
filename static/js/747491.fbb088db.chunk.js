@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[747491],{747491:(e,s,a)=>{e.exports=a.p+"static/media/volume-plus.288526ae571ec72cd941.svg"}}]);

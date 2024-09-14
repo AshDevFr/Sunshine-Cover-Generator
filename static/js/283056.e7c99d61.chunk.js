@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[283056],{283056:(e,s,a)=>{e.exports=a.p+"static/media/folder-music.cd7248e4c9ee8cdf945b.svg"}}]);

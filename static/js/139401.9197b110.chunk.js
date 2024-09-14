@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[139401],{139401:(e,s,a)=>{e.exports=a.p+"static/media/umbrella-closed.7a10479fea03fb519bed.svg"}}]);

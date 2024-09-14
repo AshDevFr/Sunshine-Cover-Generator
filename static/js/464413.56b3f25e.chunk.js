@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[464413],{464413:(e,s,a)=>{e.exports=a.p+"static/media/vector-polyline-plus.ae22c4aec0c80532c724.svg"}}]);

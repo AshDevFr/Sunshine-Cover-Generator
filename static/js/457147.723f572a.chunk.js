@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[457147],{457147:(e,s,a)=>{e.exports=a.p+"static/media/cellphone-remove.bd4bf918bf3e2b0a6779.svg"}}]);

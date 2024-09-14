@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[935311],{935311:(e,s,a)=>{e.exports=a.p+"static/media/hand-back-left-off.ee35e994a7220df356d4.svg"}}]);

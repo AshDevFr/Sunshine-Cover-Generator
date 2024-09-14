@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[994831],{994831:(e,s,a)=>{e.exports=a.p+"static/media/truck-trailer.41fcd850993f2b569d95.svg"}}]);

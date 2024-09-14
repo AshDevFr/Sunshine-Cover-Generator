@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[272613],{272613:(e,a,s)=>{e.exports=s.p+"static/media/fridge-variant-alert-outline.a10b29864397b1b8fb91.svg"}}]);

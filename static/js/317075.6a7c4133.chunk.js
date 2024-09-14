@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[317075],{317075:(e,s,a)=>{e.exports=a.p+"static/media/salesforce.5f33958308119e81a606.svg"}}]);

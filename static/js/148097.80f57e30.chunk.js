@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[148097],{148097:(e,a,s)=>{e.exports=s.p+"static/media/umbraco.3aa00f5520aab0ca781f.svg"}}]);

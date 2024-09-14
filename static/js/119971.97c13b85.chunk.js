@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[119971],{119971:(e,s,a)=>{e.exports=a.p+"static/media/camera-wireless-outline.b61631c8aa473ab28273.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[931837],{931837:(e,s,a)=>{e.exports=a.p+"static/media/clock-minus.d6782a1a78b279e4a405.svg"}}]);

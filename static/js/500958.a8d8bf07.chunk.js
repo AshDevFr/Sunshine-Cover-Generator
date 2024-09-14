@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[500958],{500958:(e,s,n)=>{e.exports=n.p+"static/media/button-pointer.59d85836370e4e9fab19.svg"}}]);

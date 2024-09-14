@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[217200],{217200:(e,s,a)=>{e.exports=a.p+"static/media/heat-wave.72be62130f237f1e514d.svg"}}]);

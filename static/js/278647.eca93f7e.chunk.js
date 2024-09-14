@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[278647],{278647:(e,s,a)=>{e.exports=a.p+"static/media/form-textbox.572c3aa8e016674f3462.svg"}}]);

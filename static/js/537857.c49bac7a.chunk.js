@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[537857],{537857:(e,s,i)=>{e.exports=i.p+"static/media/file-powerpoint-outline.7f1d4c000b07d214f93a.svg"}}]);

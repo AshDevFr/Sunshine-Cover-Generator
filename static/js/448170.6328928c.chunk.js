@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[448170],{448170:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-water.79391eecd253b4ac7043.svg"}}]);

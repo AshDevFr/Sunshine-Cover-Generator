@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[683397],{683397:(e,s,a)=>{e.exports=a.p+"static/media/water-off.ee8fc05d135693a019e6.svg"}}]);

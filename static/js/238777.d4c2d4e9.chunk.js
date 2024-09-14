@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[238777],{238777:(e,s,a)=>{e.exports=a.p+"static/media/chess-pawn.ce713b809d8bb407321a.svg"}}]);

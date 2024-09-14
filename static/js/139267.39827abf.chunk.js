@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[139267],{139267:(e,s,a)=>{e.exports=a.p+"static/media/lightbulb-group-off.4800f91c4f21d1398c47.svg"}}]);

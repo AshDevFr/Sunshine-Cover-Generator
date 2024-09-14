@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[490837],{490837:(e,a,s)=>{e.exports=s.p+"static/media/car-info.a550de70ac9a02964278.svg"}}]);

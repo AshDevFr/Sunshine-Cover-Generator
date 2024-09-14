@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[411323],{411323:(e,s,a)=>{e.exports=a.p+"static/media/arrow-up-bold-hexagon-outline.fcce3b1efbdf8e4b74cc.svg"}}]);

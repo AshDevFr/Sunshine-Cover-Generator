@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[18759],{18759:(e,s,a)=>{e.exports=a.p+"static/media/cart-heart.1f9ee4252d8192ae5f53.svg"}}]);

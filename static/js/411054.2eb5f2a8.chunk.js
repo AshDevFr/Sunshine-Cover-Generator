@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[411054],{411054:(e,s,a)=>{e.exports=a.p+"static/media/power-cycle.7fffe08ea8ee4e9f72d3.svg"}}]);

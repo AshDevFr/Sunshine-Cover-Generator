@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[949784],{949784:(e,s,a)=>{e.exports=a.p+"static/media/egg-easter.0a60444153759bab4a31.svg"}}]);

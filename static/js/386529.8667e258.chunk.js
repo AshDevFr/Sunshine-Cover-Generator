@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[386529],{386529:(e,s,a)=>{e.exports=a.p+"static/media/map-plus.f4ec6e265bc5dd34c8cb.svg"}}]);

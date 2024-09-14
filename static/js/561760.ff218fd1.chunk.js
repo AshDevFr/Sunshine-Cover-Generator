@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[561760],{561760:(e,s,n)=>{e.exports=n.p+"static/media/account-injury-outline.32d1136df07c5500be75.svg"}}]);

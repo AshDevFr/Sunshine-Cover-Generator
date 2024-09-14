@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[821538],{821538:(e,s,a)=>{e.exports=a.p+"static/media/briefcase-download-outline.21ac00dc45cd97260161.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[978030],{978030:(e,s,a)=>{e.exports=a.p+"static/media/wallpaper.467f316dfa8d961dfc26.svg"}}]);

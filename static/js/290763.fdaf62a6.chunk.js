@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[290763],{290763:(e,s,a)=>{e.exports=a.p+"static/media/movie-open-star-outline.d6c3aac161dadc3f15e0.svg"}}]);

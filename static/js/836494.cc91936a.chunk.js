@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[836494],{836494:(e,s,a)=>{e.exports=a.p+"static/media/ambulance.6b8ab687b911bbf91814.svg"}}]);

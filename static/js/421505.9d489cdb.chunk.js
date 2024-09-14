@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[421505],{421505:(e,a,s)=>{e.exports=s.p+"static/media/database-alert-outline.70f474ca6e60223e28dc.svg"}}]);

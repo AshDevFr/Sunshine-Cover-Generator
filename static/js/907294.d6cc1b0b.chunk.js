@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[907294],{907294:(e,s,a)=>{e.exports=a.p+"static/media/city-switch.2f629ac2a126202cfc93.svg"}}]);

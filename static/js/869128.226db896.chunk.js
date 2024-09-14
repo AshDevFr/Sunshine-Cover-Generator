@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[869128],{869128:(e,s,n)=>{e.exports=n.p+"static/media/currency-cny.d3b94c64257b9996d5a9.svg"}}]);

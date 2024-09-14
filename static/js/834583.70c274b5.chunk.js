@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[834583],{834583:(e,s,a)=>{e.exports=a.p+"static/media/thermostat-cog.9411adde94ab0f886373.svg"}}]);

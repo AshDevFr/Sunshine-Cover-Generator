@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[694679],{694679:(e,s,a)=>{e.exports=a.p+"static/media/bluetooth-audio.c187c8e5fd08d0b27718.svg"}}]);

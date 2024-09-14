@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[912797],{912797:(e,a,s)=>{e.exports=s.p+"static/media/comma-box.8de8917d948d04a15eaa.svg"}}]);

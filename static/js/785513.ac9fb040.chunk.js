@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[785513],{785513:(e,s,a)=>{e.exports=a.p+"static/media/blood-bag.b025af3ede550ee2456d.svg"}}]);

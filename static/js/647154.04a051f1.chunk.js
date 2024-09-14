@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[647154],{647154:(e,s,a)=>{e.exports=a.p+"static/media/axis-x-y-arrow-lock.cce165772bf5029a8a0d.svg"}}]);

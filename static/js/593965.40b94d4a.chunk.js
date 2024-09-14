@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[593965],{593965:(e,s,a)=>{e.exports=a.p+"static/media/saxophone.467296a169636d0948df.svg"}}]);

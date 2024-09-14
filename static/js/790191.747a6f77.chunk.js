@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[790191],{790191:(e,s,a)=>{e.exports=a.p+"static/media/format-quote-close.a502adaf87ee7d39b13f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[268833],{268833:(e,s,a)=>{e.exports=a.p+"static/media/fruit-pear.c8a4bd947cf64d441ec4.svg"}}]);

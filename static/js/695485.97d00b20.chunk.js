@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[695485],{695485:(e,s,a)=>{e.exports=a.p+"static/media/gog.25d6df29340b9974e4c7.svg"}}]);

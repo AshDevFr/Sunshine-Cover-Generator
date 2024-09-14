@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[911856],{911856:(e,s,a)=>{e.exports=a.p+"static/media/radiator-off.265e5e2c16123da8055f.svg"}}]);

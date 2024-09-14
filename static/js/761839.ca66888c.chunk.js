@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[761839],{761839:(e,s,n)=>{e.exports=n.p+"static/media/snowman.47d2f3beedd832377bdc.svg"}}]);

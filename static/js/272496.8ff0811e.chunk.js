@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[272496],{272496:(e,s,n)=>{e.exports=n.p+"static/media/penguin.0698c249fde2864607fd.svg"}}]);

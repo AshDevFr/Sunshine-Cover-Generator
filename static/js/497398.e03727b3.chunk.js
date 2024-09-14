@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[497398],{497398:(e,s,a)=>{e.exports=a.p+"static/media/angle-acute.74d361ee952dad02dc62.svg"}}]);

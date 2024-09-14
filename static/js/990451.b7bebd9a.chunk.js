@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[990451],{990451:(e,s,a)=>{e.exports=a.p+"static/media/archive-cancel.90e6ca63b7873d1243c2.svg"}}]);

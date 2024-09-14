@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[681096],{681096:(e,s,a)=>{e.exports=a.p+"static/media/lan-connect.aa3550e0feeb849422fc.svg"}}]);

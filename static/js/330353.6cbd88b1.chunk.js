@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[330353],{330353:(e,s,a)=>{e.exports=a.p+"static/media/train-car-box-full.a65b3e22c72569274c5e.svg"}}]);

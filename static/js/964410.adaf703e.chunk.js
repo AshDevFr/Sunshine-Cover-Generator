@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[964410],{964410:(e,s,a)=>{e.exports=a.p+"static/media/format-list-bulleted.7c8f3945f06ef646dead.svg"}}]);

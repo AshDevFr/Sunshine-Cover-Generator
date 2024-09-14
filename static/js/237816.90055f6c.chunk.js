@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[237816],{237816:(e,s,t)=>{e.exports=t.p+"static/media/kettlebell.6c6f2f0472f1fcf953e5.svg"}}]);

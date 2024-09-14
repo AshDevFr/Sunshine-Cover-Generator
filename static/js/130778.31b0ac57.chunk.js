@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[130778],{130778:(e,s,a)=>{e.exports=a.p+"static/media/guitar-electric.027f6e0a12b017c7af42.svg"}}]);

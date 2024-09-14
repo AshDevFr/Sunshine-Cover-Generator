@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[38565],{38565:(e,c,s)=>{e.exports=s.p+"static/media/alpha-i-circle.c0a8c68c024c0dc8cdc5.svg"}}]);

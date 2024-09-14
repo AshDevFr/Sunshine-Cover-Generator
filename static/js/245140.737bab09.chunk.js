@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[245140],{245140:(e,s,a)=>{e.exports=a.p+"static/media/baby-bottle-outline.641c00df48d4916575a9.svg"}}]);

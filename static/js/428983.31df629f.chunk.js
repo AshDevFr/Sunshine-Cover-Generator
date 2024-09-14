@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[428983],{428983:(e,a,s)=>{e.exports=s.p+"static/media/cone.5fef02d89a5033a6aa15.svg"}}]);

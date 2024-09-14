@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[622852],{622852:(e,s,a)=>{e.exports=a.p+"static/media/kettle-steam.f5758d4fa42551125bf3.svg"}}]);

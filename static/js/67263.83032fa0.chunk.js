@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[67263],{67263:(e,s,a)=>{e.exports=a.p+"static/media/chair-rolling.0df3c26d6565a91e5b35.svg"}}]);

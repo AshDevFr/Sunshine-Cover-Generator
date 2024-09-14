@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[301056],{301056:(e,s,i)=>{e.exports=i.p+"static/media/office-building-plus.e6a516f62e1eb54ceb14.svg"}}]);

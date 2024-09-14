@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[52879],{52879:(e,s,a)=>{e.exports=a.p+"static/media/music-clef-alto.dd60376683605e9cdb23.svg"}}]);

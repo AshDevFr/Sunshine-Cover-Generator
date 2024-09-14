@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[619492],{619492:(e,s,n)=>{e.exports=n.p+"static/media/folder-key-network-outline.4e9928fbd966177d265d.svg"}}]);

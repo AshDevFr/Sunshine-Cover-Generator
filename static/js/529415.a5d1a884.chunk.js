@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[529415],{529415:(e,s,a)=>{e.exports=a.p+"static/media/stethoscope.653c5d3092affdb10876.svg"}}]);

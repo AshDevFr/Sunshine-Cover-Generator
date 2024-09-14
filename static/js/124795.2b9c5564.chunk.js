@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[124795],{124795:(e,s,a)=>{e.exports=a.p+"static/media/wifi-strength-off.3bf57f1f041daee8f818.svg"}}]);

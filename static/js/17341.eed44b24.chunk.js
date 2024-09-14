@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[17341],{17341:(e,s,a)=>{e.exports=a.p+"static/media/contactless-payment-circle.ce54bbb02dab1faac01c.svg"}}]);

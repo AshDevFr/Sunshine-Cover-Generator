@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[296177],{296177:(e,s,n)=>{e.exports=n.p+"static/media/file-undo.ef1c654e71d502fc4221.svg"}}]);

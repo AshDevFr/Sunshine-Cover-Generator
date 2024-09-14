@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[227356],{227356:(e,s,a)=>{e.exports=a.p+"static/media/van-passenger.1fcc68c90627f590f922.svg"}}]);

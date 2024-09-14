@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[837832],{837832:(e,s,a)=>{e.exports=a.p+"static/media/food-fork-drink.601daf5a20c4d71e9b36.svg"}}]);

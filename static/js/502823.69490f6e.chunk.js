@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[502823],{502823:(e,a,s)=>{e.exports=s.p+"static/media/label-variant-outline.35f110db1d068418bac2.svg"}}]);

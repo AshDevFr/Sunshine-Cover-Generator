@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[976724],{976724:(e,s,a)=>{e.exports=a.p+"static/media/professional-hexagon.098b5e92224b7c2e21df.svg"}}]);

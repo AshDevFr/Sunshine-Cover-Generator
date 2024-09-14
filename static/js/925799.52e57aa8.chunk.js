@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[925799],{925799:(e,s,a)=>{e.exports=a.p+"static/media/label-percent-outline.f43f5bc79ba21e04d792.svg"}}]);

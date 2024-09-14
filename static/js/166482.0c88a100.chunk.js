@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[166482],{166482:(e,s,a)=>{e.exports=a.p+"static/media/call-made.f9e68fd4378bdb40b241.svg"}}]);

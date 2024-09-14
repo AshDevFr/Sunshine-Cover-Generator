@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[335579],{335579:(e,s,a)=>{e.exports=a.p+"static/media/piano.b0bb3c8b8f4345d2b273.svg"}}]);

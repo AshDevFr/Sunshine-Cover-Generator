@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[129126],{129126:(e,s,a)=>{e.exports=a.p+"static/media/text-shadow.0133f16d880ba96c1b41.svg"}}]);

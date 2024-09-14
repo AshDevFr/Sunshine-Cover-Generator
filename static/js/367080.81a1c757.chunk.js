@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[367080],{367080:(e,a,s)=>{e.exports=s.p+"static/media/step-backward.6fc4d6ab07d6ab0706a5.svg"}}]);

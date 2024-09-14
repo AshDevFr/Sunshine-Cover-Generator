@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[230557],{230557:(e,s,a)=>{e.exports=a.p+"static/media/checkbook-arrow-left.80b2d601ff05482c0c8c.svg"}}]);

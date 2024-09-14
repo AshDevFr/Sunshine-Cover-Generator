@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[583555],{583555:(e,s,a)=>{e.exports=a.p+"static/media/bowl-mix.5ed8b173d40ca789e00a.svg"}}]);

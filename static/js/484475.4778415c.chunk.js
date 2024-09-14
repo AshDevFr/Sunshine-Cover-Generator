@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[484475],{484475:(e,a,s)=>{e.exports=s.p+"static/media/cake-variant-outline.7dd06fca4ccf5fd78b93.svg"}}]);

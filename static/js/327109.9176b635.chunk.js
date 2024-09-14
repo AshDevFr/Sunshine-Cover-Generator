@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[327109],{327109:(e,s,a)=>{e.exports=a.p+"static/media/robot-dead.6450455cc66604f89068.svg"}}]);

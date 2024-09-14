@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[30236],{30236:(e,s,t)=>{e.exports=t.p+"static/media/turtle.894068cbdfb100c58f3f.svg"}}]);

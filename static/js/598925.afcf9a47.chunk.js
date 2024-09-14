@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[598925],{598925:(e,s,a)=>{e.exports=a.p+"static/media/stool.036a0a792902cd0c1a05.svg"}}]);

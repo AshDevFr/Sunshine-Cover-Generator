@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[298128],{298128:(e,s,a)=>{e.exports=a.p+"static/media/bed-outline.748136d936139fafc388.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[343332],{343332:(e,s,i)=>{e.exports=i.p+"static/media/dice-d12-outline.8c3060470bb874f70d9d.svg"}}]);

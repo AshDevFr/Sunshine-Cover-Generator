@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[379875],{379875:(e,a,s)=>{e.exports=s.p+"static/media/camera-image.9714520a3161f992a487.svg"}}]);

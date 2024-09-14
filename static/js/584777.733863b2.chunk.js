@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[584777],{584777:(e,s,a)=>{e.exports=a.p+"static/media/bus-articulated-end.ce2728cf7b83e10ce6e5.svg"}}]);

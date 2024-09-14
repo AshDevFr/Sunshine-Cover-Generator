@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[568159],{568159:(e,a,s)=>{e.exports=s.p+"static/media/printer-pos-play-outline.0ce990ec348a297aaf3a.svg"}}]);

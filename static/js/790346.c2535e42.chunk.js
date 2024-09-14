@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[790346],{790346:(e,s,a)=>{e.exports=a.p+"static/media/paper-cut-vertical.b213236b0f0f6cc51e48.svg"}}]);

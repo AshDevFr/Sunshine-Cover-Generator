@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[917692],{917692:(e,s,a)=>{e.exports=a.p+"static/media/instrument-triangle.1ad0165f056b9baac870.svg"}}]);

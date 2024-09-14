@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[146411],{146411:(e,s,a)=>{e.exports=a.p+"static/media/food-steak.a12ac60f74880759cf1a.svg"}}]);

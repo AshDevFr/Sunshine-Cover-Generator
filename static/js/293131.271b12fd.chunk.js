@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[293131],{293131:(e,s,t)=>{e.exports=t.p+"static/media/receipt-text-arrow-left-outline.5286076f65f3ab9c9d1b.svg"}}]);

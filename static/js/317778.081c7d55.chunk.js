@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[317778],{317778:(e,s,a)=>{e.exports=a.p+"static/media/food-takeout-box.d6cf518efb0325d86459.svg"}}]);

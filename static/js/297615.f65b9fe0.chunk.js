@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[297615],{297615:(e,s,a)=>{e.exports=a.p+"static/media/hockey-puck.67b416603cd08c3b6575.svg"}}]);

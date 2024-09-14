@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[558814],{558814:(e,a,s)=>{e.exports=s.p+"static/media/landslide.83375eaa4e73a98a203a.svg"}}]);

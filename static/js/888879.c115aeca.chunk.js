@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[888879],{888879:(e,s,n)=>{e.exports=n.p+"static/media/odnoklassniki.f95dd902d702d8421831.svg"}}]);

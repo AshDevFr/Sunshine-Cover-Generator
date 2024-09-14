@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[499865],{499865:(e,s,a)=>{e.exports=a.p+"static/media/scoreboard-outline.b43269d485dfafc1ae86.svg"}}]);

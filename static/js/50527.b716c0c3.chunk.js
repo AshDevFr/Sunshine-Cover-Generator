@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[50527],{50527:(e,s,a)=>{e.exports=a.p+"static/media/shuriken.cd4b39a2f79e8b9ce278.svg"}}]);

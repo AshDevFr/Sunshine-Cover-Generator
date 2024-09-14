@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[831682],{831682:(e,s,a)=>{e.exports=a.p+"static/media/bus-sign.7d63a409f17f3857cb78.svg"}}]);

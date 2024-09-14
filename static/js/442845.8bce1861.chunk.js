@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[442845],{442845:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-probe-off.2b9bb091eef098a0dede.svg"}}]);

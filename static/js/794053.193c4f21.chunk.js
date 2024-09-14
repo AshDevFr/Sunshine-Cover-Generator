@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[794053],{794053:(e,s,a)=>{e.exports=a.p+"static/media/bottle-soda-classic.42ee43e6de3c7121258d.svg"}}]);

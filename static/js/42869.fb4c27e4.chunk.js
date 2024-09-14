@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[42869],{42869:(e,s,a)=>{e.exports=a.p+"static/media/window-shutter-open.5abc2d90b9aa15ff2eb6.svg"}}]);

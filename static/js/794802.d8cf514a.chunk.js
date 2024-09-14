@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[794802],{794802:(e,a,s)=>{e.exports=s.p+"static/media/vector-circle-variant.efa71a29c32f45e377a1.svg"}}]);

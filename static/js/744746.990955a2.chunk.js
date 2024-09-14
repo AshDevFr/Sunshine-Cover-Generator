@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[744746],{744746:(e,s,a)=>{e.exports=a.p+"static/media/calendar-remove-outline.61f56c771390d1f61c69.svg"}}]);

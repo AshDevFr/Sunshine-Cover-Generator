@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[80812],{80812:(e,s,a)=>{e.exports=a.p+"static/media/file-chart-check.4da3261892610de40088.svg"}}]);

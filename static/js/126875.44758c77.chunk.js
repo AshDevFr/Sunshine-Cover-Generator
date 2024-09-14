@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[126875],{126875:(e,s,a)=>{e.exports=a.p+"static/media/playlist-star.0490dbb320d1936567e5.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[242805],{242805:(e,s,a)=>{e.exports=a.p+"static/media/crosshairs-off.546854a03508c40b5de3.svg"}}]);

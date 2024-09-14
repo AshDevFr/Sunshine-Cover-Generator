@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[366079],{366079:(e,s,a)=>{e.exports=a.p+"static/media/cloud-download-outline.ea6b11bb8e00cd3b6bd1.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[541322],{541322:(e,s,a)=>{e.exports=a.p+"static/media/skull-outline.b4ba7b18db72505630ad.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[560015],{560015:(e,s,a)=>{e.exports=a.p+"static/media/cash-off.47d1a769468d73878465.svg"}}]);

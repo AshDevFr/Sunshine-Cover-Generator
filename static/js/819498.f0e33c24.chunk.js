@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[819498],{819498:(e,s,a)=>{e.exports=a.p+"static/media/flower-outline.2cdf6982426e3c1f5a26.svg"}}]);

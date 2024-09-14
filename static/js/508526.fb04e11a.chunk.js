@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[508526],{508526:(e,s,a)=>{e.exports=a.p+"static/media/hand-clap.1b57c41eaeb3fc8d0033.svg"}}]);

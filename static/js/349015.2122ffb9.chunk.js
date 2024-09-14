@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[349015],{349015:(e,s,a)=>{e.exports=a.p+"static/media/arrow-oscillating-off.f32b97223910d7fb90b1.svg"}}]);

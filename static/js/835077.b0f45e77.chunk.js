@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[835077],{835077:(e,s,a)=>{e.exports=a.p+"static/media/mouse-variant.360372df772b660f8192.svg"}}]);

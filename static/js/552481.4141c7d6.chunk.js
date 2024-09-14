@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[552481],{552481:(e,s,a)=>{e.exports=a.p+"static/media/roller-shade-closed.d203715f311892e01f71.svg"}}]);

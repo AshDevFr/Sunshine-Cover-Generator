@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[51245],{51245:(e,s,a)=>{e.exports=a.p+"static/media/cellphone-marker.e337c661d7734c700027.svg"}}]);

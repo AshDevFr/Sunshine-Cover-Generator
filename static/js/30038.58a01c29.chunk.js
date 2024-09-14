@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[30038],{30038:(e,s,a)=>{e.exports=a.p+"static/media/contactless-payment.a7f09772d2c49ff73e90.svg"}}]);

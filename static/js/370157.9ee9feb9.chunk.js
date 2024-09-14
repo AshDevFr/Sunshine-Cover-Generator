@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[370157],{370157:(e,s,a)=>{e.exports=a.p+"static/media/floor-lamp-dual-outline.894ea6d3e531319ded7d.svg"}}]);

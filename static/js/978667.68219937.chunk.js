@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[978667],{978667:(e,s,a)=>{e.exports=a.p+"static/media/music-note-quarter.77f3141ee71d5faaa145.svg"}}]);

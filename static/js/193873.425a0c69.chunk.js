@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[193873],{193873:(e,a,s)=>{e.exports=s.p+"static/media/fraction-one-half.fb0ee0caaa17435ee06e.svg"}}]);

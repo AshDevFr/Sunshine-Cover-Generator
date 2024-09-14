@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[562122],{562122:(e,s,a)=>{e.exports=a.p+"static/media/delete-circle.191441a6efb84af7f0a9.svg"}}]);

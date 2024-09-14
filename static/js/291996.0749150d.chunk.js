@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[291996],{291996:(e,s,i)=>{e.exports=i.p+"static/media/minidisc.93d3839a7e236fdb3982.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[297062],{297062:(e,s,i)=>{e.exports=i.p+"static/media/pine-tree-fire.8990572605d5030435ec.svg"}}]);

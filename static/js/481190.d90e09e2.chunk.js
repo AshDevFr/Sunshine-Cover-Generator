@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[481190],{481190:(e,s,a)=>{e.exports=a.p+"static/media/shape-square-rounded-plus.51e8392af5cad44717ab.svg"}}]);

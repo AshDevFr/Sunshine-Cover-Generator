@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[318482],{318482:(e,s,a)=>{e.exports=a.p+"static/media/fan-plus.4c3e9098f144d03f4abe.svg"}}]);

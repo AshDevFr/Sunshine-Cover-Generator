@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[203472],{203472:(e,s,a)=>{e.exports=a.p+"static/media/cellphone-nfc.54afc9b88735deaae74f.svg"}}]);

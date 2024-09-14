@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[71176],{71176:(e,s,a)=>{e.exports=a.p+"static/media/betamax.0d9d356cca10c159848d.svg"}}]);

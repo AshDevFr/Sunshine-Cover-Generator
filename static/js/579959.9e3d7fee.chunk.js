@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[579959],{579959:(e,s,i)=>{e.exports=i.p+"static/media/timeline-remove-outline.4132ffd7d9d3af1e6622.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[645617],{645617:(e,s,a)=>{e.exports=a.p+"static/media/heat-pump.0d32747f7a8cd534194e.svg"}}]);

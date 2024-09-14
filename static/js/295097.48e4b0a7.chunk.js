@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[295097],{295097:(e,s,a)=>{e.exports=a.p+"static/media/gesture-spread.2ba812d69ce466f8c5a1.svg"}}]);

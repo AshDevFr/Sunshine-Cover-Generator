@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[996457],{996457:(a,e,s)=>{a.exports=s.p+"static/media/abjad-arabic.5abb7add225ba24a019e.svg"}}]);

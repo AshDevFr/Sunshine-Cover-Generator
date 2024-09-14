@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[365843],{365843:(e,s,a)=>{e.exports=a.p+"static/media/ferris-wheel.d5e615977a0c8917db8c.svg"}}]);

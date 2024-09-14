@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[875377],{875377:(e,s,a)=>{e.exports=a.p+"static/media/fireplace-off.48b741aebe41eba89448.svg"}}]);

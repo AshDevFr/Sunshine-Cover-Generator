@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[789922],{789922:(e,a,s)=>{e.exports=s.p+"static/media/motorbike-electric.bba19d74a8d286752a2a.svg"}}]);

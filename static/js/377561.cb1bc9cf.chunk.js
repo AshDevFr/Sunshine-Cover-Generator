@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[377561],{377561:(e,s,a)=>{e.exports=a.p+"static/media/fedora.2d98de4eb02044da6923.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[731209],{731209:(e,s,a)=>{e.exports=a.p+"static/media/tanker-truck.32ec30f6ef46b3f09f2c.svg"}}]);

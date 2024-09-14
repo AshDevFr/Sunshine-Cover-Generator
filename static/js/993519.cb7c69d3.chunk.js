@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[993519],{993519:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-onenote.d27f9040a031a17a5ce0.svg"}}]);

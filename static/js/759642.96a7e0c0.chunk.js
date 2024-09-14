@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[759642],{759642:(e,s,a)=>{e.exports=a.p+"static/media/cellphone-key.e0235c2129ac114930ff.svg"}}]);

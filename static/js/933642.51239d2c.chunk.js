@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[933642],{933642:(e,s,a)=>{e.exports=a.p+"static/media/pause-box.94bf796f4846ed946cd3.svg"}}]);

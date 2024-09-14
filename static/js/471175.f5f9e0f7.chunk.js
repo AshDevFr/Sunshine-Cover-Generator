@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[471175],{471175:(e,s,a)=>{e.exports=a.p+"static/media/diving-scuba-flag.3de52a9d8275f3b92614.svg"}}]);

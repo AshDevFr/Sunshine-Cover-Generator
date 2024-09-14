@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[615304],{615304:(e,s,a)=>{e.exports=a.p+"static/media/facebook-messenger.d457a9d173bd73791546.svg"}}]);

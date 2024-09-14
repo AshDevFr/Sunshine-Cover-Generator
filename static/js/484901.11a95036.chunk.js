@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[484901],{484901:(e,s,a)=>{e.exports=a.p+"static/media/wall-fire.0f05f24cd7cf5fc4bb13.svg"}}]);

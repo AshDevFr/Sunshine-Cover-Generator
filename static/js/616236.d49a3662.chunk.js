@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[616236],{616236:(e,s,a)=>{e.exports=a.p+"static/media/sticker-emoji.5d026d1b6daedbb5081a.svg"}}]);

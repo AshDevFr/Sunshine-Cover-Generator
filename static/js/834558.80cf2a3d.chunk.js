@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[834558],{834558:(e,s,n)=>{e.exports=n.p+"static/media/pine-tree-variant-outline.629bee699257f47ceb0c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[825645],{825645:(e,n,s)=>{e.exports=s.p+"static/media/phone-incoming-outgoing-outline.5a771cb7016b0af4fc5f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[268697],{268697:(e,s,a)=>{e.exports=a.p+"static/media/sticker-circle-outline.469a67ee0c44cae94906.svg"}}]);

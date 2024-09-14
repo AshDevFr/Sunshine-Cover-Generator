@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[803257],{803257:(e,s,a)=>{e.exports=a.p+"static/media/baseball-diamond.e0fd23d36fa64b0c0761.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[938888],{938888:(e,s,a)=>{e.exports=a.p+"static/media/blender-software.3c86c5c77e20f003b0ba.svg"}}]);

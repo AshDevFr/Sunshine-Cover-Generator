@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[57505],{57505:(e,s,a)=>{e.exports=a.p+"static/media/timetable.2985d883693763160264.svg"}}]);

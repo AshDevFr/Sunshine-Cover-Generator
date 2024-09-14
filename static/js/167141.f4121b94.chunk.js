@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[167141],{167141:(e,a,s)=>{e.exports=s.p+"static/media/panorama-wide-angle.e33d9b343310d1c389e3.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[964392],{964392:(e,s,a)=>{e.exports=a.p+"static/media/cordova.27ad1a25e62fbe8f17e2.svg"}}]);

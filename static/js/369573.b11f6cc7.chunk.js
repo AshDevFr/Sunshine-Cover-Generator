@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[369573],{369573:(e,s,a)=>{e.exports=a.p+"static/media/receipt-text-minus.e3bdacc82976ed829d7a.svg"}}]);

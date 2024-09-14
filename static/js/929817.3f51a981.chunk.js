@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[929817],{929817:(e,s,a)=>{e.exports=a.p+"static/media/television-stop.48ec267e55845302a753.svg"}}]);

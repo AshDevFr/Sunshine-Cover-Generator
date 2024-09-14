@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[374330],{374330:(e,a,s)=>{e.exports=s.p+"static/media/battery-charging-low.0da22365a8100d4f2e8c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[762450],{762450:(e,s,a)=>{e.exports=a.p+"static/media/redo.d09b9711ba8c79e747c4.svg"}}]);

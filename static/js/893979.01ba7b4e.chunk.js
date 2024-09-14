@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[893979],{893979:(e,s,a)=>{e.exports=a.p+"static/media/movie-edit.d333ca2acb875d50e4bd.svg"}}]);

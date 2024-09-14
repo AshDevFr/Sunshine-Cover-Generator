@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[948187],{948187:(e,s,a)=>{e.exports=a.p+"static/media/fit-to-screen-outline.a989a4fa55611793f155.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[984961],{984961:(e,s,n)=>{e.exports=n.p+"static/media/chevron-down-box-outline.7c8ab52830865db91310.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[925387],{925387:(e,s,a)=>{e.exports=a.p+"static/media/stove.78cab734690f25a8823d.svg"}}]);

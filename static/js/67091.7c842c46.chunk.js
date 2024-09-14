@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[67091],{67091:(e,s,t)=>{e.exports=t.p+"static/media/music-note-half-dotted.101f715eec8966e9c184.svg"}}]);

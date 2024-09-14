@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[406108],{406108:(e,s,a)=>{e.exports=a.p+"static/media/bicycle-basket.a703f3f92fa6e2b0271a.svg"}}]);

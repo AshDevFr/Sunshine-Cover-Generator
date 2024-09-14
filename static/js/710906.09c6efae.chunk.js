@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[710906],{710906:(e,a,s)=>{e.exports=s.p+"static/media/battery-arrow-down.a41df429f6be87f2aeb6.svg"}}]);

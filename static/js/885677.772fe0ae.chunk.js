@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[885677],{885677:(e,a,s)=>{e.exports=s.p+"static/media/language-markdown-outline.a49d4272920ea23a8a8f.svg"}}]);

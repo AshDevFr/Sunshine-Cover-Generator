@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[51110],{51110:(e,s,a)=>{e.exports=a.p+"static/media/billiards.fff9afee07ba70c1a779.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[266821],{266821:(e,s,a)=>{e.exports=a.p+"static/media/altimeter.55b98ed338955d74d046.svg"}}]);

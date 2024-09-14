@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[761628],{761628:(e,s,a)=>{e.exports=a.p+"static/media/chart-timeline-variant-shimmer.acce296985784ed59365.svg"}}]);

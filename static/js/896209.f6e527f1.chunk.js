@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[896209],{896209:(e,s,a)=>{e.exports=a.p+"static/media/shape-polygon-plus.cee17758730cb450d0cf.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[109260],{109260:(e,s,a)=>{e.exports=a.p+"static/media/baseball-diamond-outline.3ffd8ee523e95c462e9c.svg"}}]);

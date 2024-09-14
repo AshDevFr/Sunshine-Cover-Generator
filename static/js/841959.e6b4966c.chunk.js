@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[841959],{841959:(e,s,a)=>{e.exports=a.p+"static/media/radiology-box-outline.65fd691150d00fee2f72.svg"}}]);

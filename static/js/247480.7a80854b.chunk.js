@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[247480],{247480:(e,s,n)=>{e.exports=n.p+"static/media/shield-sync-outline.087287994df4c255ebfb.svg"}}]);

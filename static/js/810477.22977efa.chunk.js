@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[810477],{810477:(e,s,a)=>{e.exports=a.p+"static/media/step-forward-2.35a66fe90fe319dd3532.svg"}}]);

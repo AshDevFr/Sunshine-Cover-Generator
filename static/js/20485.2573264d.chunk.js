@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[20485],{20485:(e,s,a)=>{e.exports=a.p+"static/media/barley.b146b2eebc9f51fd1463.svg"}}]);

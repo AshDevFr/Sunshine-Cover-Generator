@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[836537],{836537:(e,s,a)=>{e.exports=a.p+"static/media/freebsd.53337983d64d2708d1a8.svg"}}]);

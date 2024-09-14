@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[102107],{102107:(e,s,a)=>{e.exports=a.p+"static/media/medical-cotton-swab.38fb524e9ffb062472dc.svg"}}]);

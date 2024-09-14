@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[6073],{6073:(e,s,a)=>{e.exports=a.p+"static/media/book-alert-outline.6550e05e15c70659a604.svg"}}]);

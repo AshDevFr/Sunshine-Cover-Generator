@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[65576],{65576:(e,s,a)=>{e.exports=a.p+"static/media/seat-outline.78688bdbdec0cec06d23.svg"}}]);

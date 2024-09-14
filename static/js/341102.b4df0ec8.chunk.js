@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[341102],{341102:(e,s,a)=>{e.exports=a.p+"static/media/eyedropper-remove.be74712cce1e06e784a9.svg"}}]);

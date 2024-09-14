@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[468815],{468815:(e,s,a)=>{e.exports=a.p+"static/media/cannabis.1e673b796be845372768.svg"}}]);

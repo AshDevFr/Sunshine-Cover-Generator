@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[448447],{448447:(e,s,t)=>{e.exports=t.p+"static/media/truck-fast-outline.f577658d0f26bc356b30.svg"}}]);

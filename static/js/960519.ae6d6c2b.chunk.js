@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[960519],{960519:(e,s,a)=>{e.exports=a.p+"static/media/map-marker-off.64c050ed69098a9c627b.svg"}}]);

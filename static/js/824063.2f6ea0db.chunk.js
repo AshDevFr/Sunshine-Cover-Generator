@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[824063],{824063:(e,s,a)=>{e.exports=a.p+"static/media/food-outline.39506b8caadb2e1e1f82.svg"}}]);

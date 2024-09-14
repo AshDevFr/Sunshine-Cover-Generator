@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[834267],{834267:(e,a,s)=>{e.exports=s.p+"static/media/cards-playing-diamond-multiple-outline.27912b5ba7d237d6f6a7.svg"}}]);

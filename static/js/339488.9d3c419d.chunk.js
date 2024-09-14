@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[339488],{339488:(e,s,a)=>{e.exports=a.p+"static/media/camcorder-off.e4a16f03d6c0b2f6e576.svg"}}]);

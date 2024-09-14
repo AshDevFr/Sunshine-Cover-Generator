@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[201894],{201894:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-dynamics-365.af16de31e502348c4b08.svg"}}]);

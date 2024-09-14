@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[949547],{949547:(e,s,a)=>{e.exports=a.p+"static/media/gesture-tap-hold.a82ca63a7bdd721034fc.svg"}}]);

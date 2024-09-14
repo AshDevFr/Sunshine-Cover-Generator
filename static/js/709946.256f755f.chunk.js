@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[709946],{709946:(e,s,a)=>{e.exports=a.p+"static/media/knob.9346ce338757595a19a2.svg"}}]);

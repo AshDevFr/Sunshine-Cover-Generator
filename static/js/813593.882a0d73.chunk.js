@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[813593],{813593:(e,s,n)=>{e.exports=n.p+"static/media/printer-off-outline.150a58bf288f84fce072.svg"}}]);

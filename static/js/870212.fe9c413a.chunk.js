@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[870212],{870212:(e,s,a)=>{e.exports=a.p+"static/media/alphabet-greek.7917aeb15b960f1d7be2.svg"}}]);

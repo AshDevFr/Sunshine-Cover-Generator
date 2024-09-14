@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[300016],{300016:(e,s,a)=>{e.exports=a.p+"static/media/truck-alert.6a4c3d5b91df064bb6a7.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[559704],{559704:(e,s,a)=>{e.exports=a.p+"static/media/tow-truck.e38626c4ac2a9ee2075b.svg"}}]);

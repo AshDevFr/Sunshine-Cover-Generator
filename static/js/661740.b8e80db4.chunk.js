@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[661740],{661740:(e,s,a)=>{e.exports=a.p+"static/media/compass-off.6687e4971fcd901b3614.svg"}}]);

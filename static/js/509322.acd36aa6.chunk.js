@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[509322],{509322:(e,s,a)=>{e.exports=a.p+"static/media/sofa-single.17a12ef94234fdd56704.svg"}}]);

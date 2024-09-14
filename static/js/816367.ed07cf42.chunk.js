@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[816367],{816367:(e,s,t)=>{e.exports=t.p+"static/media/battery-clock-outline.d42547ec6e5b591f3e9f.svg"}}]);

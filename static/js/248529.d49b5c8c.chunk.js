@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[248529],{248529:(e,s,a)=>{e.exports=a.p+"static/media/lectern.d661058649b4eaa1f184.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[463575],{463575:(e,s,a)=>{e.exports=a.p+"static/media/brightness-percent.f709adeb10e14962a167.svg"}}]);

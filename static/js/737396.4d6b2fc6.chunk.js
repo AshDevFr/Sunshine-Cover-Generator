@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[737396],{737396:(e,s,a)=>{e.exports=a.p+"static/media/sort-bool-ascending-variant.71cb06f76a1c61a629d8.svg"}}]);

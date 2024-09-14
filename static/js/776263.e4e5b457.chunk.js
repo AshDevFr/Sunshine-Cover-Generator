@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[776263],{776263:(e,s,a)=>{e.exports=a.p+"static/media/airballoon.c97c213dddf80730ef0e.svg"}}]);

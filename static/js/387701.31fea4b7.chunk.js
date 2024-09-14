@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[387701],{387701:(e,s,n)=>{e.exports=n.p+"static/media/printer-pos-alert-outline.45940ce324672913f080.svg"}}]);

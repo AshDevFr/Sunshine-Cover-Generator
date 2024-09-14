@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[455917],{455917:(e,s,a)=>{e.exports=a.p+"static/media/firework.b6838f023b1fd28e5336.svg"}}]);

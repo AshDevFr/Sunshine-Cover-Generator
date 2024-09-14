@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[42487],{42487:(e,s,a)=>{e.exports=a.p+"static/media/mirror-rectangle.da6cbac38b50e92d74db.svg"}}]);

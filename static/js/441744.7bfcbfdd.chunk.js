@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[441744],{441744:(e,a,s)=>{e.exports=s.p+"static/media/table-chair.c58fca605ea03c8d74ca.svg"}}]);

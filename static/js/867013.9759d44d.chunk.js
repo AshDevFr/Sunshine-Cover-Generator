@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[867013],{867013:(e,s,a)=>{e.exports=a.p+"static/media/lamp-outline.9870498e55eff5e92598.svg"}}]);

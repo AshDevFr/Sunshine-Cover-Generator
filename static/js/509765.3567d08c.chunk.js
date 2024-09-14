@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[509765],{509765:(e,s,i)=>{e.exports=i.p+"static/media/diving-flippers.9d8188cb153d2801414a.svg"}}]);

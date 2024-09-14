@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[79893],{79893:(e,s,n)=>{e.exports=n.p+"static/media/pinwheel-outline.c4ceb22f86f7636c6c2c.svg"}}]);

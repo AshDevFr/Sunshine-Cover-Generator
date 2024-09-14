@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[245266],{245266:(e,s,a)=>{e.exports=a.p+"static/media/skype.05ebcf5039e6ff30c53a.svg"}}]);

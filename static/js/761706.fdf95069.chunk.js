@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[761706],{761706:(e,a,s)=>{e.exports=s.p+"static/media/map-clock-outline.3bb7a32c7a160a26300b.svg"}}]);

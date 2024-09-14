@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[842730],{842730:(e,s,a)=>{e.exports=a.p+"static/media/triangle-wave.3bb0ad4c08680d7181cd.svg"}}]);

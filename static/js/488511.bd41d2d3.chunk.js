@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[488511],{488511:(e,s,a)=>{e.exports=a.p+"static/media/bus-double-decker.0497ebd31d959d39a05a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[421903],{421903:(e,s,a)=>{e.exports=a.p+"static/media/grave-stone.6a7334ad315d73871cfb.svg"}}]);

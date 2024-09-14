@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[663535],{663535:(e,s,a)=>{e.exports=a.p+"static/media/roller-skate-off.12c2dacde75cb679dcce.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[409217],{409217:(e,s,a)=>{e.exports=a.p+"static/media/oil-temperature.505e50e3cb8762752730.svg"}}]);

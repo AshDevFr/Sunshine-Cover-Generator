@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[976880],{976880:(e,s,c)=>{e.exports=c.p+"static/media/account-tie-voice-outline.b405b54cc7f8731e9c35.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[602886],{602886:(e,a,s)=>{e.exports=s.p+"static/media/train-car-flatbed.2918275612a51f75a029.svg"}}]);

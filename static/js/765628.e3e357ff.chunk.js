@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[765628],{765628:(e,a,s)=>{e.exports=s.p+"static/media/camera-retake.6213b1136282f51aaede.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[844867],{844867:(e,s,a)=>{e.exports=a.p+"static/media/bank-circle.798013d320524f82856e.svg"}}]);

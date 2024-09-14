@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[801700],{801700:(e,a,s)=>{e.exports=s.p+"static/media/weather-sunset-down.a77f6a9bfc78ce6a7ada.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[550306],{550306:(e,s,a)=>{e.exports=a.p+"static/media/magazine-pistol.4cd1805fe50e438e5610.svg"}}]);

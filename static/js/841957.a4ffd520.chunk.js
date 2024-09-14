@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[841957],{841957:(e,a,s)=>{e.exports=s.p+"static/media/format-page-break.4ce7394d41ba0cd46803.svg"}}]);

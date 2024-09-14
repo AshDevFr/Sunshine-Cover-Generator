@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[42348],{42348:(e,a,s)=>{e.exports=s.p+"static/media/truck-cargo-container.8ae07094a4eac97ca974.svg"}}]);

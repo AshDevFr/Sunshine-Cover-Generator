@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[342543],{342543:(e,s,a)=>{e.exports=a.p+"static/media/calendar-star.21058609c8e5d2e1070f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[622933],{622933:(e,s,a)=>{e.exports=a.p+"static/media/fridge-variant.c0c514eee2dfb521a36e.svg"}}]);

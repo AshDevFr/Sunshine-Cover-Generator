@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[145655],{145655:(e,s,a)=>{e.exports=a.p+"static/media/briefcase-arrow-up-down.197a60d92dc577cf9b00.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[209850],{209850:(e,s,a)=>{e.exports=a.p+"static/media/temple-buddhist-outline.5c5456d7444a7bf831ab.svg"}}]);

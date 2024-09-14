@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[276474],{276474:(e,s,a)=>{e.exports=a.p+"static/media/microphone-off.82f5e0220b7ea918bfd7.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[943550],{943550:(e,a,s)=>{e.exports=s.p+"static/media/calendar-expand-horizontal.cd2a62433d7a854265e2.svg"}}]);

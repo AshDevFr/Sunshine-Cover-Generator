@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[937237],{937237:(e,s,a)=>{e.exports=a.p+"static/media/bell-alert-outline.766a13dfb357e53c2159.svg"}}]);

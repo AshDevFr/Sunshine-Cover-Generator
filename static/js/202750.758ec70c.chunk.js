@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[202750],{202750:(e,s,a)=>{e.exports=a.p+"static/media/folder-clock-outline.e7a4501713b1b0927b88.svg"}}]);

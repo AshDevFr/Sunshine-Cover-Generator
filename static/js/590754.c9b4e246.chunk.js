@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[590754],{590754:(e,s,n)=>{e.exports=n.p+"static/media/hand-coin-outline.32b77eedd9e70180b791.svg"}}]);

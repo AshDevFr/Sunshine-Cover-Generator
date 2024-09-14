@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[315018],{315018:(e,s,a)=>{e.exports=a.p+"static/media/car-seat.c33037bfb731c7b59a6c.svg"}}]);

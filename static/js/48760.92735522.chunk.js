@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[48760],{48760:(e,s,i)=>{e.exports=i.p+"static/media/invoice-remove.345922220f6c4294bb48.svg"}}]);

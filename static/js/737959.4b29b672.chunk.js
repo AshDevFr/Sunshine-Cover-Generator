@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[737959],{737959:(e,s,a)=>{e.exports=a.p+"static/media/snowflake-check.e353f739e889c87153c4.svg"}}]);

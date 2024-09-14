@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[722134],{722134:(e,s,a)=>{e.exports=a.p+"static/media/bell-cog-outline.28cf4967b7ae640f0a51.svg"}}]);

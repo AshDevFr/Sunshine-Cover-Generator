@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[323109],{323109:(e,s,a)=>{e.exports=a.p+"static/media/screw-round-top.b59ccc3bc1ffeab2fdca.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[904334],{904334:(e,s,a)=>{e.exports=a.p+"static/media/lighthouse.bcb04f5406b8faa206a6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[740474],{740474:(e,s,a)=>{e.exports=a.p+"static/media/draw-pen.35159fdeb6176de65cb4.svg"}}]);

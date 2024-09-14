@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[427280],{427280:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-off.b098f66243ba96e8e5af.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[518714],{518714:(e,s,a)=>{e.exports=a.p+"static/media/power-socket-eu.56f0ed289657dafe9141.svg"}}]);

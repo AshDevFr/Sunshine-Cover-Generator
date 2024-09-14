@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[496097],{496097:(e,s,a)=>{e.exports=a.p+"static/media/octagon.3618cbd6dabe263c8ed8.svg"}}]);

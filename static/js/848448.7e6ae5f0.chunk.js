@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[848448],{848448:(e,a,s)=>{e.exports=s.p+"static/media/trackpad-lock.5b49484bb1897b4a8fa2.svg"}}]);

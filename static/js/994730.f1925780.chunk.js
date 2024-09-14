@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[994730],{994730:(e,s,a)=>{e.exports=a.p+"static/media/virtual-reality.4340db92c7448c2dc2a4.svg"}}]);

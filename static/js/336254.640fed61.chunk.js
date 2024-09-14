@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[336254],{336254:(e,a,s)=>{e.exports=s.p+"static/media/wifi-marker.4aa4f99a9803a16c681f.svg"}}]);

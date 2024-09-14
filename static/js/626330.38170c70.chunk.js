@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[626330],{626330:(e,s,t)=>{e.exports=t.p+"static/media/bottle-tonic-skull.2e91dbd7287d6e7b55db.svg"}}]);

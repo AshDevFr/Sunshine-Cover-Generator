@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[995709],{995709:(e,s,a)=>{e.exports=a.p+"static/media/email-open-heart-outline.b05d5c287e0747c28767.svg"}}]);

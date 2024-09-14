@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[791700],{791700:(e,a,s)=>{e.exports=s.p+"static/media/camera-rear.fd7e4b6e8951aa474b7b.svg"}}]);

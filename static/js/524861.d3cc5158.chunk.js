@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[524861],{524861:(e,s,a)=>{e.exports=a.p+"static/media/space-station.94403bd707981d2ec200.svg"}}]);

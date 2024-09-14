@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[437374],{437374:(e,s,a)=>{e.exports=a.p+"static/media/bike-fast.e3826680b643901d96f1.svg"}}]);

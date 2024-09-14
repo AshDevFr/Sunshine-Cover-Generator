@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[359128],{359128:(e,s,i)=>{e.exports=i.p+"static/media/view-quilt-outline.868be939ed695f4506e3.svg"}}]);

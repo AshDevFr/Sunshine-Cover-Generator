@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[32928],{32928:(e,s,n)=>{e.exports=n.p+"static/media/contacts-outline.12354130f6e772193289.svg"}}]);

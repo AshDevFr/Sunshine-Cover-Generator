@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[661467],{661467:(e,a,s)=>{e.exports=s.p+"static/media/human-baby-changing-table.b8694d23bf1a0d7e1e22.svg"}}]);

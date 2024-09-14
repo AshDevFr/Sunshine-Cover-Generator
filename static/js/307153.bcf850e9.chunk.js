@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[307153],{307153:(e,s,a)=>{e.exports=a.p+"static/media/passport-biometric.5ffe4d0b66b62541028c.svg"}}]);

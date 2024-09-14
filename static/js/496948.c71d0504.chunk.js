@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[496948],{496948:(e,s,a)=>{e.exports=a.p+"static/media/ghost-off-outline.4380005e6d749b4cf9a6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[906160],{906160:(e,s,a)=>{e.exports=a.p+"static/media/robot-happy-outline.d311c72fb69df655cf20.svg"}}]);

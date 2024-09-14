@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[41390],{41390:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-outlook.9b7c935c35ab7affe965.svg"}}]);

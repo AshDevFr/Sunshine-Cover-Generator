@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[653632],{653632:(e,s,a)=>{e.exports=a.p+"static/media/vector-radius.27a1f3542fadf4878b4d.svg"}}]);

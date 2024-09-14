@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[76235],{76235:(e,s,c)=>{e.exports=c.p+"static/media/chart-tree.cfcb6c37d45f1f1c2cc1.svg"}}]);

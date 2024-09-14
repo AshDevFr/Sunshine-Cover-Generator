@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[433978],{433978:(e,s,a)=>{e.exports=a.p+"static/media/label-off.f77f18b263f48660c993.svg"}}]);

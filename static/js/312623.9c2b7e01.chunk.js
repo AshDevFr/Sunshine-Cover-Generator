@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[312623],{312623:(e,s,a)=>{e.exports=a.p+"static/media/cube-unfolded.e99c6f0d3aa002b61ff2.svg"}}]);

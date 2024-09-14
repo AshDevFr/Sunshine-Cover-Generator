@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[405684],{405684:(e,a,s)=>{e.exports=s.p+"static/media/audio-input-rca.ea1357345f55d41f81da.svg"}}]);

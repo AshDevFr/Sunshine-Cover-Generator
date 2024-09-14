@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[551552],{551552:(e,s,c)=>{e.exports=c.p+"static/media/account-voice.fc116cf4c523b3036748.svg"}}]);

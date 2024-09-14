@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[592917],{592917:(e,a,s)=>{e.exports=s.p+"static/media/car-brake-temperature.f3130c4c950eabffa345.svg"}}]);

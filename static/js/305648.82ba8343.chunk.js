@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[305648],{305648:(e,s,a)=>{e.exports=a.p+"static/media/wallet-travel.9dcbb394ae01e385e936.svg"}}]);

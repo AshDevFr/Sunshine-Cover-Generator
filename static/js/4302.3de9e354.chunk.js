@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[4302],{4302:(e,s,a)=>{e.exports=a.p+"static/media/battery-high.708651372204f9b24c0e.svg"}}]);

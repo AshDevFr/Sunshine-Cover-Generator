@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[791769],{791769:(e,s,a)=>{e.exports=a.p+"static/media/land-plots-circle.3d25b3ea8b65eee34691.svg"}}]);

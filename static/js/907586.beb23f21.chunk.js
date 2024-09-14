@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[907586],{907586:(e,s,a)=>{e.exports=a.p+"static/media/electric-switch.0e7746a92c7d803578df.svg"}}]);

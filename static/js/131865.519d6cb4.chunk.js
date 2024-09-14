@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[131865],{131865:(e,s,a)=>{e.exports=a.p+"static/media/book-arrow-right-outline.906f8136a37f1ff76b6a.svg"}}]);

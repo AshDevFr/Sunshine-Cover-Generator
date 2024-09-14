@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[980490],{980490:(e,s,a)=>{e.exports=a.p+"static/media/code-parentheses.e14acd4c357b7299f110.svg"}}]);

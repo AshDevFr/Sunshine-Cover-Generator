@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[979719],{979719:(e,s,a)=>{e.exports=a.p+"static/media/passport-plus.8ec110fd04c2271d81be.svg"}}]);

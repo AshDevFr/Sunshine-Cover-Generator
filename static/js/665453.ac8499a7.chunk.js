@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[665453],{665453:(e,a,s)=>{e.exports=s.p+"static/media/camera-marker-outline.a968bb4d4579824aff1e.svg"}}]);

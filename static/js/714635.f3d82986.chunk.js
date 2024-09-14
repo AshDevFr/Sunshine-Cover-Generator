@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[714635],{714635:(e,s,a)=>{e.exports=a.p+"static/media/abacus.f1425b9ab01b18fd74ba.svg"}}]);

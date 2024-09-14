@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[520357],{520357:(e,s,t)=>{e.exports=t.p+"static/media/music-note-whole-dotted.27c0c1a7153961d8ef87.svg"}}]);

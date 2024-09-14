@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[636733],{636733:(e,s,a)=>{e.exports=a.p+"static/media/ruler-square-compass.8d3992a536a72fbc870d.svg"}}]);

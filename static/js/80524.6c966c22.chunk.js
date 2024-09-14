@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[80524],{80524:(e,s,a)=>{e.exports=a.p+"static/media/file-powerpoint-box.ee0b1af313c4d3fc6de2.svg"}}]);

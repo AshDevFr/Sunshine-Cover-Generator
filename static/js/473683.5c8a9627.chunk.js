@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[473683],{473683:(e,s,a)=>{e.exports=a.p+"static/media/tumble-dryer-alert.f9e531f4f30c9139f6dd.svg"}}]);

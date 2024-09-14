@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[181736],{181736:(e,s,n)=>{e.exports=n.p+"static/media/fountain-pen-tip.6e609467810025082022.svg"}}]);

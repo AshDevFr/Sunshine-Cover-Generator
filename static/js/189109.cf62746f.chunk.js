@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[189109],{189109:(e,s,a)=>{e.exports=a.p+"static/media/pencil-off.8698830ecb0d7add3219.svg"}}]);

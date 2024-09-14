@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[141595],{141595:(e,s,a)=>{e.exports=a.p+"static/media/moped-electric.70a3200cf075da6458ea.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[36908],{36908:(e,s,a)=>{e.exports=a.p+"static/media/credit-card-wireless-off-outline.61e25d53823b0a56a7f9.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[757643],{757643:(e,s,a)=>{e.exports=a.p+"static/media/hair-dryer.385bd542038fc05b357a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[267183],{267183:(e,s,n)=>{e.exports=n.p+"static/media/fan-chevron-up.9e619c9d363195b59893.svg"}}]);

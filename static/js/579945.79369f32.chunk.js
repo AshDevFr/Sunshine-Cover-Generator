@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[579945],{579945:(e,s,a)=>{e.exports=a.p+"static/media/hat-fedora.435929362d50fe770e79.svg"}}]);

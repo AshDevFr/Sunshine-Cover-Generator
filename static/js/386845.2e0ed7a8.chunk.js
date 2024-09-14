@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[386845],{386845:(e,s,a)=>{e.exports=a.p+"static/media/skull-scan.6ccf3c1865dc477e844a.svg"}}]);

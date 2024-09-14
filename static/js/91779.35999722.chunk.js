@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[91779],{91779:(e,s,a)=>{e.exports=a.p+"static/media/knife.5665f423012a17a4fb40.svg"}}]);

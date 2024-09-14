@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[985941],{985941:(e,s,n)=>{e.exports=n.p+"static/media/file-percent-outline.260a4188eec5d31f036f.svg"}}]);

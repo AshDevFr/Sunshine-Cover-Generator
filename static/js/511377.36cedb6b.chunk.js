@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[511377],{511377:(e,s,a)=>{e.exports=a.p+"static/media/ski-water.914b7b01ee56d7dbe6f5.svg"}}]);

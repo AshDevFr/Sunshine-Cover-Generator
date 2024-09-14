@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[85202],{85202:(e,s,a)=>{e.exports=a.p+"static/media/waterfall.96244c18f3864584c700.svg"}}]);

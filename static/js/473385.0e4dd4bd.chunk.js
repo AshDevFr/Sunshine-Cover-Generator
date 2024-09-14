@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[473385],{473385:(e,s,n)=>{e.exports=n.p+"static/media/deskphone.0f9fec1836c205753c35.svg"}}]);

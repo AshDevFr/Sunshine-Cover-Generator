@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[307135],{307135:(e,s,a)=>{e.exports=a.p+"static/media/qrcode-plus.f37d78212b237e59fe09.svg"}}]);

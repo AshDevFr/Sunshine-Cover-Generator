@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[68464],{68464:(e,s,a)=>{e.exports=a.p+"static/media/sledding.d1a5ad8de074f51a12ba.svg"}}]);

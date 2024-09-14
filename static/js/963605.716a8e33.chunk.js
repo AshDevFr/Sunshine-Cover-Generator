@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[963605],{963605:(e,a,s)=>{e.exports=s.p+"static/media/language-xaml.5c9f71767254d06b4bad.svg"}}]);

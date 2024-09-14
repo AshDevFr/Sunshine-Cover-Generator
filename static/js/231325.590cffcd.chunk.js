@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[231325],{231325:(e,s,a)=>{e.exports=a.p+"static/media/island.988a7e34d856d9fca67e.svg"}}]);

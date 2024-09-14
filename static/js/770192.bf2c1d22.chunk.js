@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[770192],{770192:(e,s,a)=>{e.exports=a.p+"static/media/roman-numeral-5.8d9f9954d3b650b9bcf8.svg"}}]);

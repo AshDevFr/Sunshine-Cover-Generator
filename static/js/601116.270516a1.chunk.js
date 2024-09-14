@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[601116],{601116:(e,s,n)=>{e.exports=n.p+"static/media/arrow-down-drop-circle-outline.347d1be6d3361298693f.svg"}}]);

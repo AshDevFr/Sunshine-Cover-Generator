@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[862917],{862917:(e,s,a)=>{e.exports=a.p+"static/media/piston.6e305c70e86d8d4a8ea8.svg"}}]);

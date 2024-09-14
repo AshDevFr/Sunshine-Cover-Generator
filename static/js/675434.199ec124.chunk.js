@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[675434],{675434:(e,s,a)=>{e.exports=a.p+"static/media/pretzel.dd78c64ee78cb9a5692f.svg"}}]);

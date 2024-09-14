@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[4408],{4408:(e,s,i)=>{e.exports=i.p+"static/media/chili-hot-outline.53f84e88a99f250369f3.svg"}}]);

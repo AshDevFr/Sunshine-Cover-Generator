@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[725165],{725165:(e,s,i)=>{e.exports=i.p+"static/media/invoice-text-remove-outline.28a764997ef53796f84b.svg"}}]);

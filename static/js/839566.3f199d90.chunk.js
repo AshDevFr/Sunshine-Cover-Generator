@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[839566],{839566:(e,s,a)=>{e.exports=a.p+"static/media/star-half-full.f90e5900cea5bb5e8e80.svg"}}]);

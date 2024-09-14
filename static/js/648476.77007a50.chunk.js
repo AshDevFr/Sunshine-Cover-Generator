@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[648476],{648476:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-powerpoint.48b2b8438fc760b12f6a.svg"}}]);

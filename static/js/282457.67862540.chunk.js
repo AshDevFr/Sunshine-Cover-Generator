@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[282457],{282457:(e,a,s)=>{e.exports=s.p+"static/media/face-agent.6318d2a99ce677a6f465.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[97167],{97167:(e,s,a)=>{e.exports=a.p+"static/media/font-awesome.f809338be0edc48005ce.svg"}}]);

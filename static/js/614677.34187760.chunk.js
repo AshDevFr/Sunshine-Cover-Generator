@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[614677],{614677:(e,a,s)=>{e.exports=s.p+"static/media/gamepad-variant.35596c3d5c2a62a4e4df.svg"}}]);

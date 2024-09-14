@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[931392],{931392:(e,s,a)=>{e.exports=a.p+"static/media/robot-mower-outline.b85626a81d014758d653.svg"}}]);

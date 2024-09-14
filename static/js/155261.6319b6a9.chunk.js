@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[155261],{377642:(e,s,n)=>{e.exports=n.p+"static/media/curling.56e407d3e33ff078e37d.svg"}}]);

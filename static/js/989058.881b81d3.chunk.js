@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[989058],{989058:(e,s,a)=>{e.exports=a.p+"static/media/television.f46de49d2a32c9f881f5.svg"}}]);

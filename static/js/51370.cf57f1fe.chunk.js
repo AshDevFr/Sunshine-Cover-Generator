@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[51370],{51370:(e,s,a)=>{e.exports=a.p+"static/media/text-box-remove.1dbf24ad14fa464f79a0.svg"}}]);

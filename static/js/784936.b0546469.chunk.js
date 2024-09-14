@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[784936],{784936:(e,s,a)=>{e.exports=a.p+"static/media/motorbike.f742a44b4e41ff75f58e.svg"}}]);

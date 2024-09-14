@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[740596],{740596:(e,s,t)=>{e.exports=t.p+"static/media/touch-text-outline.10e4bd171fe76b338ece.svg"}}]);

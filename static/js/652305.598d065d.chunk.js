@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[652305],{652305:(e,s,a)=>{e.exports=a.p+"static/media/chart-bubble.6f99e923161fa027199d.svg"}}]);

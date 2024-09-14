@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[654975],{654975:(e,s,a)=>{e.exports=a.p+"static/media/form-select.6cbc43fe14b3b15593bc.svg"}}]);

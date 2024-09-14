@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[809587],{809587:(e,s,a)=>{e.exports=a.p+"static/media/book-music.e4229bb8399df6f533ce.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[955040],{955040:(e,s,t)=>{e.exports=t.p+"static/media/receipt-text-minus-outline.e698cb184d0b955d37bd.svg"}}]);

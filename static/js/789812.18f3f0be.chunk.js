@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[789812],{789812:(e,s,a)=>{e.exports=a.p+"static/media/volume-mute.e9e78a8e662d3b0bf164.svg"}}]);

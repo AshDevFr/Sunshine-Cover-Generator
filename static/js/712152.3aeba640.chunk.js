@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[712152],{712152:(e,s,a)=>{e.exports=a.p+"static/media/boomerang.935ff79af734768e2a35.svg"}}]);

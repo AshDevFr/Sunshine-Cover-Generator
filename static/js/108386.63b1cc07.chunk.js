@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[108386],{108386:(e,s,n)=>{e.exports=n.p+"static/media/weather-sunny-off.60b90f597171ce765233.svg"}}]);

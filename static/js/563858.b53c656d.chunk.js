@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[563858],{563858:(e,s,a)=>{e.exports=a.p+"static/media/lasso.4a4d9cc5066dd7d0debe.svg"}}]);

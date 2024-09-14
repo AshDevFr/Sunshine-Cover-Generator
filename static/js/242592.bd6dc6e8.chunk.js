@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[242592],{242592:(e,s,a)=>{e.exports=a.p+"static/media/toaster-off.5b4999819a3b61c39763.svg"}}]);

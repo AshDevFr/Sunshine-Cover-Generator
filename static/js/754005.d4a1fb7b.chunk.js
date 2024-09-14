@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[754005],{754005:(e,s,a)=>{e.exports=a.p+"static/media/cash-register.ad26ac36522d58733d4d.svg"}}]);

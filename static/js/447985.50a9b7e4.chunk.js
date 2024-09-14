@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[447985],{447985:(a,e,s)=>{a.exports=s.p+"static/media/calendar-collapse-horizontal.2d6a2aaf4399adf70fba.svg"}}]);

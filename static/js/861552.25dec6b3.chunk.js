@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[861552],{861552:(e,s,a)=>{e.exports=a.p+"static/media/blinds-horizontal-closed.dc7e88b4af05d69eafda.svg"}}]);

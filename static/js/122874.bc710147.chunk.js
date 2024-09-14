@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[122874],{122874:(e,s,a)=>{e.exports=a.p+"static/media/selection-ellipse-remove.88393f02bb738029d3ad.svg"}}]);

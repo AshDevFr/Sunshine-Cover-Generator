@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[481344],{481344:(e,s,a)=>{e.exports=a.p+"static/media/horse-variant-fast.4e6377cdc32bf9f06d14.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[969073],{969073:(e,s,a)=>{e.exports=a.p+"static/media/halloween.1476d90fbf73f5dfa83a.svg"}}]);

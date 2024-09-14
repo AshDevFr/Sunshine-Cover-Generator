@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[40569],{40569:(e,s,a)=>{e.exports=a.p+"static/media/google-hangouts.903345a216d01a301fc7.svg"}}]);

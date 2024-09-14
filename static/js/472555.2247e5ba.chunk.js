@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[472555],{472555:(e,s,a)=>{e.exports=a.p+"static/media/ellipse-outline.a25a43c9d89e4ee955ba.svg"}}]);

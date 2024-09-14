@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[58192],{58192:(e,s,a)=>{e.exports=a.p+"static/media/toy-brick.95869ccd7332de9cbdbd.svg"}}]);

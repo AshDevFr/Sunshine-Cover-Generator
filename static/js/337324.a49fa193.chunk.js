@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[337324],{337324:(a,e,s)=>{a.exports=s.p+"static/media/syllabary-katakana-halfwidth.c4cc1136d6a766cf3cf8.svg"}}]);

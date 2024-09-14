@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[187124],{187124:(e,s,a)=>{e.exports=a.p+"static/media/water-polo.abf152bd4d1615020318.svg"}}]);

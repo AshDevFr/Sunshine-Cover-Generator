@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[464514],{464514:(e,s,a)=>{e.exports=a.p+"static/media/sort-clock-ascending.e1be324a3e114ddb5b76.svg"}}]);

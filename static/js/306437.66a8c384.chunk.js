@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[306437],{306437:(e,a,s)=>{e.exports=s.p+"static/media/gamepad-square.eacb65a1e70c0860f077.svg"}}]);

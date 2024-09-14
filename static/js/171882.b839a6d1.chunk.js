@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[171882],{171882:(e,s,a)=>{e.exports=a.p+"static/media/horseshoe.e6dc3e74a00097990783.svg"}}]);

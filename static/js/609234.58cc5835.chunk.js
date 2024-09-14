@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[609234],{609234:(e,s,a)=>{e.exports=a.p+"static/media/phone-rotate-landscape.d9163c63405f62ee8239.svg"}}]);

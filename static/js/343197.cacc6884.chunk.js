@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[343197],{343197:(e,s,a)=>{e.exports=a.p+"static/media/biathlon.d386ee2368858cba4411.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[151930],{151930:(e,s,a)=>{e.exports=a.p+"static/media/eraser-variant.22cdb7154c89bcbc65ed.svg"}}]);

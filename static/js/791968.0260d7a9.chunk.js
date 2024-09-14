@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[791968],{791968:(e,s,a)=>{e.exports=a.p+"static/media/water-outline.f95747e7c321139160ac.svg"}}]);

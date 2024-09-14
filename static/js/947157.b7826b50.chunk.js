@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[947157],{947157:(e,s,a)=>{e.exports=a.p+"static/media/view-week-outline.7ddea5b156cd5a4d3f76.svg"}}]);

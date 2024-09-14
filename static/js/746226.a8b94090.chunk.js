@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[746226],{746226:(e,s,t)=>{e.exports=t.p+"static/media/microsoft-xbox-controller-battery-alert.3d44cbbf5e4a4d7c9966.svg"}}]);

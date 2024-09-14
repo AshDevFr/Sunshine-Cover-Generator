@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[312202],{312202:(e,s,a)=>{e.exports=a.p+"static/media/jellyfish.62bfb289c494e82038b6.svg"}}]);

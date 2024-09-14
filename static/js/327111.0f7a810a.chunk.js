@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[327111],{327111:(e,s,a)=>{e.exports=a.p+"static/media/moped.0100739546020b7c64d6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[62631],{62631:(e,s,a)=>{e.exports=a.p+"static/media/oci.12b2e03738519645727e.svg"}}]);

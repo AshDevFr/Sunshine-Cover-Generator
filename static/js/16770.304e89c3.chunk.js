@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[16770],{16770:(e,s,a)=>{e.exports=a.p+"static/media/bandage.df3222c41dc2040437c2.svg"}}]);

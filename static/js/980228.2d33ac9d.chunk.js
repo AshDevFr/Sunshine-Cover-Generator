@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[980228],{980228:(e,s,a)=>{e.exports=a.p+"static/media/headset-dock.dfd9e0f5b43a58a56e37.svg"}}]);

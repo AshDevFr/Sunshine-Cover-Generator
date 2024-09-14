@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[524305],{524305:(e,s,i)=>{e.exports=i.p+"static/media/video-standard-definition.248633800862ffe6443f.svg"}}]);

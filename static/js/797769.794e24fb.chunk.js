@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[797769],{797769:(e,a,s)=>{e.exports=s.p+"static/media/car-brake-alert.05d20ca78d1d7ffdfd86.svg"}}]);

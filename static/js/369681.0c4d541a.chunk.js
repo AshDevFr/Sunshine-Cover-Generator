@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[369681],{369681:(e,s,n)=>{e.exports=n.p+"static/media/antenna.4e92cd3006875280f687.svg"}}]);

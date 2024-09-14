@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[961606],{961606:(e,s,a)=>{e.exports=a.p+"static/media/heart-multiple-outline.9cfaff638d36000ae1de.svg"}}]);

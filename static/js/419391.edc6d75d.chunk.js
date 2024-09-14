@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[419391],{419391:(e,s,a)=>{e.exports=a.p+"static/media/gantry-crane.88b6019d4d1207a08cbc.svg"}}]);

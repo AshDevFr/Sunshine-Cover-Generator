@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[721778],{721778:(e,s,n)=>{e.exports=n.p+"static/media/surround-sound.38ca1937cbbff922ce43.svg"}}]);

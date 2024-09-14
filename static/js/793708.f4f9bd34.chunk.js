@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[793708],{793708:(e,s,a)=>{e.exports=a.p+"static/media/pencil-circle.76767eab7a09b617987c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[487551],{487551:(e,s,a)=>{e.exports=a.p+"static/media/text-box-search-outline.7ed584acad08897a5cbe.svg"}}]);

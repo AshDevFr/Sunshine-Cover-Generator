@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[560682],{560682:(e,s,a)=>{e.exports=a.p+"static/media/anvil.2ed78859f8bee4a61c08.svg"}}]);

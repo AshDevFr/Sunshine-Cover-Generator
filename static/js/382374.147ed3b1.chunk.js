@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[382374],{382374:(e,s,a)=>{e.exports=a.p+"static/media/format-font-size-decrease.d20a3b19ddc378075442.svg"}}]);

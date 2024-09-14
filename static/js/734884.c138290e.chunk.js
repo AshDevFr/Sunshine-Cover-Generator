@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[734884],{734884:(e,s,a)=>{e.exports=a.p+"static/media/sign-direction-remove.447de341116aafde0135.svg"}}]);

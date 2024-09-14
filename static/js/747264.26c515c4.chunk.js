@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[747264],{747264:(e,a,s)=>{e.exports=s.p+"static/media/wallet-giftcard.4da80babca5cb86ebeb7.svg"}}]);

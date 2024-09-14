@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[618601],{618601:(e,s,a)=>{e.exports=a.p+"static/media/scooter-electric.4eb84eea2a4d9a49f950.svg"}}]);

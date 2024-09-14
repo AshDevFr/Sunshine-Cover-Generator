@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[647228],{647228:(e,s,i)=>{e.exports=i.p+"static/media/fridge-industrial-outline.4c1b1c7a03e741cbed03.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[819987],{819987:(e,s,a)=>{e.exports=a.p+"static/media/zodiac-aries.3e09732076eb52b54c64.svg"}}]);

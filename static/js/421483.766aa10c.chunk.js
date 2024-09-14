@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[421483],{421483:(e,s,a)=>{e.exports=a.p+"static/media/microwave.eeb64562addb93b5707d.svg"}}]);

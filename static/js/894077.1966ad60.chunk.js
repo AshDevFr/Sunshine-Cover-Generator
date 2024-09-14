@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[894077],{894077:(e,s,a)=>{e.exports=a.p+"static/media/paper-roll-outline.6d7454ee473183e37ea9.svg"}}]);

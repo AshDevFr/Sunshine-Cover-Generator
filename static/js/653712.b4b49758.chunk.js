@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[653712],{653712:(e,a,s)=>{e.exports=s.p+"static/media/panorama-vertical.fee507e8de864e0ead20.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[461078],{461078:(e,s,a)=>{e.exports=a.p+"static/media/message-badge-outline.d8a07375192ce56fcc8c.svg"}}]);

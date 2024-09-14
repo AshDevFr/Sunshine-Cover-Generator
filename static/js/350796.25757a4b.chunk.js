@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[350796],{350796:(e,s,a)=>{e.exports=a.p+"static/media/ipod.42848e1e2acf333a9987.svg"}}]);

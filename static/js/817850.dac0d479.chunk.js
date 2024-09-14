@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[817850],{817850:(e,s,c)=>{e.exports=c.p+"static/media/projector-screen-outline.c0529c9fac3e7fc2bc7b.svg"}}]);

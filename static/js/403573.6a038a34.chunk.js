@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[403573],{403573:(e,s,a)=>{e.exports=a.p+"static/media/human-white-cane.c8ce96244b8e8c50ed77.svg"}}]);

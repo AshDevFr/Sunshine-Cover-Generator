@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[377935],{377935:(e,s,t)=>{e.exports=t.p+"static/media/microsoft-xbox-controller-battery-medium.83d8e162da4cb57719de.svg"}}]);

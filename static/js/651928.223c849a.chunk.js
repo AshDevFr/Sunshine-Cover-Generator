@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[651928],{651928:(e,s,a)=>{e.exports=a.p+"static/media/qrcode-scan.e8efac952e80311aa5b5.svg"}}]);

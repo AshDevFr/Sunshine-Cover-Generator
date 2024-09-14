@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[523180],{523180:(e,s,a)=>{e.exports=a.p+"static/media/view-week.e11000b6b8a543a80c5f.svg"}}]);

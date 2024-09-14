@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[899420],{899420:(e,s,a)=>{e.exports=a.p+"static/media/bell-circle.b9a88d86f2427365a77f.svg"}}]);

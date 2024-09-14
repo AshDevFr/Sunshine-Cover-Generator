@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[962433],{962433:(e,s,a)=>{e.exports=a.p+"static/media/weather-snowy.dbade4cad9aff75d24c3.svg"}}]);

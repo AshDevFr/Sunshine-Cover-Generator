@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[3661],{226042:(e,s,n)=>{e.exports=n.p+"static/media/phone-plus-outline.44fa10869f473050b722.svg"}}]);

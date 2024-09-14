@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[295653],{295653:(e,s,a)=>{e.exports=a.p+"static/media/clippy.bbb3707ea506df61193d.svg"}}]);

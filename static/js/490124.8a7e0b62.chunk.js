@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[490124],{490124:(e,s,a)=>{e.exports=a.p+"static/media/pi-hole.6dec3ca7ed1aedf5f596.svg"}}]);

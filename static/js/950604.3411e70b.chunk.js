@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[950604],{950604:(e,a,s)=>{e.exports=s.p+"static/media/wallet-outline.091aa2f5f1fd2bfd23a9.svg"}}]);

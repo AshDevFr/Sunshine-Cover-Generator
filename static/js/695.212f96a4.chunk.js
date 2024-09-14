@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[695],{695:(e,s,a)=>{e.exports=a.p+"static/media/paperclip-minus.61e2199192b67bc6d727.svg"}}]);

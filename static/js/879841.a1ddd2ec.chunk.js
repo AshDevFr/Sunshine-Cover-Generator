@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[879841],{879841:(e,s,a)=>{e.exports=a.p+"static/media/cosine-wave.d643ea0940477fff90d9.svg"}}]);

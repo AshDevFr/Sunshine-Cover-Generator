@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[915809],{915809:(e,s,a)=>{e.exports=a.p+"static/media/gesture-swipe-right.4d57162f6e0defe63c3a.svg"}}]);

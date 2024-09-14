@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[717565],{717565:(e,s,a)=>{e.exports=a.p+"static/media/pause-circle.8dbe9295a4ee7b532aaf.svg"}}]);

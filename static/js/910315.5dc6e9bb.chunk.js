@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[910315],{910315:(e,s,a)=>{e.exports=a.p+"static/media/snowflake-thermometer.63e2eed4f6bf1987996e.svg"}}]);

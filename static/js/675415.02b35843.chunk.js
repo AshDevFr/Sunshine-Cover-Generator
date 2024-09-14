@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[675415],{675415:(e,s,a)=>{e.exports=a.p+"static/media/middleware-outline.c453ab71cd76c5407669.svg"}}]);

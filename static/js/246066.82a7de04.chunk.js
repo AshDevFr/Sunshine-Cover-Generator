@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[246066],{246066:(e,s,a)=>{e.exports=a.p+"static/media/currency-uah.6c68405306f858e2b3d2.svg"}}]);

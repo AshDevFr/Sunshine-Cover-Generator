@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[634479],{634479:(e,s,a)=>{e.exports=a.p+"static/media/table-pivot.dc75cb0c214cb6a959a1.svg"}}]);

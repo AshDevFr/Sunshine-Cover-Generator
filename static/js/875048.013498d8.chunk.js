@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[875048],{875048:(e,s,a)=>{e.exports=a.p+"static/media/alpha-n-box-outline.37315b208e6fb3bcac03.svg"}}]);

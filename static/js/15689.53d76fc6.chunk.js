@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[15689],{15689:(e,s,n)=>{e.exports=n.p+"static/media/microphone-plus.14f39f451f2f6c8b3d24.svg"}}]);

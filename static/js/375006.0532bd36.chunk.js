@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[375006],{375006:(e,s,n)=>{e.exports=n.p+"static/media/shield-crown-outline.ebe300c96282c041f15d.svg"}}]);

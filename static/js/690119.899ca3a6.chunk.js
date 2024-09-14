@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[690119],{690119:(e,s,a)=>{e.exports=a.p+"static/media/trending-up.7a99a75e74134af6009c.svg"}}]);

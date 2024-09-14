@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[524998],{524998:(e,a,s)=>{e.exports=s.p+"static/media/biohazard.21ba085a6f73ffdc07ce.svg"}}]);

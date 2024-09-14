@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[681847],{681847:(e,a,s)=>{e.exports=s.p+"static/media/camera-iris.ab4b59c95a00851e956a.svg"}}]);

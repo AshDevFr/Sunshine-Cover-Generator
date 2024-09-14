@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[681492],{681492:(e,s,a)=>{e.exports=a.p+"static/media/vpn.95daa220f39c4807fac7.svg"}}]);

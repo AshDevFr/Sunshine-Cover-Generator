@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[674451],{674451:(e,s,n)=>{e.exports=n.p+"static/media/ubuntu.6c46f15640bfd9105e30.svg"}}]);

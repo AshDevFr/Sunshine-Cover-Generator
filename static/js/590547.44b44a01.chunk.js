@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[590547],{590547:(e,s,a)=>{e.exports=a.p+"static/media/printer-wireless.7e0d271b39013b7a5313.svg"}}]);

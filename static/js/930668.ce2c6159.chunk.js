@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[930668],{930668:(e,s,a)=>{e.exports=a.p+"static/media/emoticon-lol.b30faac8360772a28c25.svg"}}]);

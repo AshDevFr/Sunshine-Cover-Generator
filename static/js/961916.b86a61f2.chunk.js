@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[961916],{961916:(e,n,s)=>{e.exports=s.p+"static/media/video-input-antenna.955363482599e59dc1c8.svg"}}]);

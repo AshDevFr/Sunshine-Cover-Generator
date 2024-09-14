@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[871515],{871515:(e,s,a)=>{e.exports=a.p+"static/media/shoe-formal.cf7ccb009384ea71eb5c.svg"}}]);

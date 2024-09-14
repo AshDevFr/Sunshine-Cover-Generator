@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[955098],{955098:(e,s,a)=>{e.exports=a.p+"static/media/movie-star-outline.9bd0493b7c4fcb458104.svg"}}]);

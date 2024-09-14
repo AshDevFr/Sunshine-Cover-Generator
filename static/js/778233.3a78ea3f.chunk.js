@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[778233],{778233:(e,s,a)=>{e.exports=a.p+"static/media/sticker-alert-outline.03a96fab72cea4842610.svg"}}]);

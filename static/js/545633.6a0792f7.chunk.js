@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[545633],{545633:(e,s,a)=>{e.exports=a.p+"static/media/car-electric-outline.7ba4f075fe1fbd7cf674.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[531763],{531763:(e,s,a)=>{e.exports=a.p+"static/media/seat-legroom-normal.575e6d7f3d7f9f9c16fb.svg"}}]);

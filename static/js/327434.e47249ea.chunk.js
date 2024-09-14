@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[327434],{327434:(e,s,a)=>{e.exports=a.p+"static/media/bell-check.b84c410192e0abe39176.svg"}}]);

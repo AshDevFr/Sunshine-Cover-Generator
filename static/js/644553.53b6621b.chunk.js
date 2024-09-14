@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[644553],{644553:(e,a,s)=>{e.exports=s.p+"static/media/patio-heater.aa75470192ac87d016b3.svg"}}]);

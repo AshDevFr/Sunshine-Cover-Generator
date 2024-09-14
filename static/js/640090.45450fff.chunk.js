@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[640090],{640090:(e,s,a)=>{e.exports=a.p+"static/media/format-list-checkbox.7bcdd82be69ccb32e443.svg"}}]);

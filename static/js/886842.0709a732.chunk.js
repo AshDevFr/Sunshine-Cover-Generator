@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[886842],{886842:(e,s,a)=>{e.exports=a.p+"static/media/card-text.b06b28c47b2a83f8fdf5.svg"}}]);

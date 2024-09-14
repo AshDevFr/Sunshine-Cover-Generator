@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[435954],{435954:(e,a,s)=>{e.exports=s.p+"static/media/meditation.50794605f32c0aaa1430.svg"}}]);

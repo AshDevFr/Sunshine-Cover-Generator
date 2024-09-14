@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[812137],{812137:(e,s,a)=>{e.exports=a.p+"static/media/book-alphabet.685918fc9d1782ce9379.svg"}}]);

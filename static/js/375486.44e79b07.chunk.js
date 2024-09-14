@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[375486],{375486:(e,s,a)=>{e.exports=a.p+"static/media/call-missed.9a59ab406258af65f202.svg"}}]);

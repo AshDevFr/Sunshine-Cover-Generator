@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[77011],{77011:(e,s,a)=>{e.exports=a.p+"static/media/battery-charging-wireless-20.9aafb8dbc9a3c81be025.svg"}}]);

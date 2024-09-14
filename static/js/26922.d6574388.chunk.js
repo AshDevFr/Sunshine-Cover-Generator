@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[26922],{26922:(e,s,n)=>{e.exports=n.p+"static/media/hololens.f1749d998844c5cf3f78.svg"}}]);

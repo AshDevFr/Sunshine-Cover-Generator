@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[659700],{659700:(e,s,a)=>{e.exports=a.p+"static/media/fruit-grapes-outline.5ddfbd583c61e8dfc49b.svg"}}]);

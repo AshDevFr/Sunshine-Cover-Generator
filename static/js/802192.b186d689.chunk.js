@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[802192],{802192:(e,s,a)=>{e.exports=a.p+"static/media/hamburger-remove.2e36a2f8ad064645c179.svg"}}]);

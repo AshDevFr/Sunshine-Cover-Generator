@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[457281],{457281:(e,a,s)=>{e.exports=s.p+"static/media/candelabra.3851a0f8e8bf0cd1f467.svg"}}]);

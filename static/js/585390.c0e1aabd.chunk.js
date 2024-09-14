@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[585390],{585390:(e,s,a)=>{e.exports=a.p+"static/media/currency-ils.a353e0876bd3a361ea29.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[586498],{586498:(e,s,a)=>{e.exports=a.p+"static/media/arrow-projectile-multiple.3263060bfdb553d9340a.svg"}}]);

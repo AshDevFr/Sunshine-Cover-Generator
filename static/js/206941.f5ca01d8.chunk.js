@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[206941],{206941:(e,s,a)=>{e.exports=a.p+"static/media/home-thermometer-outline.752a93641138b26f77ea.svg"}}]);

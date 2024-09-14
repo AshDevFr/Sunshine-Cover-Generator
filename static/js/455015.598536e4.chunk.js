@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[455015],{455015:(e,s,a)=>{e.exports=a.p+"static/media/candy-off.6a3d0121b02456d1c1fb.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[438011],{438011:(e,s,a)=>{e.exports=a.p+"static/media/heart-multiple.d6da721b730fe5551a2b.svg"}}]);

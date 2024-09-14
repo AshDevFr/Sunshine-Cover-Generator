@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[436646],{436646:(e,s,a)=>{e.exports=a.p+"static/media/sleep-off.d87fd5e21f083c9cf421.svg"}}]);

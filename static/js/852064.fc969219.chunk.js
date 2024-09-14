@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[852064],{852064:(e,s,a)=>{e.exports=a.p+"static/media/smoke-detector-alert-outline.27719234c90fe9dcaadc.svg"}}]);

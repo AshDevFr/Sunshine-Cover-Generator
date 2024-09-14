@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[921763],{921763:(e,s,a)=>{e.exports=a.p+"static/media/folder-google-drive.1d5f6e387ff025142d62.svg"}}]);

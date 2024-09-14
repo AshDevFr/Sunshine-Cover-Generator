@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[287026],{287026:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-auto.b92c57c02bfcebca0dca.svg"}}]);

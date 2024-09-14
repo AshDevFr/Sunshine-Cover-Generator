@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[854584],{854584:(e,s,a)=>{e.exports=a.p+"static/media/floor-plan.de0bc4b78eb9cd4bab77.svg"}}]);

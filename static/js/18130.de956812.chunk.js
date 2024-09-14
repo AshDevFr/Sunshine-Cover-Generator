@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[18130],{18130:(e,s,a)=>{e.exports=a.p+"static/media/yoga.bf39369fbc3eb3144a09.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[461820],{461820:(e,a,s)=>{e.exports=s.p+"static/media/abugida-devanagari.dbc9be64ae24468be078.svg"}}]);

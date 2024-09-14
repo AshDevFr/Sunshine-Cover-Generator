@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[413716],{413716:(e,s,a)=>{e.exports=a.p+"static/media/kangaroo.41f2fa53fd3bcdedbc94.svg"}}]);

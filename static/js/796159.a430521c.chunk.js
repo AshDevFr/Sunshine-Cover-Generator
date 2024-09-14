@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[796159],{796159:(e,s,a)=>{e.exports=a.p+"static/media/phone-in-talk.2c40dcc5e0eaea7fc6f9.svg"}}]);

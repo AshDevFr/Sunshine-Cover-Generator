@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[8045],{8045:(e,s,a)=>{e.exports=a.p+"static/media/calendar-month.b931e9da84554243df92.svg"}}]);

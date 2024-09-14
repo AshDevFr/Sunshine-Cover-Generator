@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[116377],{116377:(e,s,a)=>{e.exports=a.p+"static/media/hexagon-slice-3.d34ec43f82ffd6db8172.svg"}}]);

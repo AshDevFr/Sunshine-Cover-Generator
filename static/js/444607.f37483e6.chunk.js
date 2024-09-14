@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[444607],{444607:(e,a,s)=>{e.exports=s.p+"static/media/apple-safari.b912ea3ac18c0a06bbdc.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[39723],{39723:(e,s,a)=>{e.exports=a.p+"static/media/menorah-fire.03f27272bf1e5a459be6.svg"}}]);

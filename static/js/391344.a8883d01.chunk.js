@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[391344],{391344:(e,s,a)=>{e.exports=a.p+"static/media/phone-missed.1d34a5ee2683bac5b16a.svg"}}]);

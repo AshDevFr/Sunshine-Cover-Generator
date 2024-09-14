@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[387372],{387372:(e,s,a)=>{e.exports=a.p+"static/media/balcony.bf23838ef97d6d7d5479.svg"}}]);

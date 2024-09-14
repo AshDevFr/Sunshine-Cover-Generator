@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[419854],{197473:(e,s,a)=>{e.exports=a.p+"static/media/sofa-outline.fd581a4f5741345186ce.svg"}}]);

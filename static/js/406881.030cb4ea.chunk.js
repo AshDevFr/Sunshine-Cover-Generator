@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[406881],{406881:(e,s,a)=>{e.exports=a.p+"static/media/cow-off.27842e169af15ffceaeb.svg"}}]);

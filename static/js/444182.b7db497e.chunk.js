@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[444182],{444182:(e,s,a)=>{e.exports=a.p+"static/media/cards-heart.0dbe68f65117b2169a78.svg"}}]);

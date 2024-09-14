@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[160620],{160620:(e,s,n)=>{e.exports=n.p+"static/media/unicorn-variant.3c7449e6e90d0c73c60c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[482285],{482285:(e,s,n)=>{e.exports=n.p+"static/media/phone-settings-outline.12837297be63c311196f.svg"}}]);

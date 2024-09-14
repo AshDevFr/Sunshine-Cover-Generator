@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[422476],{422476:(e,s,n)=>{e.exports=n.p+"static/media/trending-down.a6f7bd387b7b3b3c461e.svg"}}]);

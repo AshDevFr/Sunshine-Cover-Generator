@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[227993],{227993:(e,s,a)=>{e.exports=a.p+"static/media/image-marker-outline.1fabbc15d5c20113820b.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[852815],{852815:(e,s,n)=>{e.exports=n.p+"static/media/screen-rotation-lock.83ce597e2220f0dfcf24.svg"}}]);

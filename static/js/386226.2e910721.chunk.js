@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[386226],{386226:(e,s,a)=>{e.exports=a.p+"static/media/music-rest-eighth.3c9a29d9700ff475fe8e.svg"}}]);

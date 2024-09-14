@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[709440],{709440:(e,s,a)=>{e.exports=a.p+"static/media/peanut-outline.5e2f0093af4d66e18464.svg"}}]);

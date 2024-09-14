@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[57201],{57201:(e,s,n)=>{e.exports=n.p+"static/media/tunnel-outline.f05f2a4383a9df25d65b.svg"}}]);

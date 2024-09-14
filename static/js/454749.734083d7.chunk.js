@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[454749],{454749:(e,s,n)=>{e.exports=n.p+"static/media/motion-sensor.37bf1842c6896d742800.svg"}}]);

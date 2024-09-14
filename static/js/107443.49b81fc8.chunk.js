@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[107443],{107443:(e,s,a)=>{e.exports=a.p+"static/media/wifi-refresh.d519c58a44445bb496d4.svg"}}]);

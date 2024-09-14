@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[411609],{411609:(e,s,a)=>{e.exports=a.p+"static/media/fuel-cell.7f71f066c07482eaea2d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[636805],{636805:(e,s,a)=>{e.exports=a.p+"static/media/facebook-workplace.2bf56edbb53ee4175404.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[255399],{255399:(e,a,s)=>{e.exports=s.p+"static/media/whistle-outline.d09ae1a8a9095ad96a71.svg"}}]);

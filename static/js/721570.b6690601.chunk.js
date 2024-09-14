@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[721570],{721570:(e,a,s)=>{e.exports=s.p+"static/media/white-balance-incandescent.193bdce5a94ad160f90d.svg"}}]);

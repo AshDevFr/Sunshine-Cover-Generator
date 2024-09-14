@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[858723],{858723:(e,s,a)=>{e.exports=a.p+"static/media/face-recognition.376940a52ca0262119f4.svg"}}]);

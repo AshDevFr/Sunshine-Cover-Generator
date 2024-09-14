@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[71194],{71194:(e,s,a)=>{e.exports=a.p+"static/media/book-cross.a2047c3912faa8828ca8.svg"}}]);

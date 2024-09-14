@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[652492],{652492:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-edge.9ad841362c8729b21f0c.svg"}}]);

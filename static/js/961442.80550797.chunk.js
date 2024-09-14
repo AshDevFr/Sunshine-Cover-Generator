@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[961442],{961442:(e,s,a)=>{e.exports=a.p+"static/media/spotlight-beam.217dae9e3ec22cabc09d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[736253],{736253:(e,a,s)=>{e.exports=s.p+"static/media/lava-lamp.dcfebef6e3dee6ada568.svg"}}]);

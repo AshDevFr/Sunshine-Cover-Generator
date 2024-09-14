@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[977620],{977620:(e,s,a)=>{e.exports=a.p+"static/media/audio-input-xlr.228613054d7d958cd559.svg"}}]);

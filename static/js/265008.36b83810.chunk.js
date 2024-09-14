@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[265008],{265008:(e,s,a)=>{e.exports=a.p+"static/media/view-dashboard-edit-outline.652feae383993766de7b.svg"}}]);

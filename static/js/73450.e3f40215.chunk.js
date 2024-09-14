@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[73450],{73450:(e,a,s)=>{e.exports=s.p+"static/media/leaf-maple-off.a7e2be5d95aaa50591e8.svg"}}]);

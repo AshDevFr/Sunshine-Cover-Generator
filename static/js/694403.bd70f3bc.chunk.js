@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[694403],{694403:(e,s,a)=>{e.exports=a.p+"static/media/sine-wave.1b5a28af4563a2cde0e7.svg"}}]);

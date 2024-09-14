@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[600235],{600235:(e,s,n)=>{e.exports=n.p+"static/media/nintendo-wii.e2e00e4e34dd56461a10.svg"}}]);

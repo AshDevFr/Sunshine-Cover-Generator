@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[933329],{933329:(e,s,a)=>{e.exports=a.p+"static/media/newspaper-variant.24eb74602739867ca690.svg"}}]);

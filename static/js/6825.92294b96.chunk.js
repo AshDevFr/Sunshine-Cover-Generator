@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[6825],{6825:(e,s,a)=>{e.exports=a.p+"static/media/card-account-mail-outline.c48bfdfe6f01483813fc.svg"}}]);

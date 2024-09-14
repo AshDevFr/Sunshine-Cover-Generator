@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[181627],{181627:(e,a,s)=>{e.exports=s.p+"static/media/wardrobe-outline.a1ab80247114124aacfa.svg"}}]);

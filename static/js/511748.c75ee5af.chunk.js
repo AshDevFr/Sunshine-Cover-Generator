@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[511748],{511748:(e,s,n)=>{e.exports=n.p+"static/media/crown-outline.f4b427663697c3a95702.svg"}}]);

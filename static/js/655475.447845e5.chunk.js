@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[655475],{655475:(e,s,a)=>{e.exports=a.p+"static/media/fruit-citrus.01042b1dcd3ddd8a3bd6.svg"}}]);

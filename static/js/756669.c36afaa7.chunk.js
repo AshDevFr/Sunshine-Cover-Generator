@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[756669],{756669:(e,s,a)=>{e.exports=a.p+"static/media/shredder.8b487b2c423863a4559e.svg"}}]);

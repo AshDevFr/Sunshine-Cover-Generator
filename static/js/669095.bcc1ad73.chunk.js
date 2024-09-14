@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[669095],{669095:(e,s,a)=>{e.exports=a.p+"static/media/table-heart.2e8592ee1f59c35927ad.svg"}}]);

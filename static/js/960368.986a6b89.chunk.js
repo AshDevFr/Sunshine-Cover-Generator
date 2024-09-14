@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[960368],{960368:(e,a,s)=>{e.exports=s.p+"static/media/road-variant.3a7fa6ab6d38b17885c0.svg"}}]);

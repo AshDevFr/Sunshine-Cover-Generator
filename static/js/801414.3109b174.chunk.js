@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[801414],{801414:(e,s,a)=>{e.exports=a.p+"static/media/alarm-note-off.51548c7b5b22ac5257b9.svg"}}]);

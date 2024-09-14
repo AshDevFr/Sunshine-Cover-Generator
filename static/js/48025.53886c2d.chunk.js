@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[48025],{48025:(e,s,a)=>{e.exports=a.p+"static/media/pickaxe.37c4bb5724958b782c72.svg"}}]);

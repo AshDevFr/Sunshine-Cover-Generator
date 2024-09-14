@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[230662],{230662:(e,a,s)=>{e.exports=s.p+"static/media/handball.2eb33fd1c6aa72e669a8.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[703746],{703746:(e,s,a)=>{e.exports=a.p+"static/media/bread-slice-outline.9f24841f2b74e2a66b02.svg"}}]);

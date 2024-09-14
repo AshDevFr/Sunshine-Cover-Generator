@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[70],{70:(e,s,n)=>{e.exports=n.p+"static/media/beaker-question-outline.e891f462ec76614c3174.svg"}}]);

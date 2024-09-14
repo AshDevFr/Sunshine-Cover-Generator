@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[745511],{745511:(e,s,a)=>{e.exports=a.p+"static/media/airplane-edit.155654494f9f3cb5492f.svg"}}]);

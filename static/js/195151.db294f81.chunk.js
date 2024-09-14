@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[195151],{195151:(e,s,a)=>{e.exports=a.p+"static/media/alpha-t-box.712b7357764b34d8710f.svg"}}]);

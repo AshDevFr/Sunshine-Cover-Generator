@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[365643],{365643:(e,s,a)=>{e.exports=a.p+"static/media/decimal-comma.1651c4e9243e15fea9df.svg"}}]);

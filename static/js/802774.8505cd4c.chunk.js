@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[802774],{802774:(e,s,a)=>{e.exports=a.p+"static/media/dance-ballroom.91a815bf5ef55d4e1f29.svg"}}]);

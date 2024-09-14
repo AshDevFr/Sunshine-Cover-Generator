@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[668150],{668150:(e,a,s)=>{e.exports=s.p+"static/media/human-male-board.77964d8b6a0c971879a8.svg"}}]);

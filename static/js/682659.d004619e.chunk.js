@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[682659],{682659:(e,a,s)=>{e.exports=s.p+"static/media/temperature-fahrenheit.caa8e5cdb26c967fbd44.svg"}}]);

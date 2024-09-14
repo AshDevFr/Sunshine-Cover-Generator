@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[143712],{143712:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-visual-studio-code.7dd489c84a2419d68705.svg"}}]);

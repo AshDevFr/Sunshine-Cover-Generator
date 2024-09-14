@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[165978],{165978:(e,s,a)=>{e.exports=a.p+"static/media/finance.a31151acd2425d849f17.svg"}}]);

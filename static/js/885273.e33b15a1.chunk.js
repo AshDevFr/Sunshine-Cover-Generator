@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[885273],{885273:(e,s,a)=>{e.exports=a.p+"static/media/human-scooter.6590e5bec107291d2d85.svg"}}]);

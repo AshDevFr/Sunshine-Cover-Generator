@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[979968],{979968:(e,a,s)=>{e.exports=s.p+"static/media/account-tie-hat.686a004125d3108f23fa.svg"}}]);

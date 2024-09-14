@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[365969],{365969:(e,s,a)=>{e.exports=a.p+"static/media/power-sleep.d77f536ed90a0ec13e5d.svg"}}]);

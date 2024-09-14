@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[844258],{844258:(e,s,a)=>{e.exports=a.p+"static/media/desk-lamp.9333f13c76676fc05fe0.svg"}}]);

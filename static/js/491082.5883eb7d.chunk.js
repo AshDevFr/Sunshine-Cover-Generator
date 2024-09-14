@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[491082],{491082:(e,a,s)=>{e.exports=s.p+"static/media/shield-airplane.7ba9f6d3a3e07f801a6e.svg"}}]);

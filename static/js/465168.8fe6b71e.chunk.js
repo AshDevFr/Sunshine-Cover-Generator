@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[465168],{465168:(e,a,s)=>{e.exports=s.p+"static/media/candycane.082be61d4adc236fcb7a.svg"}}]);

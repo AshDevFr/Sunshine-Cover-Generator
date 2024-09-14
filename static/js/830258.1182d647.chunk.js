@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[830258],{830258:(e,s,n)=>{e.exports=n.p+"static/media/printer-pos-refresh-outline.7cb41d1b6a5d212813f3.svg"}}]);

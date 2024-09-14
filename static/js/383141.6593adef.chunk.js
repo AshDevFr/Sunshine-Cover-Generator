@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[383141],{383141:(e,s,n)=>{e.exports=n.p+"static/media/vector-point-minus.70171467afcb5f82d623.svg"}}]);

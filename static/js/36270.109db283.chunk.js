@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[36270],{36270:(e,s,a)=>{e.exports=a.p+"static/media/speaker-wireless.166e3b38b7401a51fc43.svg"}}]);

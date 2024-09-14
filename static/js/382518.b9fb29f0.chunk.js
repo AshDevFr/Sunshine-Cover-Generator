@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[382518],{382518:(e,s,a)=>{e.exports=a.p+"static/media/sticker-check.e6c2060098e1fd028b29.svg"}}]);

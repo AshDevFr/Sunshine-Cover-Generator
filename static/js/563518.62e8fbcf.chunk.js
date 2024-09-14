@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[563518],{563518:(e,s,a)=>{e.exports=a.p+"static/media/bell-ring.80f47446375acf0b8b54.svg"}}]);

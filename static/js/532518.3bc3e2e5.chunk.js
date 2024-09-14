@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[532518],{532518:(e,s,a)=>{e.exports=a.p+"static/media/angle-obtuse.dd5982ed358debd611f9.svg"}}]);

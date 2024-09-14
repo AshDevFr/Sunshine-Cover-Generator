@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[843309],{843309:(e,a,s)=>{e.exports=s.p+"static/media/rotate-left-variant.01bca06f238aee593ddc.svg"}}]);

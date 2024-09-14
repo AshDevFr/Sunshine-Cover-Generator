@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[68202],{68202:(e,a,s)=>{e.exports=s.p+"static/media/book-play.844bd9561aac56754a46.svg"}}]);

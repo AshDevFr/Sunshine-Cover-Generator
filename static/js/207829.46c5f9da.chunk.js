@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[207829],{207829:(e,s,a)=>{e.exports=a.p+"static/media/phone-voip.3e0e187178176f7a6dad.svg"}}]);

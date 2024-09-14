@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[81921],{81921:(e,s,a)=>{e.exports=a.p+"static/media/bed-king.c28a2577179eecd2fa44.svg"}}]);

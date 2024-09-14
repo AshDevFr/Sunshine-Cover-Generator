@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[256238],{256238:(e,s,a)=>{e.exports=a.p+"static/media/format-letter-spacing.135e1f54720e7fda0fe8.svg"}}]);

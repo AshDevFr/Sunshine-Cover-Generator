@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[890788],{890788:(e,s,a)=>{e.exports=a.p+"static/media/gesture-two-tap.ea2891bce4727c3590bd.svg"}}]);

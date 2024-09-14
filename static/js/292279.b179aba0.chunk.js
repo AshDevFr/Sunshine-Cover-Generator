@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[292279],{292279:(e,s,a)=>{e.exports=a.p+"static/media/mapbox.96986798d1f079dfa362.svg"}}]);

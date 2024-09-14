@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[586999],{586999:(e,s,n)=>{e.exports=n.p+"static/media/lotion-plus-outline.c6e7809c84b54f079b6a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[858324],{858324:(e,s,a)=>{e.exports=a.p+"static/media/checkerboard-remove.d3a23c0537c1c4a88eb7.svg"}}]);

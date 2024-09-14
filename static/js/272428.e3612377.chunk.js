@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[272428],{272428:(e,s,a)=>{e.exports=a.p+"static/media/stairs.542a6370c0c03433007b.svg"}}]);

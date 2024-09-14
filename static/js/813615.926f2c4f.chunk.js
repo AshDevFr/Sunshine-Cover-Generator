@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[813615],{813615:(e,s,a)=>{e.exports=a.p+"static/media/pill-off.d136b2463db75a2e6f99.svg"}}]);

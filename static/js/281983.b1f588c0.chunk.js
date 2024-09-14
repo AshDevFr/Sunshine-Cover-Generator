@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[281983],{281983:(e,a,s)=>{e.exports=s.p+"static/media/battery-alert-bluetooth.f7ea55566f70980a701c.svg"}}]);

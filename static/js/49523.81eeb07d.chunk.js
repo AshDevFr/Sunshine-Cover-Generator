@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[49523],{49523:(e,s,a)=>{e.exports=a.p+"static/media/select-marker.d6455f62d4931cb452e2.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[480081],{480081:(e,s,a)=>{e.exports=a.p+"static/media/death-star.fe0ba444d5ff80782e16.svg"}}]);

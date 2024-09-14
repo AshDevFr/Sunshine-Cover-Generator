@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[412412],{412412:(e,s,a)=>{e.exports=a.p+"static/media/menorah.b6388e529513bcd24d24.svg"}}]);

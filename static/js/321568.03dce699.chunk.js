@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[321568],{321568:(e,s,a)=>{e.exports=a.p+"static/media/format-list-bulleted-square.dcc4bb34b476f1070f3a.svg"}}]);

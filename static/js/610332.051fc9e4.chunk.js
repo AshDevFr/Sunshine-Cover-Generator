@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[610332],{610332:(e,s,a)=>{e.exports=a.p+"static/media/air-horn.705e91f251d1d4fc7e36.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[157859],{157859:(e,s,a)=>{e.exports=a.p+"static/media/needle-off.a14340fcaa4053b66033.svg"}}]);

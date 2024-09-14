@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[248900],{248900:(e,s,n)=>{e.exports=n.p+"static/media/folder-question-outline.629459d47e268a6ed1c3.svg"}}]);

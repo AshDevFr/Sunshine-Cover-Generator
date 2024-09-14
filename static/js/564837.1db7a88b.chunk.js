@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[564837],{564837:(e,s,i)=>{e.exports=i.p+"static/media/guitar-pick-outline.1f3d8dbdb65b648766f3.svg"}}]);

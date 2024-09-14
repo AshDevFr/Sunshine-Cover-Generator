@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[319389],{319389:(e,s,a)=>{e.exports=a.p+"static/media/puzzle-check.88ea7ea77dd2515f4d9c.svg"}}]);

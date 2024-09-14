@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[61862],{61862:(e,s,a)=>{e.exports=a.p+"static/media/math-cos.cbb6dd83537ef28b6aec.svg"}}]);

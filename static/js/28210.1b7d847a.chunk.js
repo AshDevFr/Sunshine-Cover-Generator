@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[28210],{28210:(e,s,a)=>{e.exports=a.p+"static/media/chart-box-plus-outline.d1269bcef541eeefe2f5.svg"}}]);

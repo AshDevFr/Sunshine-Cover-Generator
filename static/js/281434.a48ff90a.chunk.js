@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[281434],{281434:(e,s,a)=>{e.exports=a.p+"static/media/speaker-stop.3470e9b8f1331f91879b.svg"}}]);

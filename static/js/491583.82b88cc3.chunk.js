@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[491583],{491583:(e,s,a)=>{e.exports=a.p+"static/media/tally-mark-2.e1808cbc4edcd1cad6d9.svg"}}]);

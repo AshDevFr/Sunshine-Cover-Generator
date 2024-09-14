@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[895114],{895114:(e,a,s)=>{e.exports=s.p+"static/media/percent-circle.697145a8a7cad57c655a.svg"}}]);

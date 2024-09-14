@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[428465],{428465:(e,s,t)=>{e.exports=t.p+"static/media/bottle-tonic-plus.41bf9e99303d334bcd69.svg"}}]);

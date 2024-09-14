@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[110085],{110085:(e,s,a)=>{e.exports=a.p+"static/media/mouse-move-up.c10015d132842774cbf8.svg"}}]);

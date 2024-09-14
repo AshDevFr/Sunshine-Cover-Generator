@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[255171],{255171:(e,s,a)=>{e.exports=a.p+"static/media/speedometer-medium.25486952d5818a312d65.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[569551],{569551:(e,s,a)=>{e.exports=a.p+"static/media/music-note-sixteenth.1330774cb9f9ac6070a7.svg"}}]);

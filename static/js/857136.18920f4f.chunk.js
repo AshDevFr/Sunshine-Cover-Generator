@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[857136],{857136:(e,s,a)=>{e.exports=a.p+"static/media/autorenew-off.fb0b67e4a72715a23512.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[920506],{920506:(e,s,n)=>{e.exports=n.p+"static/media/folder-wrench.74d997210fb53792bb99.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[36483],{36483:(e,a,s)=>{e.exports=s.p+"static/media/audio-input-stereo-minijack.abb0dd71aaa3e6cad2a5.svg"}}]);

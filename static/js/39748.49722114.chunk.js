@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[39748],{39748:(e,s,a)=>{e.exports=a.p+"static/media/octagon-outline.67850a1115341b5790cb.svg"}}]);

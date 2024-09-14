@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[115664],{115664:(e,s,a)=>{e.exports=a.p+"static/media/briefcase-clock-outline.355fbdcf08408aabcf4c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[857009],{857009:(e,s,a)=>{e.exports=a.p+"static/media/mouse-scroll-wheel.099ebc2c2018e663b418.svg"}}]);

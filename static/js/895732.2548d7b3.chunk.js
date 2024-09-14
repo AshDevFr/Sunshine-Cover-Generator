@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[895732],{895732:(e,s,a)=>{e.exports=a.p+"static/media/star-circle-outline.0cee598f194c7317052e.svg"}}]);

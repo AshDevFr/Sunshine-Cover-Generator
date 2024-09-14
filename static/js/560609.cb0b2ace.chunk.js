@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[560609],{560609:(e,s,a)=>{e.exports=a.p+"static/media/newspaper-variant-multiple-outline.cc3b641f3d554220cd4b.svg"}}]);

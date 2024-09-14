@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[541746],{541746:(e,s,n)=>{e.exports=n.p+"static/media/countertop-outline.8f43dad10cb4f06fcb83.svg"}}]);

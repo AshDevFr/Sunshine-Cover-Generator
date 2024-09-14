@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[804412],{804412:(e,s,n)=>{e.exports=n.p+"static/media/nutrition.d1275b2d4bc12c2d8469.svg"}}]);

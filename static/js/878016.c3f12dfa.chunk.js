@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[878016],{878016:(e,s,n)=>{e.exports=n.p+"static/media/play-network-outline.502d2ec8868cdc606122.svg"}}]);

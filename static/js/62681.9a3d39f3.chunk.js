@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[62681],{62681:(e,s,a)=>{e.exports=a.p+"static/media/sun-thermometer.148b388d7d4d974e1a6e.svg"}}]);

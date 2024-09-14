@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[682108],{682108:(e,s,a)=>{e.exports=a.p+"static/media/comma-circle.ce99fd26f08c9ee58a4e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[952247],{952247:(e,s,a)=>{e.exports=a.p+"static/media/face-woman-shimmer-outline.5ecd6e6a792cccb13c9e.svg"}}]);

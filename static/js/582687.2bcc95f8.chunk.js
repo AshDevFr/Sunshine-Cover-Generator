@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[582687],{582687:(e,s,a)=>{e.exports=a.p+"static/media/star-david.82bbe57cf6d682bc5220.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[88654],{88654:(e,s,a)=>{e.exports=a.p+"static/media/emoticon-dead-outline.301514910c9885a67523.svg"}}]);

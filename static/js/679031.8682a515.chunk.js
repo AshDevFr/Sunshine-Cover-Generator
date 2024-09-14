@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[679031],{679031:(e,s,n)=>{e.exports=n.p+"static/media/cellphone-link-off.22992059c1646497bb33.svg"}}]);

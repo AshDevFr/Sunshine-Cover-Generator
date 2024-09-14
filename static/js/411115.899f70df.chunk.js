@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[411115],{411115:(e,s,a)=>{e.exports=a.p+"static/media/seat-recline-extra.fe324f2a5cd54ed3de0a.svg"}}]);

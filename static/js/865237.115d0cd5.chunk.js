@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[865237],{865237:(e,s,i)=>{e.exports=i.p+"static/media/pencil-box-multiple-outline.17ad526397f0110b85b2.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[627724],{627724:(e,s,a)=>{e.exports=a.p+"static/media/apple-ios.6cbeffaf48c6339505fd.svg"}}]);

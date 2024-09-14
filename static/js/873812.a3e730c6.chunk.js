@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[873812],{873812:(e,s,n)=>{e.exports=n.p+"static/media/file-undo-outline.d22e75fae00f40926677.svg"}}]);

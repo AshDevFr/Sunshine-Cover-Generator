@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[310871],{310871:(e,s,a)=>{e.exports=a.p+"static/media/tray-alert.ec41208cc49064ab439b.svg"}}]);

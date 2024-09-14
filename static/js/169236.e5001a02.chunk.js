@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[169236],{169236:(e,s,c)=>{e.exports=c.p+"static/media/clipboard-check-multiple.597007246cec000fd7c5.svg"}}]);

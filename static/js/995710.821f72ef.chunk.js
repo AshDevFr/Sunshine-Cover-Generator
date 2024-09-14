@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[995710],{995710:(e,s,a)=>{e.exports=a.p+"static/media/trackpad.76ddf952bb78975f9d56.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[302745],{302745:(e,s,a)=>{e.exports=a.p+"static/media/thermostat.4cba16912e58e13e9fb7.svg"}}]);

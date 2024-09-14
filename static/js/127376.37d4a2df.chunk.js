@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[127376],{127376:(e,a,s)=>{e.exports=s.p+"static/media/flag-off.56252c61da0eabd8a8cf.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[656303],{656303:(e,s,n)=>{e.exports=n.p+"static/media/nintendo-game-boy.b09c9e08f44c31b2ab8f.svg"}}]);

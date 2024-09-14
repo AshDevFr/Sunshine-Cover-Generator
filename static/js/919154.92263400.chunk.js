@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[919154],{919154:(e,s,a)=>{e.exports=a.p+"static/media/caravan.10b10d1123919f41909d.svg"}}]);

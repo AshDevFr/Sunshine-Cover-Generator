@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[294514],{294514:(e,s,a)=>{e.exports=a.p+"static/media/pizza.8a676cbc4655dd1b774a.svg"}}]);

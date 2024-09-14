@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[208780],{208780:(e,s,a)=>{e.exports=a.p+"static/media/briefcase-eye.58b634490aebb2621488.svg"}}]);

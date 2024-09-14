@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[786530],{786530:(e,s,a)=>{e.exports=a.p+"static/media/silverware-spoon.12ffeb43d059aa5477a4.svg"}}]);

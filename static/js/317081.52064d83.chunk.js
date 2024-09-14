@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[317081],{317081:(e,a,s)=>{e.exports=s.p+"static/media/power-on.1fa72ac49fcdac7d8ac0.svg"}}]);

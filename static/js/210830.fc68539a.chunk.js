@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[210830],{210830:(e,s,a)=>{e.exports=a.p+"static/media/train-car-gondola.f94980bc0584210f1e8f.svg"}}]);

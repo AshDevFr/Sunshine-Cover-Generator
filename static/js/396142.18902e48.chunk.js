@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[396142],{396142:(e,a,s)=>{e.exports=s.p+"static/media/camera-party-mode.c5953e238e43aaa307f0.svg"}}]);

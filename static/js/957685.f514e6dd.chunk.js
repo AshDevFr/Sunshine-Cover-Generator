@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[957685],{957685:(e,s,a)=>{e.exports=a.p+"static/media/air-filter.23e87fb6849550a42a7f.svg"}}]);

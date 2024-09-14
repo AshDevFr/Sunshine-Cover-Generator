@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[865266],{865266:(e,a,s)=>{e.exports=s.p+"static/media/jira.f200e2ca7901332faaf8.svg"}}]);

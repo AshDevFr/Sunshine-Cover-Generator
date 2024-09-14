@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[220104],{220104:(e,s,a)=>{e.exports=a.p+"static/media/archive-star-outline.587072c14d1d52b6fd68.svg"}}]);

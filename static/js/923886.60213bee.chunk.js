@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[923886],{923886:(e,s,n)=>{e.exports=n.p+"static/media/square-rounded-outline.ec8208174467b9e22631.svg"}}]);

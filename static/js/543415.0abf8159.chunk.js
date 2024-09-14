@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[543415],{543415:(e,s,a)=>{e.exports=a.p+"static/media/air-humidifier-off.9ba9896362bfb4eb6fa0.svg"}}]);

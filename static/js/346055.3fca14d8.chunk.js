@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[346055],{346055:(e,s,a)=>{e.exports=a.p+"static/media/message-bulleted-off.f7f9c44197c5709868d3.svg"}}]);

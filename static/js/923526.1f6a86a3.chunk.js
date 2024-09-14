@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[923526],{923526:(e,s,a)=>{e.exports=a.p+"static/media/monitor-eye.b1f3dc4a46c0f5a1fe8e.svg"}}]);

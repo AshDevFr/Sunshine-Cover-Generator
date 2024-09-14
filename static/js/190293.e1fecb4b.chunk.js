@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[190293],{190293:(e,s,a)=>{e.exports=a.p+"static/media/music-clef-treble.ac45b079a033ea1c18ae.svg"}}]);

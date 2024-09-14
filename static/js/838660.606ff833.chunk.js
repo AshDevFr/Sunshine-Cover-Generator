@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[838660],{838660:(e,s,t)=>{e.exports=t.p+"static/media/format-list-numbered-rtl.912f76617e9889e9fe36.svg"}}]);

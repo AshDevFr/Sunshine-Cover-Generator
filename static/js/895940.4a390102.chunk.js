@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[895940],{895940:(e,s,a)=>{e.exports=a.p+"static/media/gamepad-right.8ef99a40554e55c6f393.svg"}}]);

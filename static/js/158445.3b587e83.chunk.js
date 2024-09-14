@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[158445],{158445:(e,s,a)=>{e.exports=a.p+"static/media/gas-station-outline.c65bba2899b1cab3fd35.svg"}}]);

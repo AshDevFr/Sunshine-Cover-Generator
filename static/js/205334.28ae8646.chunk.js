@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[205334],{205334:(e,s,a)=>{e.exports=a.p+"static/media/guitar-acoustic.6762f2a4027914e2b14a.svg"}}]);

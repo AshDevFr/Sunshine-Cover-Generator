@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[608546],{608546:(e,s,n)=>{e.exports=n.p+"static/media/tooltip-cellphone.631441827bcbd64fd124.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[637172],{637172:(e,a,s)=>{e.exports=s.p+"static/media/watering-can.1d57ba7024a64a941226.svg"}}]);

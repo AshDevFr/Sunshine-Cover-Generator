@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[898234],{898234:(e,s,a)=>{e.exports=a.p+"static/media/cards-diamond.2f517326737b28b26f23.svg"}}]);

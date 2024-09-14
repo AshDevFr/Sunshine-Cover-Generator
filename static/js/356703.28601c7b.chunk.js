@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[356703],{356703:(e,s,a)=>{e.exports=a.p+"static/media/folder-network.4e82b289a852ba429082.svg"}}]);

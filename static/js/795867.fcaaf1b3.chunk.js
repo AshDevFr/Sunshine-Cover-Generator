@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[795867],{795867:(e,s,a)=>{e.exports=a.p+"static/media/calendar-multiple.2fc370036f1fd42930c7.svg"}}]);

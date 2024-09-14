@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[517085],{517085:(e,s,a)=>{e.exports=a.p+"static/media/remote-tv.e3389a4697fde536293c.svg"}}]);

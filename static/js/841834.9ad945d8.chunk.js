@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[841834],{841834:(e,s,a)=>{e.exports=a.p+"static/media/bottle-wine.aede038edeb129280f4a.svg"}}]);

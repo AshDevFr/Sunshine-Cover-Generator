@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[235954],{235954:(e,a,s)=>{e.exports=s.p+"static/media/battery-bluetooth-variant.2e84316e00e55a53064d.svg"}}]);

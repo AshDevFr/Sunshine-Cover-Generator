@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[577555],{577555:(e,s,a)=>{e.exports=a.p+"static/media/car-speed-limiter.d04451abd19d4cd8b62b.svg"}}]);

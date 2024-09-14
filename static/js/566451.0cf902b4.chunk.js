@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[566451],{566451:(e,s,a)=>{e.exports=a.p+"static/media/pine-tree-box.7eae94351c3f4d140ba0.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[95749],{95749:(e,a,s)=>{e.exports=s.p+"static/media/garage-variant.39adb4c9a46fa2e230c8.svg"}}]);

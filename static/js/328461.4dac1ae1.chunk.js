@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[328461],{328461:(e,s,a)=>{e.exports=a.p+"static/media/chart-line.692b7039e82528d98378.svg"}}]);

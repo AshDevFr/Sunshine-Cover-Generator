@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[32069],{32069:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-low.90856cfb254217e7de0a.svg"}}]);

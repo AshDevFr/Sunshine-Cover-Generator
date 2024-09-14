@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[260591],{260591:(e,s,a)=>{e.exports=a.p+"static/media/book-marker-outline.0b0552286e4482182395.svg"}}]);

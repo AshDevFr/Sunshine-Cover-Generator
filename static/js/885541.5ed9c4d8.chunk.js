@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[885541],{885541:(e,s,a)=>{e.exports=a.p+"static/media/toggle-switch-variant.dc456c03036db83db117.svg"}}]);

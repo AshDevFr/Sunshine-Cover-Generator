@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[688130],{688130:(e,s,a)=>{e.exports=a.p+"static/media/robot-love-outline.bbca0d54d1051a17af35.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[979516],{979516:(e,s,a)=>{e.exports=a.p+"static/media/code-braces.baa8bcf936eb81e152ad.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[674671],{674671:(e,s,a)=>{e.exports=a.p+"static/media/axis-z-rotate-counterclockwise.ce187b8bfbad651268b6.svg"}}]);

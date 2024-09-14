@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[760566],{760566:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-lines.33ee144a42d162de78fa.svg"}}]);

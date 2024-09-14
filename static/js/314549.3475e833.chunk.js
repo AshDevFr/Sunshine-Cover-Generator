@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[314549],{314549:(e,s,i)=>{e.exports=i.p+"static/media/sign-yield.490641947b282e4fb684.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[821448],{821448:(e,s,n)=>{e.exports=n.p+"static/media/pin-off-outline.de8f9f83b89bdb50eeef.svg"}}]);

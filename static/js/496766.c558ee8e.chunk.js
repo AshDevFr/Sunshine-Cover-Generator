@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[496766],{496766:(e,s,a)=>{e.exports=a.p+"static/media/ballot-recount-outline.55ca8988faeb70ef1267.svg"}}]);

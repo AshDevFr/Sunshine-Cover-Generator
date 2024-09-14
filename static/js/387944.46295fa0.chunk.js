@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[387944],{387944:(e,a,s)=>{e.exports=s.p+"static/media/pokemon-go.31afb049772aae6254ab.svg"}}]);

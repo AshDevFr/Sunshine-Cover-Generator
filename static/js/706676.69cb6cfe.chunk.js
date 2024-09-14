@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[706676],{706676:(e,a,s)=>{e.exports=s.p+"static/media/timer-cancel.b490f3869a900a156a92.svg"}}]);

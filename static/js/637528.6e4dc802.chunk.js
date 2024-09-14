@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[637528],{637528:(e,s,a)=>{e.exports=a.p+"static/media/mustache.296f62fa5bfc870e0f5c.svg"}}]);

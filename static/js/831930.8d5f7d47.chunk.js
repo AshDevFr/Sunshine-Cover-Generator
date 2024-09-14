@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[831930],{831930:(e,s,a)=>{e.exports=a.p+"static/media/music-rest-half.31e08adf327f58cccf6c.svg"}}]);

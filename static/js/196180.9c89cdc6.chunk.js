@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[196180],{196180:(e,s,i)=>{e.exports=i.p+"static/media/asterisk-circle-outline.0f33cf828ddc07f58473.svg"}}]);

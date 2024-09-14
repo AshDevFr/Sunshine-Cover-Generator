@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[372724],{372724:(e,s,a)=>{e.exports=a.p+"static/media/medical-bag.59d83125d9b100b465f7.svg"}}]);

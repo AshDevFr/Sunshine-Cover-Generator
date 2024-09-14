@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[891106],{891106:(e,s,n)=>{e.exports=n.p+"static/media/folder-pound-outline.bea47e92dd869656528d.svg"}}]);

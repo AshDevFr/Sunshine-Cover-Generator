@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[510971],{510971:(e,s,a)=>{e.exports=a.p+"static/media/chart-areaspline.67275b1727f773795839.svg"}}]);

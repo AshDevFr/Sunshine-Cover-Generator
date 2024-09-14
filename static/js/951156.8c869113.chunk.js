@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[951156],{951156:(e,s,a)=>{e.exports=a.p+"static/media/bone-off.7cf24f3db53a31d3f8da.svg"}}]);

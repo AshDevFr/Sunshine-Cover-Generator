@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[660315],{660315:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-check.47f7bf5d651c2c001dba.svg"}}]);

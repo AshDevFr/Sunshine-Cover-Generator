@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[901396],{901396:(e,s,a)=>{e.exports=a.p+"static/media/star-crescent.ec1e6ecc7300876d0245.svg"}}]);

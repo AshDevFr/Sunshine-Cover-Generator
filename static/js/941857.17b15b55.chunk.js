@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[941857],{941857:(e,s,a)=>{e.exports=a.p+"static/media/glass-cocktail-off.d30117af9f8467d350f4.svg"}}]);

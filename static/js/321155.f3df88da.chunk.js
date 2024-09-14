@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[321155],{321155:(e,s,a)=>{e.exports=a.p+"static/media/fridge-top.b7df041ce7b295147e46.svg"}}]);

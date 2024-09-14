@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[90181],{90181:(e,a,s)=>{e.exports=s.p+"static/media/human-cane.f9745a33e34e4f772a1c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[939537],{939537:(e,s,n)=>{e.exports=n.p+"static/media/pencil-remove-outline.a18e887f9c6ebff9d32c.svg"}}]);

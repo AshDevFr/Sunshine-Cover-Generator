@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[962308],{962308:(e,s,a)=>{e.exports=a.p+"static/media/train-car-passenger.9e2c789477167933db22.svg"}}]);

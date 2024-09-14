@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[657824],{657824:(e,s,a)=>{e.exports=a.p+"static/media/briefcase-upload.af31eb3e43fd480bd5df.svg"}}]);

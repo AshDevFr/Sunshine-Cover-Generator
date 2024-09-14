@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[935634],{935634:(e,s,a)=>{e.exports=a.p+"static/media/sail-boat.317780fd04c7dee1f802.svg"}}]);

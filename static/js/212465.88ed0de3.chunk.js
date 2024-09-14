@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[212465],{212465:(e,s,a)=>{e.exports=a.p+"static/media/panorama-sphere.34f9066c012fb5be7dc7.svg"}}]);

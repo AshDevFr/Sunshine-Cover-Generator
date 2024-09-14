@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[823203],{823203:(e,s,a)=>{e.exports=a.p+"static/media/power-plug-off-outline.5a4179d8d5b87b4fc40a.svg"}}]);

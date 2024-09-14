@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[426877],{426877:(e,s,a)=>{e.exports=a.p+"static/media/chart-pie.bd36c349cc30dbfc6ea4.svg"}}]);

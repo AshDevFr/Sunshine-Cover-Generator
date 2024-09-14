@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[497718],{497718:(e,s,a)=>{e.exports=a.p+"static/media/mixed-reality.0b5ad5a3749999c48d41.svg"}}]);

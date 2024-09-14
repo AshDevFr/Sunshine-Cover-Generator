@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[471598],{471598:(e,s,a)=>{e.exports=a.p+"static/media/alphabet-tengwar.d525d0d4f8f131d58030.svg"}}]);

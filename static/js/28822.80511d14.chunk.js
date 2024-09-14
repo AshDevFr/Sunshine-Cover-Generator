@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[28822],{28822:(e,s,a)=>{e.exports=a.p+"static/media/track-light-off.b0598bfb25e937647ca3.svg"}}]);

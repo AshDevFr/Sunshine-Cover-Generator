@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[141468],{141468:(e,s,a)=>{e.exports=a.p+"static/media/decimal-decrease.2075b90f6a409f8ddbb0.svg"}}]);

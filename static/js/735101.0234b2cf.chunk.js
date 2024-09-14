@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[735101],{735101:(e,s,a)=>{e.exports=a.p+"static/media/chess-queen.0b43fd4b7df05ecece9a.svg"}}]);

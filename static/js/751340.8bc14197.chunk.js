@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[751340],{751340:(e,s,n)=>{e.exports=n.p+"static/media/noodles.694c5d22108e193dedd0.svg"}}]);

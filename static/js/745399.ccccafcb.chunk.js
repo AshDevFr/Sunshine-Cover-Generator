@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[745399],{745399:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-word.408ce9aa04bab7b570df.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[825486],{825486:(e,s,n)=>{e.exports=n.p+"static/media/wall-sconce-round-outline.221f4d5c7be6339f20ed.svg"}}]);

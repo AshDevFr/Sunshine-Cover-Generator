@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[775752],{775752:(e,a,s)=>{e.exports=s.p+"static/media/chart-pie-outline.4adea734fc0a7ab41e9f.svg"}}]);

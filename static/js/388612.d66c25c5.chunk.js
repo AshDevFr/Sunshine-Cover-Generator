@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[388612],{388612:(e,s,a)=>{e.exports=a.p+"static/media/clipboard-text.830956d010fdf083ea26.svg"}}]);

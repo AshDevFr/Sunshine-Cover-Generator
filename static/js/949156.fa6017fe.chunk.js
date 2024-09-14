@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[949156],{949156:(e,s,a)=>{e.exports=a.p+"static/media/gesture-swipe-up.7043ad59ba36fe20c4dc.svg"}}]);

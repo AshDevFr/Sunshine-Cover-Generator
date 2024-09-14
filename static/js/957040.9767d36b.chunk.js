@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[957040],{957040:(e,a,s)=>{e.exports=s.p+"static/media/calendar-today.33e6a76a69d7a29c7aa8.svg"}}]);

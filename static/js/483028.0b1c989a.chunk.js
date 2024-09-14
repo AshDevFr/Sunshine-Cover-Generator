@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[483028],{483028:(e,s,a)=>{e.exports=a.p+"static/media/battery-minus-variant.c023e424a78168230633.svg"}}]);

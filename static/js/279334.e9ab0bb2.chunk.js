@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[279334],{279334:(e,s,a)=>{e.exports=a.p+"static/media/cradle-outline.44163897616515a3bce6.svg"}}]);

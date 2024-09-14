@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[390895],{390895:(e,s,a)=>{e.exports=a.p+"static/media/calendar-account-outline.435e9b84bf465035e4c2.svg"}}]);

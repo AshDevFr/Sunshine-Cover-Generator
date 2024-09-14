@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[217063],{217063:(e,s,a)=>{e.exports=a.p+"static/media/sticker-minus-outline.1c1a101d4d1198a0c2e6.svg"}}]);

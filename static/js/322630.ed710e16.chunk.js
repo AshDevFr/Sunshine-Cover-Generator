@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[322630],{322630:(e,s,a)=>{e.exports=a.p+"static/media/tower-fire.69eaa58f99c9d41eb0ec.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[672062],{672062:(e,s,a)=>{e.exports=a.p+"static/media/delete-outline.6a4cf361ce332548c3b9.svg"}}]);

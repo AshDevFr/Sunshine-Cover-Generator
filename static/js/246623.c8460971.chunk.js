@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[246623],{246623:(s,e,a)=>{s.exports=a.p+"static/media/microsoft-windows-classic.07f53dd2dd398ba3d8fc.svg"}}]);

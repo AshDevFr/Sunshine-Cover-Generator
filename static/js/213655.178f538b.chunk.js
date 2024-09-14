@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[213655],{213655:(e,s,a)=>{e.exports=a.p+"static/media/language-haskell.75d6e760657c2d384fe8.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[372504],{372504:(e,s,a)=>{e.exports=a.p+"static/media/hamburger-plus.9827c0045968899111c4.svg"}}]);

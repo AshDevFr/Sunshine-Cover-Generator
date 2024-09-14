@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[824482],{824482:(e,s,a)=>{e.exports=a.p+"static/media/cigar.5f4d932628cbc13e1058.svg"}}]);

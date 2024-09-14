@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[786104],{786104:(e,s,i)=>{e.exports=i.p+"static/media/music-box-multiple.f90b1f0432f2993315b1.svg"}}]);

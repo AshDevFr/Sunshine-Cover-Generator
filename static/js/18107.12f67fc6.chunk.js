@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[18107],{18107:(e,s,a)=>{e.exports=a.p+"static/media/human-greeting-variant.4b60517ef91fdc7040fd.svg"}}]);

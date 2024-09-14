@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[369545],{369545:(e,s,t)=>{e.exports=t.p+"static/media/tooltip-plus-outline.fc924fef717b40a7c837.svg"}}]);

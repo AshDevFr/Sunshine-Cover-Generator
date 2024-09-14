@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[179076],{179076:(e,s,a)=>{e.exports=a.p+"static/media/hospital.212e3dc0df6c09603fc2.svg"}}]);

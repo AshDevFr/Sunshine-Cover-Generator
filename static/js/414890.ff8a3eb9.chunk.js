@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[414890],{414890:(e,s,a)=>{e.exports=a.p+"static/media/cup-water.a2659198df78ee00653d.svg"}}]);

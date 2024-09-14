@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[650380],{650380:(e,s,a)=>{e.exports=a.p+"static/media/traffic-light.2842bea5ccbde6667a32.svg"}}]);

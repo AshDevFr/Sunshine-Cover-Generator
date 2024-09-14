@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[626673],{626673:(e,a,s)=>{e.exports=s.p+"static/media/information-slab-box.9a318ac7a403fdc4e714.svg"}}]);

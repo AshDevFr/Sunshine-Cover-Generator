@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[533287],{533287:(e,a,s)=>{e.exports=s.p+"static/media/hand-heart-outline.9d128b93bb274aea6703.svg"}}]);

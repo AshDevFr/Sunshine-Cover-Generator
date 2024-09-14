@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[581680],{581680:(e,s,a)=>{e.exports=a.p+"static/media/chess-rook.aa33e61250541b11bca6.svg"}}]);

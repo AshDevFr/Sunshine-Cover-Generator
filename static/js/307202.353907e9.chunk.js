@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[307202],{307202:(e,s,a)=>{e.exports=a.p+"static/media/human-wheelchair.47b708ae15f9562619b4.svg"}}]);

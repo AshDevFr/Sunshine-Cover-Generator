@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[393981],{393981:(e,s,t)=>{e.exports=t.p+"static/media/heart-settings-outline.7ca652d3df816d516e5e.svg"}}]);

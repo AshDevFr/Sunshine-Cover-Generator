@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[160457],{160457:(e,s,a)=>{e.exports=a.p+"static/media/file-star-four-points-outline.91c0558152738df8ac89.svg"}}]);

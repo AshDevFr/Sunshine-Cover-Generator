@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[968123],{968123:(e,a,s)=>{e.exports=s.p+"static/media/bullhorn-variant-outline.d952a21bd551faed0ca2.svg"}}]);

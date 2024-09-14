@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[214267],{214267:(e,s,a)=>{e.exports=a.p+"static/media/television-pause.2042cfd50a96960c23b0.svg"}}]);

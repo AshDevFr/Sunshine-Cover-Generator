@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[927510],{927510:(e,s,a)=>{e.exports=a.p+"static/media/hair-dryer-outline.02b802e6ea6cf805edac.svg"}}]);

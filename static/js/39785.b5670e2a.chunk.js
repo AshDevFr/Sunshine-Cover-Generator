@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[39785],{39785:(e,s,t)=>{e.exports=t.p+"static/media/receipt-text-check.0791c9df3d50027b062e.svg"}}]);

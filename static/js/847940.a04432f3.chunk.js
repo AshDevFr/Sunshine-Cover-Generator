@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[847940],{847940:(e,s,a)=>{e.exports=a.p+"static/media/spirit-level.6ef3625130972a846d87.svg"}}]);

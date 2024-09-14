@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[946980],{946980:(e,s,a)=>{e.exports=a.p+"static/media/tennis-ball-outline.2a7cc798d615dd96a596.svg"}}]);

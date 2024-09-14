@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[983043],{983043:(e,a,s)=>{e.exports=s.p+"static/media/coach-lamp-variant.f3339315094d9d4f8a45.svg"}}]);

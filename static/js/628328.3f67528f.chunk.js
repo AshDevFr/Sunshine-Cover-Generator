@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[628328],{628328:(e,a,s)=>{e.exports=s.p+"static/media/train-car-hopper-full.6bd5a45b77adfafae596.svg"}}]);

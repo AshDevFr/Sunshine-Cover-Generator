@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[948407],{948407:(e,s,a)=>{e.exports=a.p+"static/media/power-standby.2b01b2c48b94f5810abb.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[776304],{776304:(e,a,s)=>{e.exports=s.p+"static/media/wechat.911c53a3e5914e93aa6e.svg"}}]);

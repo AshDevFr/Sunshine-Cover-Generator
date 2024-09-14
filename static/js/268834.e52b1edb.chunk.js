@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[268834],{268834:(e,s,a)=>{e.exports=a.p+"static/media/bunk-bed.fe8d1b11a70dc81ea388.svg"}}]);

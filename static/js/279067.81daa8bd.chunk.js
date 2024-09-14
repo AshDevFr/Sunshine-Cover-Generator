@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[279067],{279067:(e,s,a)=>{e.exports=a.p+"static/media/cookie-cog-outline.b7fb07863d6d02351adb.svg"}}]);

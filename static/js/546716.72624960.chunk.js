@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[546716],{546716:(e,a,s)=>{e.exports=s.p+"static/media/train-car-centerbeam.cabc4d4cdea62774bcb6.svg"}}]);

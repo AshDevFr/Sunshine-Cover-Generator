@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[548654],{548654:(e,s,n)=>{e.exports=n.p+"static/media/magnify-minus.0bb2f45896d677519e4e.svg"}}]);

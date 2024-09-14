@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[16665],{16665:(e,s,a)=>{e.exports=a.p+"static/media/mouse-off.f690e8f22234e98a669a.svg"}}]);

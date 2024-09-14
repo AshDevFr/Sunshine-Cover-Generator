@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[125755],{125755:(e,s,a)=>{e.exports=a.p+"static/media/golf-cart.df2bc1056ce8b0522349.svg"}}]);

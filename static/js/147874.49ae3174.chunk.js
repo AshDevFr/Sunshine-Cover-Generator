@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[147874],{147874:(e,s,a)=>{e.exports=a.p+"static/media/temple-hindu.0fca500327e46f2be5f6.svg"}}]);

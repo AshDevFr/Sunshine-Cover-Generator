@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[928146],{928146:(e,a,s)=>{e.exports=s.p+"static/media/floor-lamp-torchiere-variant-outline.3ada58156fd8e54e1bcb.svg"}}]);

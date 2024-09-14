@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[234300],{234300:(e,s,a)=>{e.exports=a.p+"static/media/ray-end-arrow.84c194d6067ef344189b.svg"}}]);

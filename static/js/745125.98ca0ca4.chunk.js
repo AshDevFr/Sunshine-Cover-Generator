@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[745125],{745125:(e,s,a)=>{e.exports=a.p+"static/media/liquid-spot.2c0bff2e7a9b7b04912d.svg"}}]);

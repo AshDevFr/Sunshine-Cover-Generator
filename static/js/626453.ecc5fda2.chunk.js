@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[626453],{626453:(e,s,a)=>{e.exports=a.p+"static/media/trademark.2b02391b85e4b7bd10eb.svg"}}]);

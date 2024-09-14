@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[466141],{688522:(e,s,a)=>{e.exports=a.p+"static/media/baby-face.9778765b28f53654c566.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[377913],{377913:(e,a,s)=>{e.exports=s.p+"static/media/taco.197bdf72a85c956a7c4a.svg"}}]);

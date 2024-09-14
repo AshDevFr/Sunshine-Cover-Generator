@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[91204],{91204:(e,s,a)=>{e.exports=a.p+"static/media/food-drumstick-outline.3999ea515d8a7ec423e6.svg"}}]);

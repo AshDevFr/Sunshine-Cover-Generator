@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[436505],{436505:(e,s,a)=>{e.exports=a.p+"static/media/toaster-oven.99357f68e850767a952c.svg"}}]);

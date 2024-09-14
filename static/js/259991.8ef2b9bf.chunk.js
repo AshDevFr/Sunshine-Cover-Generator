@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[259991],{259991:(e,s,a)=>{e.exports=a.p+"static/media/coolant-temperature.1f0186ac2438f6bdd965.svg"}}]);

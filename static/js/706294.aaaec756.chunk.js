@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[706294],{706294:(e,s,a)=>{e.exports=a.p+"static/media/truck-off-road-off.51da5e2e4c6bb2600a87.svg"}}]);

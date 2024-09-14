@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[796982],{796982:(e,s,n)=>{e.exports=n.p+"static/media/skull-crossbones-outline.c8727dc265e7289f0d88.svg"}}]);

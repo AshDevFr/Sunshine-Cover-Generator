@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[35648],{35648:(e,s,a)=>{e.exports=a.p+"static/media/hvac-off.53525440cd0c8fb05970.svg"}}]);

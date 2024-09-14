@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[343120],{343120:(e,s,a)=>{e.exports=a.p+"static/media/swap-horizontal-circle-outline.5c58436d1ee307582338.svg"}}]);

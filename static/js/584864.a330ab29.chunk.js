@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[584864],{584864:(e,s,a)=>{e.exports=a.p+"static/media/butterfly-outline.08a2d7331592c3206aa4.svg"}}]);

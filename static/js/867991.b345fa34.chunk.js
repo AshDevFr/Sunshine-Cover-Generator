@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[867991],{867991:(e,s,a)=>{e.exports=a.p+"static/media/minus-circle-off.9ccafdab494d48e07576.svg"}}]);

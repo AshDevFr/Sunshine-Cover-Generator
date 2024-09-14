@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[590794],{590794:(e,s,n)=>{e.exports=n.p+"static/media/candy-off-outline.d13357c378f973f13845.svg"}}]);

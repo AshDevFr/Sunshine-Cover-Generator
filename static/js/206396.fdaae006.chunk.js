@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[206396],{206396:(e,s,a)=>{e.exports=a.p+"static/media/car-windshield.32234eeef830a3350d1f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[904471],{904471:(e,s,n)=>{e.exports=n.p+"static/media/trending-neutral.64d37fc68b5dd0f0855d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[118347],{118347:(e,s,a)=>{e.exports=a.p+"static/media/weather-sunny-alert.377923b05353022914f0.svg"}}]);

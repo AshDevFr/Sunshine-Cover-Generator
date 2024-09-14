@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[567951],{567951:(e,a,s)=>{e.exports=s.p+"static/media/electron-framework.20cb9fcc1596aa7eba82.svg"}}]);

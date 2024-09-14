@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[61888],{61888:(e,s,a)=>{e.exports=a.p+"static/media/cards-club.a7b0c0757c59f41c255a.svg"}}]);

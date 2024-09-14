@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[163816],{163816:(e,s,a)=>{e.exports=a.p+"static/media/decimal-increase.3d79f8d8e43cc4b1aa1e.svg"}}]);

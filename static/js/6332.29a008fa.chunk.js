@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[6332],{6332:(e,s,a)=>{e.exports=a.p+"static/media/floppy.2660b51c5ba850285471.svg"}}]);

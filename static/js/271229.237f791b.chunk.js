@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[271229],{271229:(e,s,a)=>{e.exports=a.p+"static/media/ethereum.9529fe9288c0e79f9658.svg"}}]);

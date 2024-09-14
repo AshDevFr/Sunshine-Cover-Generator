@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[21732],{21732:(e,s,a)=>{e.exports=a.p+"static/media/mouse-move-vertical.efc2877c1b4c48114bee.svg"}}]);

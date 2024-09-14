@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[550164],{550164:(e,s,a)=>{e.exports=a.p+"static/media/tram-side.9feb851da0601605f265.svg"}}]);

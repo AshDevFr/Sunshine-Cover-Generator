@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[70114],{70114:(e,s,a)=>{e.exports=a.p+"static/media/nail.8edaf476ee1c12de8831.svg"}}]);

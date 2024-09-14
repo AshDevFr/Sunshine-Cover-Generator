@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[72989],{72989:(e,s,n)=>{e.exports=n.p+"static/media/invert-colors-off.fd269b11277f40ef5fb7.svg"}}]);

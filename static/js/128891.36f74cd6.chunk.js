@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[128891],{128891:(e,s,a)=>{e.exports=a.p+"static/media/radio-fm.738781d34db22eebb419.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[796804],{796804:(e,s,a)=>{e.exports=a.p+"static/media/hand-okay.c1e0853dd0981708f009.svg"}}]);

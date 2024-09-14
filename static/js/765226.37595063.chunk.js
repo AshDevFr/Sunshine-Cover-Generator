@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[765226],{765226:(e,s,a)=>{e.exports=a.p+"static/media/silverware-variant.5b67d0fe4963ade1617e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[844144],{844144:(e,a,s)=>{e.exports=s.p+"static/media/bicycle-cargo.2184a6e4c647f6aba797.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[441285],{441285:(e,s,a)=>{e.exports=a.p+"static/media/beaker-outline.2a24a59058575b1ccd56.svg"}}]);

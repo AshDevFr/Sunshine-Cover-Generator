@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[457453],{457453:(e,s,a)=>{e.exports=a.p+"static/media/view-day-outline.a98c96f1bc643eed46fa.svg"}}]);

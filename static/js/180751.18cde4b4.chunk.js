@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[180751],{180751:(e,s,a)=>{e.exports=a.p+"static/media/bulma.554c012aa81c33cfd256.svg"}}]);

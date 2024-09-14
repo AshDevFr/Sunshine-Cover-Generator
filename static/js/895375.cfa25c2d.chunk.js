@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[895375],{895375:(e,s,a)=>{e.exports=a.p+"static/media/timer-off.5842425f2d947e7baa37.svg"}}]);

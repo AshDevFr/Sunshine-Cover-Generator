@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[959356],{959356:(e,s,a)=>{e.exports=a.p+"static/media/leaf-circle-outline.019593400946ff4e16f9.svg"}}]);

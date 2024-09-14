@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[297993],{297993:(e,s,a)=>{e.exports=a.p+"static/media/marker-cancel.ce62da431f93242f846d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[618234],{618234:(e,s,a)=>{e.exports=a.p+"static/media/car-defrost-front.b57ac07a927ee0f12637.svg"}}]);

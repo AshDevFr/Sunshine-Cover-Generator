@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[911945],{911945:(e,s,a)=>{e.exports=a.p+"static/media/basket-outline.486b92357faf374c386f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[162131],{162131:(e,s,a)=>{e.exports=a.p+"static/media/bus-marker.b086d152ce3c185347b2.svg"}}]);

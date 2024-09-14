@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[875369],{875369:(e,s,a)=>{e.exports=a.p+"static/media/highway.1097c7ab0bb97114809b.svg"}}]);

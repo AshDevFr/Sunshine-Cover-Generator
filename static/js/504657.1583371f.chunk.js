@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[504657],{504657:(e,s,a)=>{e.exports=a.p+"static/media/border-radius.ccb2b093608826f12ac9.svg"}}]);

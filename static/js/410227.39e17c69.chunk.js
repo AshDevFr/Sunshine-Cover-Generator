@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[410227],{410227:(e,s,a)=>{e.exports=a.p+"static/media/wall-sconce-round.33d2817d80342d67609a.svg"}}]);

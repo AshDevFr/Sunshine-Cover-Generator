@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[316139],{316139:(e,s,a)=>{e.exports=a.p+"static/media/gamepad-round-outline.d8bc27178e5ab589e489.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[934154],{934154:(e,s,a)=>{e.exports=a.p+"static/media/saw-blade.f184e55cb73781944145.svg"}}]);

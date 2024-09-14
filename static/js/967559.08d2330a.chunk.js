@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[967559],{967559:(e,s,a)=>{e.exports=a.p+"static/media/longitude.c3dce152a2dc35b9e9b1.svg"}}]);

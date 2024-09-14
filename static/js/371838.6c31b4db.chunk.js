@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[371838],{371838:(e,s,a)=>{e.exports=a.p+"static/media/fire-off.d5229e01c122d52e3d6f.svg"}}]);

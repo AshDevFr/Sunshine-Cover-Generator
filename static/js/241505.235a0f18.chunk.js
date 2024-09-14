@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[241505],{241505:(e,s,t)=>{e.exports=t.p+"static/media/thermometer-alert.0694d8e185592ef5717f.svg"}}]);

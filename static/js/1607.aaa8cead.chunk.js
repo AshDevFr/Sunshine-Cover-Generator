@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[1607],{1607:(e,a,s)=>{e.exports=s.p+"static/media/zodiac-sagittarius.a8aab669c5738d5c3924.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[600549],{600549:(e,s,n)=>{e.exports=n.p+"static/media/truck-plus-outline.044994c58ed4b88c2bfe.svg"}}]);

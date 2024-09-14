@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[179061],{179061:(e,s,i)=>{e.exports=i.p+"static/media/file-powerpoint-box-outline.d7b181f49fcfe95f1f0c.svg"}}]);

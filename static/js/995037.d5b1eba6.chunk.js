@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[995037],{995037:(e,s,a)=>{e.exports=a.p+"static/media/helicopter.1270c5a701552b009ecd.svg"}}]);

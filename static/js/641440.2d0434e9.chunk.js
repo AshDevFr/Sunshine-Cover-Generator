@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[641440],{641440:(e,s,a)=>{e.exports=a.p+"static/media/rename-box.a858e3d57f788528cc48.svg"}}]);

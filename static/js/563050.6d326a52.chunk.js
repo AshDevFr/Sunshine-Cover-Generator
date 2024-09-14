@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[563050],{563050:(e,a,s)=>{e.exports=s.p+"static/media/zodiac-aquarius.57afbecbef2afda16d71.svg"}}]);

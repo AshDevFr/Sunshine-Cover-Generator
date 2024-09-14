@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[916194],{916194:(e,s,a)=>{e.exports=a.p+"static/media/alarm-note.5fa25d11bd9f889671b5.svg"}}]);

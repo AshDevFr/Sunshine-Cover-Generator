@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[56927],{56927:(e,s,t)=>{e.exports=t.p+"static/media/battery-40-bluetooth.664f6ab7f61defd5f93b.svg"}}]);

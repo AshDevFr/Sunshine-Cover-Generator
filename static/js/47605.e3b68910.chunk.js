@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[47605],{47605:(e,s,a)=>{e.exports=a.p+"static/media/mortar-pestle.c7f46658927ffdb51e26.svg"}}]);

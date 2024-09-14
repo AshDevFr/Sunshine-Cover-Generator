@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[378920],{378920:(e,s,a)=>{e.exports=a.p+"static/media/heart-box.c2089ca9306733f446d5.svg"}}]);

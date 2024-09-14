@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[356457],{356457:(e,s,a)=>{e.exports=a.p+"static/media/fridge-industrial.f8074ea8556acadb6cfe.svg"}}]);

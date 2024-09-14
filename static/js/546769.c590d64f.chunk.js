@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[546769],{546769:(e,s,a)=>{e.exports=a.p+"static/media/rounded-corner.c17cadaf5370df219e5a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[983728],{983728:(e,s,a)=>{e.exports=a.p+"static/media/car-brake-hold.ec6c5b6955f1436ff4bd.svg"}}]);

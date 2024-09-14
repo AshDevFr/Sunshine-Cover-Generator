@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[960739],{960739:(e,s,a)=>{e.exports=a.p+"static/media/wifi-strength-2-alert.2ffb656b65383bad28b3.svg"}}]);

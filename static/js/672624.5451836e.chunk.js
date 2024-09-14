@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[672624],{672624:(e,s,a)=>{e.exports=a.p+"static/media/bike-pedal-mountain.c222893b92b9cce3a759.svg"}}]);

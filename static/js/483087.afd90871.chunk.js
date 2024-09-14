@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[483087],{483087:(e,s,a)=>{e.exports=a.p+"static/media/pistol.e5cea5c9498f9db6f864.svg"}}]);

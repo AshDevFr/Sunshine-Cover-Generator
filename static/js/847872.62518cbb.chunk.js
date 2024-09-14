@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[847872],{847872:(e,a,s)=>{e.exports=s.p+"static/media/weather-tornado.bf7b98cfd940ca5549ac.svg"}}]);

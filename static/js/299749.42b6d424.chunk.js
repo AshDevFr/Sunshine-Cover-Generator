@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[299749],{299749:(e,s,i)=>{e.exports=i.p+"static/media/archive-music-outline.705ef0f76918857e764b.svg"}}]);

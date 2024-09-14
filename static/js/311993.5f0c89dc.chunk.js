@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[311993],{311993:(e,s,a)=>{e.exports=a.p+"static/media/magazine-rifle.8409f7904873ac30f3cd.svg"}}]);

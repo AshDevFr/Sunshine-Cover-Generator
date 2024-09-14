@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[690283],{690283:(e,s,a)=>{e.exports=a.p+"static/media/fan-auto.f2d8d1bda7e73f49f9de.svg"}}]);

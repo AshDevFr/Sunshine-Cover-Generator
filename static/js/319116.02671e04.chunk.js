@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[319116],{319116:(e,s,a)=>{e.exports=a.p+"static/media/book-education.4e5d1db8232681be6417.svg"}}]);

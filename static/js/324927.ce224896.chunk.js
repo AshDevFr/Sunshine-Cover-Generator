@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[324927],{324927:(e,s,a)=>{e.exports=a.p+"static/media/cards-playing-heart.26f03c1d803e9fe24a95.svg"}}]);

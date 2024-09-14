@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[922867],{922867:(e,s,a)=>{e.exports=a.p+"static/media/eight-track.e662f9704f2c025628c2.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[47245],{47245:(e,s,a)=>{e.exports=a.p+"static/media/wave-undercurrent.1a1635bf0ee6718ed19c.svg"}}]);

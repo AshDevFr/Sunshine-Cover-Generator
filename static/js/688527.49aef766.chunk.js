@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[688527],{688527:(e,s,i)=>{e.exports=i.p+"static/media/light-switch.37910d575d38f93c6877.svg"}}]);

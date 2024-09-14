@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[873272],{873272:(e,s,a)=>{e.exports=a.p+"static/media/coffee-maker-outline.8cc337da1e4bae73d52f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[637977],{637977:(e,s,t)=>{e.exports=t.p+"static/media/tooltip-text.8d44c9e267b51eb4ea18.svg"}}]);

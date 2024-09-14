@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[244648],{244648:(e,a,s)=>{e.exports=s.p+"static/media/pause-octagon.aac9ed59afc86a28a9ca.svg"}}]);

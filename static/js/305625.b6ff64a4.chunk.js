@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[305625],{305625:(e,s,a)=>{e.exports=a.p+"static/media/gauge-empty.75a2fdfc4018ceefb566.svg"}}]);

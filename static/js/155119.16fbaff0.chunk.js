@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[155119],{155119:(e,s,a)=>{e.exports=a.p+"static/media/screen-rotation.3040604a93fedf92ac1c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[254084],{254084:(e,s,a)=>{e.exports=a.p+"static/media/monitor-shimmer.f322a395bc2e84e07d6a.svg"}}]);

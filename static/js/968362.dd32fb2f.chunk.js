@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[968362],{968362:(e,s,a)=>{e.exports=a.p+"static/media/bullhorn-variant.1b49eb7e7c07f63db816.svg"}}]);

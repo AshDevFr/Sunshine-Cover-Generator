@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[520753],{520753:(e,s,a)=>{e.exports=a.p+"static/media/zodiac-cancer.dfc928e37458cd966e8e.svg"}}]);

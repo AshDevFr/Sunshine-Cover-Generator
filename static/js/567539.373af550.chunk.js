@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[567539],{567539:(e,a,s)=>{e.exports=s.p+"static/media/led-variant-off.581a7b88023094e4ba9b.svg"}}]);

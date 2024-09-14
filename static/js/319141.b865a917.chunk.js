@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[319141],{319141:(e,s,a)=>{e.exports=a.p+"static/media/shipping-pallet.dd6ecd73a9ac0890960e.svg"}}]);

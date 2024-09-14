@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[726768],{726768:(e,s,a)=>{e.exports=a.p+"static/media/skip-backward-outline.d2ffca4976f110ab9713.svg"}}]);

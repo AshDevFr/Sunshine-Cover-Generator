@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[385591],{385591:(e,s,a)=>{e.exports=a.p+"static/media/bank-minus.d6e80a8cbafc362cbd2c.svg"}}]);

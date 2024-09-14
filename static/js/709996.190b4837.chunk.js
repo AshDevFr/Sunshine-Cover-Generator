@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[709996],{709996:(e,s,n)=>{e.exports=n.p+"static/media/phone-hangup.2835cc6d627b95e4c807.svg"}}]);

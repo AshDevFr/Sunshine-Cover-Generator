@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[937959],{937959:(e,s,a)=>{e.exports=a.p+"static/media/credit-card-refund.0ab2f8404b22fab533e0.svg"}}]);

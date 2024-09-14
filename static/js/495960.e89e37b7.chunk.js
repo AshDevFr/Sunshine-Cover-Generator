@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[495960],{495960:(e,s,n)=>{e.exports=n.p+"static/media/netflix.b3f95e16f73224b3063f.svg"}}]);

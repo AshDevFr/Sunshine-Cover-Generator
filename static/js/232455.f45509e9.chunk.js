@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[232455],{232455:(e,a,s)=>{e.exports=s.p+"static/media/car-arrow-right.291ec8a29abd0a2be5ed.svg"}}]);

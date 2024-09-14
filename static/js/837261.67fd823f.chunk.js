@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[837261],{837261:(e,s,a)=>{e.exports=a.p+"static/media/treasure-chest.fae7fd633957e34edd1e.svg"}}]);

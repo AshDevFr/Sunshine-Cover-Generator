@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[771629],{771629:(e,a,s)=>{e.exports=s.p+"static/media/ideogram-cjk-variant.6a79069c6fc3248664d0.svg"}}]);

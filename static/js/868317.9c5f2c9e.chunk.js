@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[868317],{868317:(e,s,a)=>{e.exports=a.p+"static/media/rugby.87abb1d52328dc3cfa8d.svg"}}]);

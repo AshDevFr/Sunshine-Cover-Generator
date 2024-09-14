@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[231597],{231597:(e,s,a)=>{e.exports=a.p+"static/media/dice-4-outline.dcea6731d582da8fb972.svg"}}]);

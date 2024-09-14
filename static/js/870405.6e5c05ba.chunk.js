@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[870405],{870405:(e,s,n)=>{e.exports=n.p+"static/media/inbox-full-outline.71140d3187850bf09ca3.svg"}}]);

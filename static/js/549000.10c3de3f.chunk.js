@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[549e3],{549e3:(e,s,a)=>{e.exports=a.p+"static/media/guy-fawkes-mask.9e4bf37493d13d81c4df.svg"}}]);

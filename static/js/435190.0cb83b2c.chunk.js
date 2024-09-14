@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[435190],{435190:(e,s,a)=>{e.exports=a.p+"static/media/memory-arrow-down.3c007ea377512c44de0a.svg"}}]);

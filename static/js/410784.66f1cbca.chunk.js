@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[410784],{410784:(e,s,a)=>{e.exports=a.p+"static/media/dolly.7ca2a4c6831e8844dd5f.svg"}}]);

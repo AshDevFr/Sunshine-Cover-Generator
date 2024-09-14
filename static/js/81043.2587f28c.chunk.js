@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[81043],{81043:(e,s,a)=>{e.exports=a.p+"static/media/unfold-more-vertical.f2f1b8f29d769b8b58ae.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[147034],{147034:(e,s,a)=>{e.exports=a.p+"static/media/google-spreadsheet.0ed7cc24207e393bdfdc.svg"}}]);

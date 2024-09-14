@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[846861],{846861:(e,s,a)=>{e.exports=a.p+"static/media/camera-burst.75e4faae09e9596692ce.svg"}}]);

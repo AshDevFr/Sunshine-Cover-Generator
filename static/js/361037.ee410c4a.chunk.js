@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[361037],{361037:(e,s,a)=>{e.exports=a.p+"static/media/tune-vertical.b5251e1b9e8fef68fe83.svg"}}]);

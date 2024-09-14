@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[128744],{128744:(e,s,a)=>{e.exports=a.p+"static/media/skew-more.62dc098d7475ae6a80fd.svg"}}]);

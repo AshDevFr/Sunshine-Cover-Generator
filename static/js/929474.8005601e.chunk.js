@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[929474],{929474:(e,s,a)=>{e.exports=a.p+"static/media/monitor-speaker-off.39b8e3e82f4f55f40d5b.svg"}}]);

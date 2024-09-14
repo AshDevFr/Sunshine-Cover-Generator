@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[362582],{362582:(e,s,a)=>{e.exports=a.p+"static/media/skate.390fc0afe3282ce46b86.svg"}}]);

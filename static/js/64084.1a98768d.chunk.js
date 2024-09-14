@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[64084],{64084:(e,s,a)=>{e.exports=a.p+"static/media/globe-light.92b472336586a03e1ebe.svg"}}]);

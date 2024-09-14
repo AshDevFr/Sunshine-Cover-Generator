@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[634552],{634552:(e,s,a)=>{e.exports=a.p+"static/media/bag-personal-off-outline.7fe5883590689d4d6d1a.svg"}}]);

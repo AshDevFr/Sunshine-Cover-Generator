@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[926164],{926164:(e,s,a)=>{e.exports=a.p+"static/media/car-cruise-control.b175626b83f55414b4f1.svg"}}]);

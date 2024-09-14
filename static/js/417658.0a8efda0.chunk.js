@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[417658],{417658:(e,a,s)=>{e.exports=s.p+"static/media/manjaro.5528f2ccbc78cfdaaf5b.svg"}}]);

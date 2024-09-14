@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[886498],{886498:(e,s,a)=>{e.exports=a.p+"static/media/book-cancel.4247642d21e8490a7d8a.svg"}}]);

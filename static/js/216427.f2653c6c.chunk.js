@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[216427],{216427:(e,s,a)=>{e.exports=a.p+"static/media/wall-sconce-flat-variant-outline.27c58e445356f6dcbff6.svg"}}]);

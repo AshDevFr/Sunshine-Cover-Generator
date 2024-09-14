@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[962030],{962030:(e,s,a)=>{e.exports=a.p+"static/media/swap-horizontal.d759348d935358a0e06f.svg"}}]);

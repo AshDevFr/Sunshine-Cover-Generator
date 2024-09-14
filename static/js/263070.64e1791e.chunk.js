@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[263070],{263070:(e,a,s)=>{e.exports=s.p+"static/media/faucet-variant.5cb5a03b98d27f5b1115.svg"}}]);

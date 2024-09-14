@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[162791],{162791:(e,s,a)=>{e.exports=a.p+"static/media/hockey-sticks.84e385e15292f60bc068.svg"}}]);

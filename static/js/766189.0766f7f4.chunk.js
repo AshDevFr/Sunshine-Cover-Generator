@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[766189],{766189:(e,s,a)=>{e.exports=a.p+"static/media/drama-masks.0330163a30ac7754f222.svg"}}]);

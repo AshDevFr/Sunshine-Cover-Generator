@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[822296],{822296:(e,s,a)=>{e.exports=a.p+"static/media/magic-staff.ed2284e3f5626a584336.svg"}}]);

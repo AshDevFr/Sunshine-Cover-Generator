@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[423466],{423466:(e,s,a)=>{e.exports=a.p+"static/media/book-heart.32e22ca6f3f13e21bd98.svg"}}]);

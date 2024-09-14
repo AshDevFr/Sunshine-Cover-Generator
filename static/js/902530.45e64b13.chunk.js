@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[902530],{902530:(e,s,a)=>{e.exports=a.p+"static/media/signature.f4bdbfea11a6dbe990ed.svg"}}]);

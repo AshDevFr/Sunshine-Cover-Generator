@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[756607],{756607:(e,s,a)=>{e.exports=a.p+"static/media/baby-carriage.b75556d61876755cdc92.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[747084],{747084:(e,s,a)=>{e.exports=a.p+"static/media/shield-star.b3248c3b17deab34cd7f.svg"}}]);

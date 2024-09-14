@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[312420],{312420:(e,s,a)=>{e.exports=a.p+"static/media/paper-roll.36379500464666deadde.svg"}}]);

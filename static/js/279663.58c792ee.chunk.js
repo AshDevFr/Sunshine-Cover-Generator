@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[279663],{279663:(e,s,a)=>{e.exports=a.p+"static/media/laravel.bcc857d04a214098d5cc.svg"}}]);

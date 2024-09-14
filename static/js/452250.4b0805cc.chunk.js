@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[452250],{452250:(e,s,t)=>{e.exports=t.p+"static/media/music-note-sixteenth-dotted.1da1245f9c352d0a7f8f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[170101],{170101:(e,s,a)=>{e.exports=a.p+"static/media/water-percent.8b3ca0cc3e8798eac13b.svg"}}]);

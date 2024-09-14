@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[500595],{500595:(e,s,a)=>{e.exports=a.p+"static/media/bell-badge.9142e94d5e41388d82e8.svg"}}]);

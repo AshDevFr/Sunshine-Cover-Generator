@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[4454],{4454:(e,s,a)=>{e.exports=a.p+"static/media/chart-scatter-plot-hexbin.5adf9ce2c320f4e50823.svg"}}]);

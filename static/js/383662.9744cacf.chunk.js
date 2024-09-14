@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[383662],{383662:(e,s,a)=>{e.exports=a.p+"static/media/face-woman-shimmer.9724ef7b130aa5cc5083.svg"}}]);

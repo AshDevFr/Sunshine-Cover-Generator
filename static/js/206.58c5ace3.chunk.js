@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[206],{206:(e,s,a)=>{e.exports=a.p+"static/media/book-music-outline.8e5e6abc2461a59e5996.svg"}}]);

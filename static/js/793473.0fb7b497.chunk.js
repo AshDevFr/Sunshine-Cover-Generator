@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[793473],{793473:(e,s,a)=>{e.exports=a.p+"static/media/rolodex.a9ebbb3f7b9c19ae7a88.svg"}}]);

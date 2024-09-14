@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[247936],{247936:(e,s,a)=>{e.exports=a.p+"static/media/windsock.aa4b11a9518c449ecbfa.svg"}}]);

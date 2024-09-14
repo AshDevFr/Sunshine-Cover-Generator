@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[505568],{505568:(e,s,a)=>{e.exports=a.p+"static/media/pyramid.7b6e01102f9280b9eaa8.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[334409],{334409:(e,s,a)=>{e.exports=a.p+"static/media/pentagram.d33221d0e377b8752429.svg"}}]);

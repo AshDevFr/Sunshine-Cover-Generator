@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[34293],{34293:(e,s,a)=>{e.exports=a.p+"static/media/sack-outline.2989b2ee2b83be4e86a2.svg"}}]);

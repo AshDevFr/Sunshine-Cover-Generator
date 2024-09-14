@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[574791],{574791:(e,s,i)=>{e.exports=i.p+"static/media/minus-circle-multiple-outline.92530f8d06f45b183cba.svg"}}]);

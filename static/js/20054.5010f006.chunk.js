@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[20054],{20054:(e,a,s)=>{e.exports=s.p+"static/media/email-heart-outline.13a00f5c8b351aebcf77.svg"}}]);

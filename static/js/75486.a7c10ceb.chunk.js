@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[75486],{75486:(e,s,a)=>{e.exports=a.p+"static/media/microphone-variant.51f292339bc0f39d2779.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[426577],{426577:(e,s,a)=>{e.exports=a.p+"static/media/tape-drive.ee89c3eb80120f49539f.svg"}}]);

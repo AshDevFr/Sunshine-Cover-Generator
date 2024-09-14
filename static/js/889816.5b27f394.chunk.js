@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[889816],{889816:(e,s,a)=>{e.exports=a.p+"static/media/chess-knight.9765361cc792a72d20ac.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[589483],{589483:(e,s,a)=>{e.exports=a.p+"static/media/snowboard.29d00ca2627e90dfdcb5.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[392479],{392479:(e,s,a)=>{e.exports=a.p+"static/media/keyboard-tab.7e69b8299cdcf6a547cf.svg"}}]);

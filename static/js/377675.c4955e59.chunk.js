@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[377675],{377675:(e,s,a)=>{e.exports=a.p+"static/media/cards-playing-spade-multiple.a22293b79957c684cbf8.svg"}}]);

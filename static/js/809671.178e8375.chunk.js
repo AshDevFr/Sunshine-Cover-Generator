@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[809671],{809671:(e,s,n)=>{e.exports=n.p+"static/media/lungs.2b41562ce0e657bc8e69.svg"}}]);

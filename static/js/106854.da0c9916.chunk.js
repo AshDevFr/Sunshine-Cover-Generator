@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[106854],{106854:(e,s,a)=>{e.exports=a.p+"static/media/face-man-profile.a8b6814d34cf2fd81d18.svg"}}]);

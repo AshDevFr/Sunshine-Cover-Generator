@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[98133],{98133:(e,s,a)=>{e.exports=a.p+"static/media/soy-sauce.6a12bcd3976d1e3bd054.svg"}}]);

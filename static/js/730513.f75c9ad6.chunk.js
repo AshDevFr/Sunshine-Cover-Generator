@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[730513],{730513:(e,a,s)=>{e.exports=s.p+"static/media/fridge-industrial-alert-outline.072d22aeabcbb8a33357.svg"}}]);

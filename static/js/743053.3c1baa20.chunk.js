@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[743053],{743053:(e,s,a)=>{e.exports=a.p+"static/media/clipboard-text-clock.77101e15066c16b559e2.svg"}}]);

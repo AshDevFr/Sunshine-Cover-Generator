@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[953698],{953698:(e,s,a)=>{e.exports=a.p+"static/media/cellphone-text.50ccbe7b905688ffa3d0.svg"}}]);

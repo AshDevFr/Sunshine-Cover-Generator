@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[161584],{161584:(e,s,a)=>{e.exports=a.p+"static/media/smoke-detector-variant.5b20a8e14d4f3e9f8a48.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[812872],{812872:(e,s,a)=>{e.exports=a.p+"static/media/fuse-blade.777cf8be8d29487cfd2c.svg"}}]);

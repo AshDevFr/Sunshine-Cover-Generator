@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[861741],{84122:(e,s,a)=>{e.exports=a.p+"static/media/hand-saw.be9328302473ef83eebb.svg"}}]);

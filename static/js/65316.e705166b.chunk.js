@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[65316],{65316:(e,s,a)=>{e.exports=a.p+"static/media/gauge-low.cf167c1268b369e1708a.svg"}}]);

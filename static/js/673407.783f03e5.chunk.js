@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[673407],{673407:(e,s,n)=>{e.exports=n.p+"static/media/rocket-outline.20d14302cb859fc99348.svg"}}]);

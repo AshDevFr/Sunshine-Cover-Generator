@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[390245],{390245:(e,s,a)=>{e.exports=a.p+"static/media/mosque-outline.a11db32310fb57bf6ff3.svg"}}]);

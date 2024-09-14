@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[494643],{494643:(e,a,s)=>{e.exports=s.p+"static/media/excavator.e560c5a005d73a9538e8.svg"}}]);

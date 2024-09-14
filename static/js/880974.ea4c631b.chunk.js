@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[880974],{880974:(e,s,a)=>{e.exports=a.p+"static/media/flag-plus-outline.92ffa06ef1c2b52182fd.svg"}}]);

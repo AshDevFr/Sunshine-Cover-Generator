@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[661846],{661846:(e,s,a)=>{e.exports=a.p+"static/media/elevator-passenger-off-outline.02ea4c693656bbef88d2.svg"}}]);

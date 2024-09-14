@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[56608],{56608:(e,s,a)=>{e.exports=a.p+"static/media/lightbulb-spot-off.9a133f0749172e3fa490.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[416365],{416365:(e,s,a)=>{e.exports=a.p+"static/media/email-arrow-left-outline.7679240258930d3580d9.svg"}}]);

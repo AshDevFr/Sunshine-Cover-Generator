@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[992946],{992946:(e,s,a)=>{e.exports=a.p+"static/media/tilde-off.705d22756e591794fb23.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[161722],{161722:(e,s,a)=>{e.exports=a.p+"static/media/bag-suitcase-off.ff96d8a5cec13866c07c.svg"}}]);

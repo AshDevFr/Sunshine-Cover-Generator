@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[801792],{801792:(e,s,a)=>{e.exports=a.p+"static/media/fridge-alert.caeec5c2fa25bfb92602.svg"}}]);

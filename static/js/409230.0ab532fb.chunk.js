@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[409230],{409230:(e,s,a)=>{e.exports=a.p+"static/media/battery-lock-open.0948d9c941cf2fbd7d89.svg"}}]);

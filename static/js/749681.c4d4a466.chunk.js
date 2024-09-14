@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[749681],{749681:(e,s,a)=>{e.exports=a.p+"static/media/puzzle-heart.8c73a2f119c8e5849712.svg"}}]);

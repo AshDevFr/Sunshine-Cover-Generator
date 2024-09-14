@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[921658],{921658:(e,s,t)=>{e.exports=t.p+"static/media/bluetooth-settings.02b668592ed27bb698ad.svg"}}]);

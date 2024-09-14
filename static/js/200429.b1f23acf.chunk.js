@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[200429],{200429:(e,s,a)=>{e.exports=a.p+"static/media/axe-battle.35295704c8391bc191c9.svg"}}]);

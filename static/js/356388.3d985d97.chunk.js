@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[356388],{356388:(e,s,a)=>{e.exports=a.p+"static/media/mouse-bluetooth.ab1d59de70dffd3861d1.svg"}}]);

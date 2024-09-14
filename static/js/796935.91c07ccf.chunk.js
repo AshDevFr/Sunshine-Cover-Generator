@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[796935],{796935:(e,s,a)=>{e.exports=a.p+"static/media/baby-buggy-off.3819f13145d0867ae7a1.svg"}}]);

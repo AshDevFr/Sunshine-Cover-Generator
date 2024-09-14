@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[460059],{460059:(e,s,a)=>{e.exports=a.p+"static/media/wallet-bifold-outline.03c2092daa432e811348.svg"}}]);

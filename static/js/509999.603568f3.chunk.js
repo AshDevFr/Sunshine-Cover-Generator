@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[509999],{509999:(e,s,a)=>{e.exports=a.p+"static/media/microphone-outline.932d8721d7fa48a6cbc9.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[885172],{885172:(e,s,n)=>{e.exports=n.p+"static/media/motion-pause-outline.5f38412299c168705cb8.svg"}}]);

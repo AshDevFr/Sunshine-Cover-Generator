@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[362690],{362690:(e,a,s)=>{e.exports=s.p+"static/media/panorama-outline.4a72f973de8b51c6e47b.svg"}}]);

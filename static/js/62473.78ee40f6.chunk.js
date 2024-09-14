@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[62473],{62473:(e,s,a)=>{e.exports=a.p+"static/media/glass-pint-outline.5ad4920a2c73ced946ec.svg"}}]);

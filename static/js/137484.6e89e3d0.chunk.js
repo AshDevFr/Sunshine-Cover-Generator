@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[137484],{137484:(e,s,t)=>{e.exports=t.p+"static/media/toggle-switch-off-outline.e9f923cee726bef41235.svg"}}]);

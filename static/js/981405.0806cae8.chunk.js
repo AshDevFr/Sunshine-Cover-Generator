@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[981405],{981405:(e,s,a)=>{e.exports=a.p+"static/media/postage-stamp.bb5a2ab9f5c48be0cd53.svg"}}]);

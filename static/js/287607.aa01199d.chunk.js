@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[287607],{287607:(e,s,n)=>{e.exports=n.p+"static/media/steering-off.b20760940bfbdc06749f.svg"}}]);

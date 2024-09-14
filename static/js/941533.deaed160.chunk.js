@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[941533],{941533:(e,a,s)=>{e.exports=s.p+"static/media/hands-pray.e72adf679a3efab0fe28.svg"}}]);

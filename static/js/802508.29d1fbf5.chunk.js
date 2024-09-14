@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[802508],{802508:(e,s,a)=>{e.exports=a.p+"static/media/google-glass.3b82c495a59149b3a410.svg"}}]);

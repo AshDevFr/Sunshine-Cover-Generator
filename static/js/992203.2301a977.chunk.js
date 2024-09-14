@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[992203],{992203:(e,s,a)=>{e.exports=a.p+"static/media/bullseye-arrow.d0bba104540bee3af518.svg"}}]);

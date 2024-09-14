@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[901064],{901064:(e,s,n)=>{e.exports=n.p+"static/media/nintendo-switch.ea7549859ff7f35dc11d.svg"}}]);

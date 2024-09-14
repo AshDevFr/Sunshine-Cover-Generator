@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[768441],{768441:(e,a,s)=>{e.exports=s.p+"static/media/youtube-gaming.ca52384c7b4a7ab2de76.svg"}}]);

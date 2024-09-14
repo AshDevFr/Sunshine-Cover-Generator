@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[350109],{350109:(e,s,a)=>{e.exports=a.p+"static/media/shoe-cleat.bca1ca5c832c391c2b18.svg"}}]);

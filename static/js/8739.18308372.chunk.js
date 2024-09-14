@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[8739],{8739:(e,s,a)=>{e.exports=a.p+"static/media/floor-lamp.b67d764bcf4d39446c1f.svg"}}]);

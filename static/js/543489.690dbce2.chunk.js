@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[543489],{543489:(e,s,a)=>{e.exports=a.p+"static/media/wifi-sync.beb531a8f7607ec187f1.svg"}}]);

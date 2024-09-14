@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[978107],{978107:(e,s,a)=>{e.exports=a.p+"static/media/braille.fd6b2edc245684b9b5fe.svg"}}]);

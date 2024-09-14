@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[402255],{402255:(e,a,s)=>{e.exports=s.p+"static/media/car-turbocharger.a5380db2a2ea3cc520f5.svg"}}]);

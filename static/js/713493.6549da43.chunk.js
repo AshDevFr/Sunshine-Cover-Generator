@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[713493],{713493:(e,s,a)=>{e.exports=a.p+"static/media/lightbulb-cfl-spiral-off.95b31e1eab24dfb52efc.svg"}}]);

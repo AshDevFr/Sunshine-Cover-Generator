@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[248041],{248041:(e,s,a)=>{e.exports=a.p+"static/media/food-apple.b471e97b6f7c53323bdb.svg"}}]);

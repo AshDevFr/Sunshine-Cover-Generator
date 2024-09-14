@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[918755],{918755:(e,s,a)=>{e.exports=a.p+"static/media/hand-water.c1e285b1f233081a8d02.svg"}}]);

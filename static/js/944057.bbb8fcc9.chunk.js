@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[944057],{944057:(e,s,a)=>{e.exports=a.p+"static/media/stadium.1e866de4e0db2a67e86a.svg"}}]);

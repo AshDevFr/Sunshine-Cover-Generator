@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[172427],{172427:(e,s,a)=>{e.exports=a.p+"static/media/fan-speed-1.5b486fc3612af6111827.svg"}}]);

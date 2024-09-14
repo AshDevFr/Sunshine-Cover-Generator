@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[196878],{196878:(e,s,a)=>{e.exports=a.p+"static/media/home-sound-out.8a59f57fb983b1129d9c.svg"}}]);

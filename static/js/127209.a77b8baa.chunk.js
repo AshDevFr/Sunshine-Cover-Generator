@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[127209],{127209:(e,s,a)=>{e.exports=a.p+"static/media/google-my-business.a99b63eed8ec109d07e5.svg"}}]);

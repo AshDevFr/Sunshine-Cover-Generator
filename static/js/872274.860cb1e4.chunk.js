@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[872274],{872274:(e,a,s)=>{e.exports=s.p+"static/media/cable-data.f785efa35c401f72e07b.svg"}}]);

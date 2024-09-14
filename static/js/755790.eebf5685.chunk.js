@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[755790],{755790:(e,s,a)=>{e.exports=a.p+"static/media/timer-remove.05498b9d6f133f714133.svg"}}]);

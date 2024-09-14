@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[452257],{452257:(e,s,a)=>{e.exports=a.p+"static/media/vlc.4857ce751d79fdddbd35.svg"}}]);

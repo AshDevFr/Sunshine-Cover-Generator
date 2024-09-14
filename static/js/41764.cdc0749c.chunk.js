@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[41764],{41764:(e,a,s)=>{e.exports=s.p+"static/media/card-account-phone-outline.ecc67aa31beaf7411198.svg"}}]);

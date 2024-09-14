@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[731668],{731668:(e,s,n)=>{e.exports=n.p+"static/media/jeepney.4b347f0c6d958e9e4e02.svg"}}]);

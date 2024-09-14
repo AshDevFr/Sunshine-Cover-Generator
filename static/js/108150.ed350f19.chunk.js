@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[108150],{108150:(e,s,i)=>{e.exports=i.p+"static/media/ceiling-light.7b860784f8517c58d7bb.svg"}}]);

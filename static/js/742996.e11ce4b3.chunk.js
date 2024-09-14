@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[742996],{742996:(e,s,a)=>{e.exports=a.p+"static/media/face-mask.17d406055226a7d1e115.svg"}}]);

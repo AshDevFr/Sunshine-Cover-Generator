@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[648314],{648314:(e,s,a)=>{e.exports=a.p+"static/media/tray-arrow-up.56cd62e3fe182305dd19.svg"}}]);

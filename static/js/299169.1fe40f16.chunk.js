@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[299169],{299169:(e,s,i)=>{e.exports=i.p+"static/media/video-switch-outline.218efc558e301ad7d8df.svg"}}]);

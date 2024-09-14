@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[156952],{156952:(e,s,a)=>{e.exports=a.p+"static/media/backspace-reverse.2b3ba51f5110135a7fdd.svg"}}]);

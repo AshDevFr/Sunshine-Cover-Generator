@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[960916],{960916:(e,s,a)=>{e.exports=a.p+"static/media/cog-stop.2d71c83474e7dfa66431.svg"}}]);

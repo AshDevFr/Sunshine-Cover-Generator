@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[961544],{961544:(e,a,s)=>{e.exports=s.p+"static/media/apple-keyboard-caps.376afd03dcad0bd5ca86.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[24504],{24504:(e,s,a)=>{e.exports=a.p+"static/media/aspect-ratio.14e1418bd92f477820d8.svg"}}]);

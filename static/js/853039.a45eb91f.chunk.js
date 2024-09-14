@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[853039],{853039:(e,s,a)=>{e.exports=a.p+"static/media/football-helmet.149b58e1b3317a4cda32.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[251710],{251710:(e,s,a)=>{e.exports=a.p+"static/media/google-cardboard.ff4299431b4b712d2777.svg"}}]);

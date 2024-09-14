@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[289735],{289735:(e,s,a)=>{e.exports=a.p+"static/media/transit-detour.04b7e60c79a85952e5ff.svg"}}]);

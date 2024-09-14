@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[44168],{44168:(e,s,a)=>{e.exports=a.p+"static/media/binoculars.2d8f38270a7d750425d4.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[635437],{635437:(e,s,a)=>{e.exports=a.p+"static/media/tablet-dashboard.31d24e51015d59d25cbf.svg"}}]);

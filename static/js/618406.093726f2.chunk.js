@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[618406],{618406:(e,s,i)=>{e.exports=i.p+"static/media/pail-minus-outline.39406135f07ccbf34260.svg"}}]);

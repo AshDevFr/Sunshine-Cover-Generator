@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[747157],{747157:(e,a,s)=>{e.exports=s.p+"static/media/human-capacity-increase.cdba7994b544bea96589.svg"}}]);

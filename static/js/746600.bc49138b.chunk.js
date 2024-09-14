@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[746600],{746600:(e,s,i)=>{e.exports=i.p+"static/media/music-circle.976e8be698d3c177b8e3.svg"}}]);

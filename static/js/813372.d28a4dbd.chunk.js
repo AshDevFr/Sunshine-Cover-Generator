@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[813372],{813372:(e,s,i)=>{e.exports=i.p+"static/media/chili-mild.f846c719a98d5337264b.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[109130],{109130:(e,s,a)=>{e.exports=a.p+"static/media/microscope.3a9ebe30805008a1b140.svg"}}]);

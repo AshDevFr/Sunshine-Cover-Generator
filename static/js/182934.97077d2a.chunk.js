@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[182934],{182934:(e,a,s)=>{e.exports=s.p+"static/media/alert-octagram-outline.f59a95bddd9d24eaf843.svg"}}]);

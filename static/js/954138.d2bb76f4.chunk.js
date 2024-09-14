@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[954138],{954138:(e,s,i)=>{e.exports=i.p+"static/media/selection-ellipse-arrow-inside.7492544b0be9a0e16dbd.svg"}}]);

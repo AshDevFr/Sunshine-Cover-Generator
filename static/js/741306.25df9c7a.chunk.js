@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[741306],{741306:(e,s,a)=>{e.exports=a.p+"static/media/table-tennis.bac2dec921f4c3fdb8a9.svg"}}]);

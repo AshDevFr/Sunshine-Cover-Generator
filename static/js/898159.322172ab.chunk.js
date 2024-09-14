@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[898159],{898159:(e,s,a)=>{e.exports=a.p+"static/media/weight-lifter.ed09bcd60a8976818032.svg"}}]);

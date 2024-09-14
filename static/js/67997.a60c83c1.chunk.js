@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[67997],{67997:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-teams.9fa69737e423bdba6c30.svg"}}]);

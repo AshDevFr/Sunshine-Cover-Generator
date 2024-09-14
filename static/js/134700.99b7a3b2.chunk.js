@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[134700],{134700:(e,s,n)=>{e.exports=n.p+"static/media/book-sync-outline.7c86bc753716c29844e9.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[913638],{913638:(e,a,s)=>{e.exports=s.p+"static/media/human-male-board-poll.69326df5c75e0432c7a6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[192471],{192471:(e,s,a)=>{e.exports=a.p+"static/media/shark-off.bec570bf74ef389a553c.svg"}}]);

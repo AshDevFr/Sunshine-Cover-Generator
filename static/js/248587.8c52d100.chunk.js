@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[248587],{248587:(e,s,a)=>{e.exports=a.p+"static/media/khanda.7442e13f80ed704273b0.svg"}}]);

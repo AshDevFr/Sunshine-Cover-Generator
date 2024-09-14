@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[985383],{985383:(e,s,a)=>{e.exports=a.p+"static/media/bolt.8790871747c42d9b0e16.svg"}}]);

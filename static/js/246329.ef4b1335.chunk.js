@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[246329],{246329:(e,s,a)=>{e.exports=a.p+"static/media/unfold-less-horizontal.ad0330d687e4d06f0150.svg"}}]);

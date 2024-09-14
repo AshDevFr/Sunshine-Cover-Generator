@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[947113],{947113:(e,s,a)=>{e.exports=a.p+"static/media/bed-empty.45aa22c10b36bdb35902.svg"}}]);

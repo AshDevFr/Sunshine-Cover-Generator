@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[260285],{260285:(e,s,n)=>{e.exports=n.p+"static/media/seed-plus-outline.9f0cc1b09e57bf1fbc51.svg"}}]);

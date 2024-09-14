@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[850104],{850104:(e,s,i)=>{e.exports=i.p+"static/media/zip-box-outline.4f40dc289b08b723bbc9.svg"}}]);

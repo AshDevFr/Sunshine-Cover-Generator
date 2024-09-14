@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[333306],{333306:(e,s,a)=>{e.exports=a.p+"static/media/perspective-more.c3beddaee0e0700ad92e.svg"}}]);

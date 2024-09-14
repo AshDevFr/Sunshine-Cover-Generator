@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[888520],{888520:(e,s,a)=>{e.exports=a.p+"static/media/bookmark-music.fac689e7ed4a191a4334.svg"}}]);

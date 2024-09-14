@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[683572],{683572:(e,s,a)=>{e.exports=a.p+"static/media/raspberry-pi.2812b6e00375ae0f758c.svg"}}]);

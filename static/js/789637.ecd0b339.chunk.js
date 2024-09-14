@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[789637],{789637:(e,s,a)=>{e.exports=a.p+"static/media/currency-gbp.71364da27335a83ee331.svg"}}]);

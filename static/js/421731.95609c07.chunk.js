@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[421731],{421731:(e,a,s)=>{e.exports=s.p+"static/media/battery-charging-wireless-alert.a8fe0df78a0fdcf2e76a.svg"}}]);

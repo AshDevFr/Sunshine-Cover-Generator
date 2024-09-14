@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[65729],{65729:(e,s,a)=>{e.exports=a.p+"static/media/dots-triangle.f296219bd036091bee97.svg"}}]);

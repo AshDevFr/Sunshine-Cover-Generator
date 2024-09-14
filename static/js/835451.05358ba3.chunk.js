@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[835451],{835451:(e,s,a)=>{e.exports=a.p+"static/media/chandelier.853c116100c75bd68308.svg"}}]);

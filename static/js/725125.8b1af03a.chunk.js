@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[725125],{725125:(e,s,a)=>{e.exports=a.p+"static/media/scooter.cf057d11c5c57fe6b3eb.svg"}}]);

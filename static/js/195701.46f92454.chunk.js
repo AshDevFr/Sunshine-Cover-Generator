@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[195701],{195701:(e,s,a)=>{e.exports=a.p+"static/media/umbrella-beach-outline.c17f466d9d5beb8818e2.svg"}}]);

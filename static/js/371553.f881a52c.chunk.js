@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[371553],{371553:(e,s,a)=>{e.exports=a.p+"static/media/outdoor-lamp.6e803f3838866dd5538b.svg"}}]);

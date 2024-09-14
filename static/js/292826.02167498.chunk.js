@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[292826],{292826:(e,s,a)=>{e.exports=a.p+"static/media/blinds.752b6a98ba8b81f5254a.svg"}}]);

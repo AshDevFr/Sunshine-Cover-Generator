@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[212888],{212888:(e,s,t)=>{e.exports=t.p+"static/media/youtube-tv.dd4e87821057b3c3b98b.svg"}}]);

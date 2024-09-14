@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[681956],{681956:(e,s,a)=>{e.exports=a.p+"static/media/bug-stop-outline.8f11b47a857527498bce.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[847647],{847647:(e,a,s)=>{e.exports=s.p+"static/media/flag-variant-minus.7633b5e7a89a6577ee2c.svg"}}]);

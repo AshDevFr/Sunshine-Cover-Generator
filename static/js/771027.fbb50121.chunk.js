@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[771027],{771027:(e,a,s)=>{e.exports=s.p+"static/media/kettle-alert-outline.ae050e5e97caabfaafd3.svg"}}]);

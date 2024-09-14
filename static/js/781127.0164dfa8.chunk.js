@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[781127],{781127:(e,s,n)=>{e.exports=n.p+"static/media/boxing-glove.c9ee375982bf3104195e.svg"}}]);

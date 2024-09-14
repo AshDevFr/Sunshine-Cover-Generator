@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[476109],{476109:(e,s,n)=>{e.exports=n.p+"static/media/rename-outline.7b5f7b40bfb9ff8b6161.svg"}}]);

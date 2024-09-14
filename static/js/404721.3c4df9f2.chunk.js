@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[404721],{404721:(e,s,t)=>{e.exports=t.p+"static/media/thermostat-box.4df5e047136279eb6c3e.svg"}}]);

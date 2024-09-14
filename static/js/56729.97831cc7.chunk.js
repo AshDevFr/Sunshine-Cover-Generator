@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[56729],{56729:(e,s,a)=>{e.exports=a.p+"static/media/amplifier.94463821794ba3dd5237.svg"}}]);

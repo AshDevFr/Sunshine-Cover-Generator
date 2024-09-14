@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[65097],{65097:(e,s,a)=>{e.exports=a.p+"static/media/music-note-bluetooth-off.5ab86ebcbd00629f40aa.svg"}}]);

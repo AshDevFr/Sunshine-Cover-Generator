@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[517939],{517939:(e,s,a)=>{e.exports=a.p+"static/media/golf-tee.af02173a2d67cbd613f2.svg"}}]);

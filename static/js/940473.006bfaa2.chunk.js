@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[940473],{940473:(e,a,s)=>{e.exports=s.p+"static/media/keyboard-variant.b1b3106e8c0b1560ac17.svg"}}]);

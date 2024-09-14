@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[43901],{43901:(e,s,n)=>{e.exports=n.p+"static/media/emoticon-tongue.657f51de212c2f5203ba.svg"}}]);

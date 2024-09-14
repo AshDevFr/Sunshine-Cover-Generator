@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[104642],{104642:(e,s,t)=>{e.exports=t.p+"static/media/battery-off-outline.4109010279b682584e11.svg"}}]);

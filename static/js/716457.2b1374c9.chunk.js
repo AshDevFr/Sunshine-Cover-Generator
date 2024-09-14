@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[716457],{716457:(e,s,a)=>{e.exports=a.p+"static/media/dumbbell.a87554f5150bee5e3ff1.svg"}}]);

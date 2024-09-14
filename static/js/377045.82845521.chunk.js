@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[377045],{377045:(e,s,a)=>{e.exports=a.p+"static/media/chevron-double-left.93b3d8e3c6e2bfae007b.svg"}}]);

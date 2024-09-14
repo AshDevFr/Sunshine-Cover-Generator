@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[116721],{116721:(e,s,a)=>{e.exports=a.p+"static/media/tower-beach.dcf6718bb55d835520b4.svg"}}]);

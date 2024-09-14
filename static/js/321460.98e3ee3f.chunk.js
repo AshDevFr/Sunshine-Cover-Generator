@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[321460],{321460:(e,s,a)=>{e.exports=a.p+"static/media/fan-chevron-down.4e02285df7d4ca82e7af.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[839650],{839650:(e,s,a)=>{e.exports=a.p+"static/media/close-box-multiple-outline.cc7f07575d29ced06eaa.svg"}}]);

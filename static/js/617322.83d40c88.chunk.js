@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[617322],{617322:(e,s,a)=>{e.exports=a.p+"static/media/crop-portrait.cafd32d977a3c922e2cc.svg"}}]);

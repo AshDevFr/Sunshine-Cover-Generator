@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[798802],{798802:(e,s,a)=>{e.exports=a.p+"static/media/tshirt-crew.bb6c8e6f11f2f47d3a33.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[783053],{783053:(e,s,a)=>{e.exports=a.p+"static/media/headphones-settings.92e6ae6d14655f991ba3.svg"}}]);

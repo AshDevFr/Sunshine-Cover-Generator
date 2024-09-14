@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[30423],{30423:(e,s,a)=>{e.exports=a.p+"static/media/link-box-variant-outline.87c897dcc8ebd9da8c65.svg"}}]);

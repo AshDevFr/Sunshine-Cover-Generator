@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[74651],{74651:(e,s,a)=>{e.exports=a.p+"static/media/delete-circle-outline.a6430d493e74fbf0e22e.svg"}}]);

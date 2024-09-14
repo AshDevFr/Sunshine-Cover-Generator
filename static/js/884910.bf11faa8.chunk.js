@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[884910],{884910:(e,s,a)=>{e.exports=a.p+"static/media/map-legend.637dfc854b392cd74a17.svg"}}]);

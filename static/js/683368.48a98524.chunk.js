@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[683368],{683368:(e,s,a)=>{e.exports=a.p+"static/media/weather-windy.15df6c36224fbfe8843d.svg"}}]);

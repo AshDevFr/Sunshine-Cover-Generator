@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[661462],{661462:(e,a,s)=>{e.exports=s.p+"static/media/robot-vacuum-variant-off.e1493f93e49879aa4dea.svg"}}]);

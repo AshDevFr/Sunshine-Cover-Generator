@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[931849],{931849:(e,s,a)=>{e.exports=a.p+"static/media/square-rounded-badge.84e894bfcf1d89ca3464.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[757814],{757814:(e,s,a)=>{e.exports=a.p+"static/media/chat-remove-outline.7dfe4c973a839d504bea.svg"}}]);

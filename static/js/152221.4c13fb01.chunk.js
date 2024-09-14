@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[152221],{152221:(e,s,a)=>{e.exports=a.p+"static/media/screw-machine-round-top.ccfb23da86866c0043e1.svg"}}]);

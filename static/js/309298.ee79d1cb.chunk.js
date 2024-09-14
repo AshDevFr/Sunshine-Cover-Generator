@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[309298],{309298:(e,s,a)=>{e.exports=a.p+"static/media/camera-metering-spot.ab7acbb9d53b27962ec8.svg"}}]);

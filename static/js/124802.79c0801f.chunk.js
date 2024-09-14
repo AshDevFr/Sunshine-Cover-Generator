@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[124802],{124802:(e,s,a)=>{e.exports=a.p+"static/media/clipboard-clock-outline.b99283cd1d65b13d0fce.svg"}}]);

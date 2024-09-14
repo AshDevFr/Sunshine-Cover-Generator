@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[447332],{447332:(e,s,a)=>{e.exports=a.p+"static/media/fishbowl.08bd9af73da3a0f8c77b.svg"}}]);

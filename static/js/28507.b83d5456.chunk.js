@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[28507],{28507:(e,s,a)=>{e.exports=a.p+"static/media/cactus.29e1cdcdde141098d57c.svg"}}]);

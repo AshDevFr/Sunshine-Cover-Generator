@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[1895],{1895:(e,s,a)=>{e.exports=a.p+"static/media/earth-box-plus.c3a2765bf57623072ce9.svg"}}]);

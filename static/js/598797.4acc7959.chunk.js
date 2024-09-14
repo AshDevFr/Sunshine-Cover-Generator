@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[598797],{598797:(e,s,t)=>{e.exports=t.p+"static/media/format-letter-starts-with.747a27d4342348f47410.svg"}}]);

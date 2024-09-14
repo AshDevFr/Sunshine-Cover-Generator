@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[596783],{596783:(e,a,s)=>{e.exports=s.p+"static/media/file-cad-box.a2812b4211106a0f83a4.svg"}}]);

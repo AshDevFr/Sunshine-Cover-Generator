@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[204497],{204497:(e,a,s)=>{e.exports=s.p+"static/media/airplane-alert.33cd10cf4d75d5fcfffa.svg"}}]);

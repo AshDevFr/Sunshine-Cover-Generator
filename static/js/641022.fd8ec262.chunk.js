@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[641022],{641022:(e,s,a)=>{e.exports=a.p+"static/media/nature-outline.62b6d78f1825a7fde053.svg"}}]);

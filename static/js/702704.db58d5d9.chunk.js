@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[702704],{702704:(e,s,n)=>{e.exports=n.p+"static/media/klingon.6eb36e81d5436d62e323.svg"}}]);

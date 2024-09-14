@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[603127],{603127:(e,s,a)=>{e.exports=a.p+"static/media/folder-marker.0e776cf48bd50d083aad.svg"}}]);

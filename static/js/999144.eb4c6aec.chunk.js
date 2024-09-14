@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[999144],{999144:(e,s,n)=>{e.exports=n.p+"static/media/fountain-pen.cf4e3b507bab8d125529.svg"}}]);

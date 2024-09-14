@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[811554],{811554:(e,s,t)=>{e.exports=t.p+"static/media/timer-stop.0cb3f373c8192b6212cf.svg"}}]);

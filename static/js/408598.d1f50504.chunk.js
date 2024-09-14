@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[408598],{408598:(e,s,t)=>{e.exports=t.p+"static/media/ticket.63dd6265eb7881e165c8.svg"}}]);

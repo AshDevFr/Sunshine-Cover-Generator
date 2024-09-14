@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[329999],{329999:(e,a,s)=>{e.exports=s.p+"static/media/ocarina.c55a03d5392a91f983dd.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[742414],{742414:(e,s,a)=>{e.exports=a.p+"static/media/compass-rose.f627088da226e3a51500.svg"}}]);

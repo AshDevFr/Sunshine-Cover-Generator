@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[69452],{69452:(e,a,s)=>{e.exports=s.p+"static/media/furigana-horizontal.3db102270cbb1bab0757.svg"}}]);

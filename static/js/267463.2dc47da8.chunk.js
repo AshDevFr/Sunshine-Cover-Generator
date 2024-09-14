@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[267463],{267463:(e,s,a)=>{e.exports=a.p+"static/media/keyboard-close-outline.a15133d9e1f812c101d8.svg"}}]);

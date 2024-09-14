@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[465873],{465873:(e,a,s)=>{e.exports=s.p+"static/media/face-man-shimmer-outline.35a3cabf06bac034830c.svg"}}]);

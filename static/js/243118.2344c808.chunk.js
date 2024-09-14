@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[243118],{243118:(e,s,a)=>{e.exports=a.p+"static/media/format-pilcrow-arrow-left.beb1e67b89305bc67d8a.svg"}}]);

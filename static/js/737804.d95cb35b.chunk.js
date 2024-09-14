@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[737804],{737804:(e,s,n)=>{e.exports=n.p+"static/media/clover-outline.1e475105881b8d24eb94.svg"}}]);

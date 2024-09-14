@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[124584],{124584:(e,s,a)=>{e.exports=a.p+"static/media/earth-off.2b188ffabcc884c04b1f.svg"}}]);

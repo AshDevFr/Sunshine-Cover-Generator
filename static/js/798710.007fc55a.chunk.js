@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[798710],{798710:(e,s,a)=>{e.exports=a.p+"static/media/shoe-ballet.6edbfc0f376fcd27f04b.svg"}}]);

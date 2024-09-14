@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[914757],{914757:(e,s,a)=>{e.exports=a.p+"static/media/tray-remove.5cee0580c35c721bb4e3.svg"}}]);

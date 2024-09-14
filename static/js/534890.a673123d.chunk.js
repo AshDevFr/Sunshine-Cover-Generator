@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[534890],{534890:(e,s,i)=>{e.exports=i.p+"static/media/mouse-right-click-outline.6716c188f36f99016c4d.svg"}}]);

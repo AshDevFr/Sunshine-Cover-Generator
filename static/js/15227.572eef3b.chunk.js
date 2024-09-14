@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[15227],{15227:(e,s,a)=>{e.exports=a.p+"static/media/soccer.91e068395d6984364df6.svg"}}]);

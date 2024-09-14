@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[176682],{176682:(e,s,t)=>{e.exports=t.p+"static/media/comment-text-multiple.1d91748bbde3c0a8ceab.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[100816],{100816:(e,s,i)=>{e.exports=i.p+"static/media/fire-extinguisher.d29b03ead2e9d74732b7.svg"}}]);

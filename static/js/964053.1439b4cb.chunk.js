@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[964053],{964053:(e,s,a)=>{e.exports=a.p+"static/media/briefcase-clock.a36877a8a7c013675030.svg"}}]);

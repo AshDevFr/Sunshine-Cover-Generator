@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[900702],{900702:(e,s,a)=>{e.exports=a.p+"static/media/pound-box.5bdeae035a9297c868bf.svg"}}]);

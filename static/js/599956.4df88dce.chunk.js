@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[599956],{599956:(e,s,a)=>{e.exports=a.p+"static/media/vanity-light.c415cfbd1a7f3a96220f.svg"}}]);

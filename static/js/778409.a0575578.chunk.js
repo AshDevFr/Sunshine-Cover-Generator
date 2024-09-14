@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[778409],{778409:(e,s,a)=>{e.exports=a.p+"static/media/parachute.755b105cdfabe63e59cb.svg"}}]);

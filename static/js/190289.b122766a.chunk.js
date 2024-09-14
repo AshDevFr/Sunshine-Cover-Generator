@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[190289],{190289:(e,s,t)=>{e.exports=t.p+"static/media/battery-heart-outline.69100d612ccb48710298.svg"}}]);

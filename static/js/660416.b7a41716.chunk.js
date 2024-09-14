@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[660416],{660416:(e,s,a)=>{e.exports=a.p+"static/media/apple-keyboard-option.36e86c7e916871fc88db.svg"}}]);

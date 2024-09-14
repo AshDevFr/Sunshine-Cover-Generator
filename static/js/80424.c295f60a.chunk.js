@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[80424],{80424:(e,s,t)=>{e.exports=t.p+"static/media/star-three-points-outline.70bd1664c1c741d8009e.svg"}}]);

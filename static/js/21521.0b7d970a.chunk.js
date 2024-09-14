@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[21521],{21521:(e,s,a)=>{e.exports=a.p+"static/media/light-recessed.e77d08b453e427bc57ac.svg"}}]);

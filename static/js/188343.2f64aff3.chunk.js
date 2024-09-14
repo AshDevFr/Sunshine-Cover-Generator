@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[188343],{188343:(e,s,a)=>{e.exports=a.p+"static/media/vector-bezier.b23df1dbcccc44a8ace6.svg"}}]);

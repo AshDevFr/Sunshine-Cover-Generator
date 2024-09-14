@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[366191],{366191:(e,s,a)=>{e.exports=a.p+"static/media/train-bus.b0cb5e5d7c047043b9e0.svg"}}]);

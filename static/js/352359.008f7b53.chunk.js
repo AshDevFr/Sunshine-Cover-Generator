@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[352359],{352359:(e,s,n)=>{e.exports=n.p+"static/media/symfony.3385bf9126d4b6959192.svg"}}]);

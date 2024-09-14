@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[972801],{972801:(e,s,a)=>{e.exports=a.p+"static/media/phone-paused.e70c9a95e65fdef4438b.svg"}}]);

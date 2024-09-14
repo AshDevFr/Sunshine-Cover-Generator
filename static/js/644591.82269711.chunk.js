@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[644591],{644591:(e,s,a)=>{e.exports=a.p+"static/media/crane.3f71f4a8d80a01058753.svg"}}]);

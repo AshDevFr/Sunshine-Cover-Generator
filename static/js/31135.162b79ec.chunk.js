@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[31135],{31135:(e,s,i)=>{e.exports=i.p+"static/media/ticket-confirmation-outline.ed833fa8df44b5c821c6.svg"}}]);

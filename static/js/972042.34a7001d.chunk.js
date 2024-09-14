@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[972042],{972042:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-sharepoint.9a04bfedc9f00e49d89e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[755352],{755352:(e,s,a)=>{e.exports=a.p+"static/media/bathtub.362d4e506c59196113ec.svg"}}]);

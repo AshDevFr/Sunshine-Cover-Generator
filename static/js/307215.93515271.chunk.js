@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[307215],{307215:(e,s,a)=>{e.exports=a.p+"static/media/sawtooth-wave.bcc57f82901ffe0aa848.svg"}}]);

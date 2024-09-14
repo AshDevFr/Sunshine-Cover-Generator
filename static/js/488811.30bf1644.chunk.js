@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[488811],{488811:(e,s,i)=>{e.exports=i.p+"static/media/microsoft-onedrive.d65288e65e2c308200e7.svg"}}]);

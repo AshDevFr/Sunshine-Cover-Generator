@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[56579],{56579:(e,s,a)=>{e.exports=a.p+"static/media/synagogue-outline.dfd8c09975825468823a.svg"}}]);

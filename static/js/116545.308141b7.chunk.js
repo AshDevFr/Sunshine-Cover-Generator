@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[116545],{338926:(e,s,a)=>{e.exports=a.p+"static/media/chef-hat.6fbb067438e10441a12a.svg"}}]);

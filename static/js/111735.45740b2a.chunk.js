@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[111735],{111735:(e,s,a)=>{e.exports=a.p+"static/media/seat-flat-angled.9186d4646f57df4bf686.svg"}}]);

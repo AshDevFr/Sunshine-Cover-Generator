@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[145509],{145509:(e,s,a)=>{e.exports=a.p+"static/media/bow-tie.742dad56eb5a38c9b261.svg"}}]);

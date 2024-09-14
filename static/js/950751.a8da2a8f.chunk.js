@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[950751],{950751:(e,s,n)=>{e.exports=n.p+"static/media/pencil-ruler-outline.56cb25bdb1cb8e8680e6.svg"}}]);

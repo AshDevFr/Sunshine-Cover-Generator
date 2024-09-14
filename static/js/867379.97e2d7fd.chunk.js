@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[867379],{867379:(e,s,t)=>{e.exports=t.p+"static/media/hot-tub.9ef236830d2614c45107.svg"}}]);

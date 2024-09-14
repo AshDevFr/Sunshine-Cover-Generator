@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[787742],{787742:(e,s,a)=>{e.exports=a.p+"static/media/mouse-move-down.dbe0a23f04d8d897a955.svg"}}]);

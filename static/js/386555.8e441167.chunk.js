@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[386555],{386555:(e,s,t)=>{e.exports=t.p+"static/media/text-box-remove-outline.d1d976aee3cdf6c81e60.svg"}}]);

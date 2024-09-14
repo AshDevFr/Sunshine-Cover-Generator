@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[844869],{844869:(e,s,n)=>{e.exports=n.p+"static/media/awning-outline.e2bf3f0b84b37225c114.svg"}}]);

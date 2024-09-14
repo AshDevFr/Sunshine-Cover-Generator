@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[43024],{43024:(e,s,a)=>{e.exports=a.p+"static/media/puzzle-star-outline.1506735fb1a8dddde956.svg"}}]);

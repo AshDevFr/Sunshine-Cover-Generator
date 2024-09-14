@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[457541],{457541:(e,s,a)=>{e.exports=a.p+"static/media/ampersand.ee64e6ecaf78eefec569.svg"}}]);

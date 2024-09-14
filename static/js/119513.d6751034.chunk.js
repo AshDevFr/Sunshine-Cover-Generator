@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[119513],{341894:(e,s,a)=>{e.exports=a.p+"static/media/decagram.c09418f3346c8fdb71a8.svg"}}]);

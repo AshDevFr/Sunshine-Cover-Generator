@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[597957],{597957:(e,s,t)=>{e.exports=t.p+"static/media/desktop-tower-monitor.1cd93552fdf1eee10e94.svg"}}]);

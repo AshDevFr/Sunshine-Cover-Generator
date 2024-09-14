@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[181161],{181161:(e,a,s)=>{e.exports=s.p+"static/media/tractor-variant.bb06daffbd4aefec186a.svg"}}]);

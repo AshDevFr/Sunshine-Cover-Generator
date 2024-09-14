@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[403122],{403122:(e,s,a)=>{e.exports=a.p+"static/media/seat-legroom-reduced.9b5709035e2976727a49.svg"}}]);

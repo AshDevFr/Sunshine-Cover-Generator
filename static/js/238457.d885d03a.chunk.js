@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[238457],{238457:(e,s,a)=>{e.exports=a.p+"static/media/bookmark-music-outline.21dd829818074a441e90.svg"}}]);

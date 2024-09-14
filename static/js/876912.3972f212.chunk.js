@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[876912],{876912:(e,s,a)=>{e.exports=a.p+"static/media/truck-flatbed.a9e9121add7781b2c0f9.svg"}}]);

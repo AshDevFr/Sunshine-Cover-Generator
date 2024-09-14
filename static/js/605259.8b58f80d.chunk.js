@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[605259],{605259:(e,s,a)=>{e.exports=a.p+"static/media/apple-keyboard-shift.07fcd48b3e2bb1645081.svg"}}]);

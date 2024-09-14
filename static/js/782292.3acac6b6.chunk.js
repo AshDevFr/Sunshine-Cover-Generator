@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[782292],{782292:(e,s,a)=>{e.exports=a.p+"static/media/piggy-bank-outline.a94284fec9532534c6ae.svg"}}]);

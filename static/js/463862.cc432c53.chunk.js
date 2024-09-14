@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[463862],{463862:(e,s,a)=>{e.exports=a.p+"static/media/goodreads.2b45851c104e2c8a7ef7.svg"}}]);

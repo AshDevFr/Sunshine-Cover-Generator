@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[796775],{796775:(e,s,a)=>{e.exports=a.p+"static/media/landslide-outline.1b1a828b7b6e7f2850fa.svg"}}]);

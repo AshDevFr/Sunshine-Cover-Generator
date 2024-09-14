@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[922850],{922850:(e,s,i)=>{e.exports=i.p+"static/media/movie-settings-outline.2f2435c20605a122e94d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[400338],{400338:(e,s,a)=>{e.exports=a.p+"static/media/fan-clock.7caf6e18d6dd26f57d33.svg"}}]);

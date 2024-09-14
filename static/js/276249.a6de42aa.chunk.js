@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[276249],{276249:(e,s,a)=>{e.exports=a.p+"static/media/phone-cancel.68142f4578305a426307.svg"}}]);

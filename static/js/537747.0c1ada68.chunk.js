@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[537747],{537747:(e,s,a)=>{e.exports=a.p+"static/media/white-balance-iridescent.193f37ce6cd600e11095.svg"}}]);

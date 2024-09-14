@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[537016],{537016:(e,s,a)=>{e.exports=a.p+"static/media/music-note-half.d775af7ceacc1e2594e3.svg"}}]);

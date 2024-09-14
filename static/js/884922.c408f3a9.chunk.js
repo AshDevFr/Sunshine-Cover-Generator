@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[884922],{884922:(e,s,a)=>{e.exports=a.p+"static/media/polo.e145032f398f45fd3e89.svg"}}]);

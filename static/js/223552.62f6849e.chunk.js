@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[223552],{223552:(e,s,a)=>{e.exports=a.p+"static/media/weather-partly-snowy.36fa280eafe8e9505729.svg"}}]);

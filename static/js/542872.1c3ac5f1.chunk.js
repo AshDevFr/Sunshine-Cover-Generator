@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[542872],{542872:(e,s,a)=>{e.exports=a.p+"static/media/scissors-cutting.1db8100070ca2ecc9448.svg"}}]);

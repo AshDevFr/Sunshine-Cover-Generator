@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[963973],{963973:(e,s,a)=>{e.exports=a.p+"static/media/swap-horizontal-hidden.7842236184e1130f7b24.svg"}}]);

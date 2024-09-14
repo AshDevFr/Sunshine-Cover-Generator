@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[21094],{21094:(e,s,a)=>{e.exports=a.p+"static/media/shield-cross.41c82f90a5a8c8859597.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[806744],{806744:(e,s,a)=>{e.exports=a.p+"static/media/slack.520443474b243061455e.svg"}}]);

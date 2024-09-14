@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[628305],{628305:(e,s,a)=>{e.exports=a.p+"static/media/chart-line-stacked.996f32e4608fa046b6b9.svg"}}]);

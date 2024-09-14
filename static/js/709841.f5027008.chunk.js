@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[709841],{709841:(e,s,a)=>{e.exports=a.p+"static/media/folder-star-multiple-outline.b3963c15b1a28de25641.svg"}}]);

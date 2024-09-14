@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[274130],{274130:(e,s,a)=>{e.exports=a.p+"static/media/head-lightbulb.4ef635ca635103ab91b8.svg"}}]);

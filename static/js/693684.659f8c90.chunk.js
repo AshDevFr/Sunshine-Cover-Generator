@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[693684],{693684:(e,s,c)=>{e.exports=c.p+"static/media/dresser.7f6ccc4e2d6cecfe6bdf.svg"}}]);

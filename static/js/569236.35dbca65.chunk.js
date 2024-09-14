@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[569236],{569236:(e,s,a)=>{e.exports=a.p+"static/media/puzzle-heart-outline.81847555fb22204f590e.svg"}}]);

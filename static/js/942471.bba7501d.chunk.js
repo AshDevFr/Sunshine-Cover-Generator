@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[942471],{942471:(e,s,a)=>{e.exports=a.p+"static/media/credit-card-scan-outline.939f70508a247f3c794a.svg"}}]);

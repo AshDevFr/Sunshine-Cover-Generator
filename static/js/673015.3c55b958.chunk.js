@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[673015],{673015:(e,s,a)=>{e.exports=a.p+"static/media/safety-goggles.96a2ced4a1bc0604ff9a.svg"}}]);

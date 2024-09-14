@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[808410],{808410:(e,s,a)=>{e.exports=a.p+"static/media/city-variant-outline.cf266f42b8ab1e26b9c9.svg"}}]);

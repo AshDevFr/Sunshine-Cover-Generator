@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[367860],{367860:(e,a,s)=>{e.exports=s.p+"static/media/escalator-box.839c3972a8fdaca4edcf.svg"}}]);

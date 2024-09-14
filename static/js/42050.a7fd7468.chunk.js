@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[42050],{42050:(e,s,i)=>{e.exports=i.p+"static/media/minus-box-multiple-outline.f8170bfc36103ee66696.svg"}}]);

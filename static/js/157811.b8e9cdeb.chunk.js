@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[157811],{157811:(e,a,s)=>{e.exports=s.p+"static/media/airplane-takeoff.3d6dc19cbcaa3ceae730.svg"}}]);

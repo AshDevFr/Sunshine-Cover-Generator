@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[692437],{692437:(e,s,a)=>{e.exports=a.p+"static/media/progress-star-four-points.9f0792072a6a01880857.svg"}}]);

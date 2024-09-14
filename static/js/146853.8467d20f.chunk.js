@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[146853],{146853:(e,s,n)=>{e.exports=n.p+"static/media/music-note-outline.8a614f5eb1d798e320dc.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[987894],{987894:(e,s,a)=>{e.exports=a.p+"static/media/book-marker.64d42f7d440383d4f300.svg"}}]);

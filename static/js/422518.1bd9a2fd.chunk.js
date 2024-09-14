@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[422518],{422518:(e,s,a)=>{e.exports=a.p+"static/media/television-box.dab0cea06b0e076152c5.svg"}}]);

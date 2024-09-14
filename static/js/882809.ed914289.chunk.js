@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[882809],{882809:(e,s,a)=>{e.exports=a.p+"static/media/format-list-bulleted-triangle.ae64432081350f7e7a56.svg"}}]);

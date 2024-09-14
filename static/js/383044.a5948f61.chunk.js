@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[383044],{383044:(e,s,a)=>{e.exports=a.p+"static/media/fire-truck.d7c666930744acfddcf5.svg"}}]);

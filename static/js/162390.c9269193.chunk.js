@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[162390],{162390:(e,s,t)=>{e.exports=t.p+"static/media/receipt-text-clock-outline.e5374271099ee8675d1d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[904258],{904258:(e,s,a)=>{e.exports=a.p+"static/media/rollerblade.4f3df7075bb53a84120e.svg"}}]);

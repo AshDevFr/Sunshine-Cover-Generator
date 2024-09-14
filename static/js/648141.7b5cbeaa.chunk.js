@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[648141],{648141:(e,a,s)=>{e.exports=s.p+"static/media/map-marker-check-outline.dd776a0b3afb0a9866c9.svg"}}]);

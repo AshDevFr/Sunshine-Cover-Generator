@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[320815],{320815:(e,s,a)=>{e.exports=a.p+"static/media/trumpet.9a58dd74ee624be397d4.svg"}}]);

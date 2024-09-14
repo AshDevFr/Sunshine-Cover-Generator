@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[545612],{545612:(e,s,a)=>{e.exports=a.p+"static/media/heart-broken.0f30fe8dc31603eaa0cb.svg"}}]);

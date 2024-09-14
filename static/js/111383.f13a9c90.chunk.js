@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[111383],{111383:(e,a,s)=>{e.exports=s.p+"static/media/wind-turbine-alert.7a409fc5a648f1a2f083.svg"}}]);

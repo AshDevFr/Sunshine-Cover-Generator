@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[567535],{567535:(e,s,a)=>{e.exports=a.p+"static/media/video-4k-box.580224bd38d926ac1087.svg"}}]);

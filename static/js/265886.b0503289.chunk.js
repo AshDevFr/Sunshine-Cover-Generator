@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[265886],{265886:(e,s,n)=>{e.exports=n.p+"static/media/hand-extended-outline.e5c6199260f029038e3b.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[691550],{691550:(e,s,a)=>{e.exports=a.p+"static/media/folder-play-outline.7372b8b2e3755439411f.svg"}}]);

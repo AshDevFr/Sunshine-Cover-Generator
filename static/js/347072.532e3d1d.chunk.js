@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[347072],{347072:(e,s,a)=>{e.exports=a.p+"static/media/screw-flat-top.481523c1e497b711ee43.svg"}}]);

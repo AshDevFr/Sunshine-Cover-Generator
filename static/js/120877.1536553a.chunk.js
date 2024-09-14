@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[120877],{120877:(e,a,s)=>{e.exports=s.p+"static/media/zodiac-leo.71002887738a3a0da335.svg"}}]);

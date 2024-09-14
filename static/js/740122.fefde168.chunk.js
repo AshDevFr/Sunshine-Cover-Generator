@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[740122],{740122:(e,s,n)=>{e.exports=n.p+"static/media/sun-clock-outline.75b1655eb11c536d2b15.svg"}}]);

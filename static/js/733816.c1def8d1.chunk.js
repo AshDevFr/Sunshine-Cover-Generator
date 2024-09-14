@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[733816],{733816:(e,s,a)=>{e.exports=a.p+"static/media/email-seal.8190b78385c19a375bfb.svg"}}]);

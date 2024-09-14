@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[517924],{517924:(e,a,s)=>{e.exports=s.p+"static/media/airbag.20eac2c882e43dc4a04d.svg"}}]);

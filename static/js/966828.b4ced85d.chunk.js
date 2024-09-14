@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[966828],{966828:(e,s,a)=>{e.exports=a.p+"static/media/town-hall.a3a5899eb03771819132.svg"}}]);

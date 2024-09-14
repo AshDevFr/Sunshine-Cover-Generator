@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[800101],{800101:(e,s,a)=>{e.exports=a.p+"static/media/horizontal-rotate-clockwise.81fcb1f2fa73b101f0c8.svg"}}]);

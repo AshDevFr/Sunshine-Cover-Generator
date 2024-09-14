@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[481304],{481304:(e,a,s)=>{e.exports=s.p+"static/media/chart-sankey-variant.f930091c5a3c7d9bbfa6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[967660],{967660:(e,a,s)=>{e.exports=s.p+"static/media/view-agenda.078839387f2959a4436a.svg"}}]);

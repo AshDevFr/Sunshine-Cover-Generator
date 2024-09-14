@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[303502],{303502:(e,s,n)=>{e.exports=n.p+"static/media/mailbox-open-outline.4ff9e88985b4d05913c8.svg"}}]);

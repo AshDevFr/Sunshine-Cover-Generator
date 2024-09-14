@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[699312],{699312:(e,s,a)=>{e.exports=a.p+"static/media/beer.1ddcd881d3a3e97c1d71.svg"}}]);

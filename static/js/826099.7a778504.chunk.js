@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[826099],{826099:(e,s,a)=>{e.exports=a.p+"static/media/bed-double.f33e8de02b5d40a35798.svg"}}]);

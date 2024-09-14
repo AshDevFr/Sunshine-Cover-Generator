@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[929610],{929610:(e,s,a)=>{e.exports=a.p+"static/media/television-speaker.cb6328dcc83a996523e6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[889973],{889973:(e,s,a)=>{e.exports=a.p+"static/media/water-sync.b55f5e9fa9bf76974668.svg"}}]);

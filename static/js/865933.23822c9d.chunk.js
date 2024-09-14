@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[865933],{88314:(e,s,a)=>{e.exports=a.p+"static/media/forklift.bd604751645c1df94bd1.svg"}}]);

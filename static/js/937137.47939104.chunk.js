@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[937137],{937137:(e,s,a)=>{e.exports=a.p+"static/media/shoe-print.80117868155aa7a122e3.svg"}}]);

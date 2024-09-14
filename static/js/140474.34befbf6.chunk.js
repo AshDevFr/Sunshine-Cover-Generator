@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[140474],{140474:(e,s,a)=>{e.exports=a.p+"static/media/baseball.1199401a31df491329d1.svg"}}]);

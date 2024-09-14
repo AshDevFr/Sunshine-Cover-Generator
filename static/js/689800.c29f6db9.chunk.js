@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[689800],{689800:(e,s,a)=>{e.exports=a.p+"static/media/hammer-sickle.09a391c01d0fef11634d.svg"}}]);

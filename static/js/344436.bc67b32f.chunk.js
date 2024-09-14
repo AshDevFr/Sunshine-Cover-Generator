@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[344436],{344436:(e,s,a)=>{e.exports=a.p+"static/media/music-note-off.c4441d3257a57bfdab18.svg"}}]);

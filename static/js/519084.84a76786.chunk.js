@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[519084],{519084:(e,s,a)=>{e.exports=a.p+"static/media/card-bulleted-off.1b1ab30d37a6f186cb6e.svg"}}]);

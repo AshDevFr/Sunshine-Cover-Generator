@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[472509],{472509:(e,s,a)=>{e.exports=a.p+"static/media/notebook-remove-outline.c8a054c40042f29dfa66.svg"}}]);

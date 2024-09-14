@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[857148],{634767:(e,a,s)=>{e.exports=s.p+"static/media/zodiac-virgo.418811aacaafb1e2dd69.svg"}}]);

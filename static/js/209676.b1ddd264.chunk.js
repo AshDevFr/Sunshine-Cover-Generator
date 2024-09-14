@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[209676],{209676:(e,s,a)=>{e.exports=a.p+"static/media/reminder.79b2643211a054ce7e59.svg"}}]);

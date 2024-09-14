@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[43045],{43045:(e,s,a)=>{e.exports=a.p+"static/media/slope-downhill.7f2510703ca4290a832d.svg"}}]);

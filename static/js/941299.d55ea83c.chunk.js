@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[941299],{941299:(e,s,a)=>{e.exports=a.p+"static/media/chart-arc.592d369836b5cf92fd46.svg"}}]);

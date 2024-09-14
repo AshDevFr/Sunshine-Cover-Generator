@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[752335],{752335:(e,s,a)=>{e.exports=a.p+"static/media/meter-electric.96dca4f7c8a1e3f994c7.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[681462],{681462:(e,s,a)=>{e.exports=a.p+"static/media/roller-shade.f17ca97e5f149f7e2e94.svg"}}]);

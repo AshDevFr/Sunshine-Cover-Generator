@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[852495],{852495:(e,s,a)=>{e.exports=a.p+"static/media/ice-pop.28e9458b19cd427eeada.svg"}}]);

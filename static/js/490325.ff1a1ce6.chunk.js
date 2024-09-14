@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[490325],{490325:(e,s,a)=>{e.exports=a.p+"static/media/webcam-off.0cf978281913aea74b0b.svg"}}]);

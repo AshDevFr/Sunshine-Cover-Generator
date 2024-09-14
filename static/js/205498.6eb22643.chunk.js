@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[205498],{205498:(e,s,t)=>{e.exports=t.p+"static/media/arrow-top-left-bold-box-outline.f47e3df5e3d0888e68f1.svg"}}]);

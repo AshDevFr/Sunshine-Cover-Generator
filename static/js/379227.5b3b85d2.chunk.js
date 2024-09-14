@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[379227],{379227:(e,s,t)=>{e.exports=t.p+"static/media/water-thermometer-outline.eebd136d7579e286ac3e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[919056],{919056:(e,s,a)=>{e.exports=a.p+"static/media/mother-heart.d9c0c72c5232cd1b1806.svg"}}]);

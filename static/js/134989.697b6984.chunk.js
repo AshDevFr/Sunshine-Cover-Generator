@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[134989],{134989:(e,s,a)=>{e.exports=a.p+"static/media/send-variant-clock.122284a36662fd7c023c.svg"}}]);

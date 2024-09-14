@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[436246],{436246:(e,s,a)=>{e.exports=a.p+"static/media/solar-panel.92f0eb179cc917997ae2.svg"}}]);

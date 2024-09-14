@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[927854],{927854:(e,s,a)=>{e.exports=a.p+"static/media/printer-pos-cancel.4eafda9204462171a511.svg"}}]);

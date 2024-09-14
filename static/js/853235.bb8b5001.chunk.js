@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[853235],{853235:(e,s,t)=>{e.exports=t.p+"static/media/music-note-eighth-dotted.debe141e3d34e84b8489.svg"}}]);

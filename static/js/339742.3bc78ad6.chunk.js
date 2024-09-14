@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[339742],{339742:(e,s,a)=>{e.exports=a.p+"static/media/whistle.ef7e8ab4f05731e8ce84.svg"}}]);

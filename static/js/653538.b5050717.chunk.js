@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[653538],{653538:(e,s,t)=>{e.exports=t.p+"static/media/tooth.ec023362fd58448bf26b.svg"}}]);

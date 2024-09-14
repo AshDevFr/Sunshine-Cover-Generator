@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[988005],{988005:(e,s,a)=>{e.exports=a.p+"static/media/chart-histogram.848ad6a236e7442946e3.svg"}}]);

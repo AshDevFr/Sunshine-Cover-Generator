@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[878248],{878248:(e,s,a)=>{e.exports=a.p+"static/media/flower-tulip.02c135f45213285a296e.svg"}}]);

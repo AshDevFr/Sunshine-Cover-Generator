@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[229954],{229954:(e,s,a)=>{e.exports=a.p+"static/media/timer-off-outline.9119bbd2aa6e2f65fe88.svg"}}]);

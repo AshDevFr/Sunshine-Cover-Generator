@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[993252],{993252:(e,s,a)=>{e.exports=a.p+"static/media/rivet.81c9cfa0e7ce467e9294.svg"}}]);

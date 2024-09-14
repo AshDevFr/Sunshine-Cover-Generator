@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[512394],{512394:(e,s,a)=>{e.exports=a.p+"static/media/virus-outline.5df0aee1a5694aca9081.svg"}}]);

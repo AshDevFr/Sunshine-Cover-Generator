@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[558207],{558207:(e,s,a)=>{e.exports=a.p+"static/media/globe-model.3346cd6bdb0336f86ef9.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[327178],{327178:(e,s,a)=>{e.exports=a.p+"static/media/emoticon-cool.c79a7351ed70b187b516.svg"}}]);

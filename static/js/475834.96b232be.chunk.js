@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[475834],{475834:(e,s,a)=>{e.exports=a.p+"static/media/currency-rial.86266919ec20e5b2be0d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[498495],{498495:(e,s,a)=>{e.exports=a.p+"static/media/source-branch-plus.cf917f099a463f7cbb8c.svg"}}]);

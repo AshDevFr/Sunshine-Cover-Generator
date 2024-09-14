@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[393470],{393470:(e,s,a)=>{e.exports=a.p+"static/media/rhombus-medium.478f39c753dc2bc3e953.svg"}}]);

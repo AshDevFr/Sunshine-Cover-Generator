@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[553096],{553096:(e,a,s)=>{e.exports=s.p+"static/media/flag.a7b7d4196aeb2f48a68f.svg"}}]);

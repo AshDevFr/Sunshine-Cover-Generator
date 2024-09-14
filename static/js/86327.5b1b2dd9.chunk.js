@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[86327],{86327:(e,s,a)=>{e.exports=a.p+"static/media/chevron-up-box.b9de8a9c4f05a56932f1.svg"}}]);

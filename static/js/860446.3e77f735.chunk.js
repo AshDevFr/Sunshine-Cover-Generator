@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[860446],{860446:(e,s,a)=>{e.exports=a.p+"static/media/power-plug-battery.02ddeb2e81c067d1102a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[870150],{870150:(e,s,c)=>{e.exports=c.p+"static/media/truck-fast.73c1759cdcbcf7ec84ed.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[727272],{727272:(e,s,a)=>{e.exports=a.p+"static/media/crown-circle.abcd8f0d07cdfd8918b8.svg"}}]);

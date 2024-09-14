@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[142010],{142010:(e,s,n)=>{e.exports=n.p+"static/media/phone-remove-outline.f26dd3c771842c295d54.svg"}}]);

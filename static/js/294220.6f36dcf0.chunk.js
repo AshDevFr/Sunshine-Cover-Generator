@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[294220],{294220:(e,s,n)=>{e.exports=n.p+"static/media/puzzle-minus-outline.2af975e6649d71835cb0.svg"}}]);

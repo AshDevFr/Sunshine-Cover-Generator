@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[840362],{840362:(e,s,a)=>{e.exports=a.p+"static/media/gesture-pinch.0968a5e0020d6d8a9558.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[48920],{48920:(e,s,a)=>{e.exports=a.p+"static/media/basketball-hoop.7c7b8a8467ea209ef36b.svg"}}]);

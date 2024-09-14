@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[414618],{414618:(e,s,n)=>{e.exports=n.p+"static/media/pound.8511344bdfd8479b7236.svg"}}]);

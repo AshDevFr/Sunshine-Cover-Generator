@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[364758],{364758:(e,s,n)=>{e.exports=n.p+"static/media/soldering-iron.5d2328dd764391b974df.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[523291],{523291:(e,s,a)=>{e.exports=a.p+"static/media/podium-gold.b68e2db106eca72ffba7.svg"}}]);

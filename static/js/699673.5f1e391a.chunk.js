@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[699673],{699673:(e,s,a)=>{e.exports=a.p+"static/media/ballot-outline.e2883e4f33b350133cf3.svg"}}]);

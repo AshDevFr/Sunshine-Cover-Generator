@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[72601],{72601:(e,s,a)=>{e.exports=a.p+"static/media/usb-flash-drive-outline.4c6a3776607af7321a88.svg"}}]);

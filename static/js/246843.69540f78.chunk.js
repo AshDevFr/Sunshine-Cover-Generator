@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[246843],{246843:(e,s,a)=>{e.exports=a.p+"static/media/cellphone-wireless.a163e69fa5e5b07dfb29.svg"}}]);

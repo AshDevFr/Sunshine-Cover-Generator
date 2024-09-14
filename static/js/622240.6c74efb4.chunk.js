@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[622240],{622240:(e,a,s)=>{e.exports=s.p+"static/media/format-line-spacing.39a30b4614a525208a2b.svg"}}]);

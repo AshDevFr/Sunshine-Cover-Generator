@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[427287],{427287:(e,s,a)=>{e.exports=a.p+"static/media/chart-multiple.01e977e4a50931f0921d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[326981],{326981:(e,a,s)=>{e.exports=s.p+"static/media/trophy-variant-outline.ad6de7eb49823efb08a9.svg"}}]);

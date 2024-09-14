@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[24600],{24600:(e,s,n)=>{e.exports=n.p+"static/media/pan-down.21392cb8833f3c201bf2.svg"}}]);

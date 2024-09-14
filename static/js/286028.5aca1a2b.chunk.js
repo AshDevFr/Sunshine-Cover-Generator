@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[286028],{286028:(e,s,n)=>{e.exports=n.p+"static/media/moon-new.8fbe300027882230d742.svg"}}]);

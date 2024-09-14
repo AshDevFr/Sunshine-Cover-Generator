@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[315230],{315230:(e,s,a)=>{e.exports=a.p+"static/media/diving-scuba.75a574c560820abe92c9.svg"}}]);

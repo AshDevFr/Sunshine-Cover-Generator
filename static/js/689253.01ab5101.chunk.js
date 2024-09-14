@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[689253],{689253:(e,s,a)=>{e.exports=a.p+"static/media/monitor-star.85e4ab550810e4eabd1a.svg"}}]);

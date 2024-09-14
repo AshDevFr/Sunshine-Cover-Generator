@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[460487],{460487:(e,s,a)=>{e.exports=a.p+"static/media/artstation.c602d9ee5e32c8107441.svg"}}]);

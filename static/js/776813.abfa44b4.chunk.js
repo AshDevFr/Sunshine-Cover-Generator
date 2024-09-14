@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[776813],{776813:(e,s,a)=>{e.exports=a.p+"static/media/bag-personal-off.5a24fd7558a903c785bc.svg"}}]);

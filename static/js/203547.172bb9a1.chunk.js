@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[203547],{203547:(e,s,a)=>{e.exports=a.p+"static/media/lotion.a6d4f2c81b0dbe83a425.svg"}}]);

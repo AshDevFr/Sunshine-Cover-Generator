@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[68279],{68279:(e,s,a)=>{e.exports=a.p+"static/media/cupboard-outline.c89d3ff4e370d6a961f3.svg"}}]);

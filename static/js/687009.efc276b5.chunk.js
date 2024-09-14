@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[687009],{687009:(e,s,a)=>{e.exports=a.p+"static/media/harddisk-remove.be9b9dd0e54cc1b4372c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[622557],{622557:(e,a,s)=>{e.exports=s.p+"static/media/human-handsup.af9c6d7a31762c62ab1e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[208840],{208840:(e,s,a)=>{e.exports=a.p+"static/media/format-underline-wavy.666d7d2727bf92201518.svg"}}]);

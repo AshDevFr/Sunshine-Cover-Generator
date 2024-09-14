@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[449404],{449404:(e,s,a)=>{e.exports=a.p+"static/media/guitar-pick.6ddfa5b8cbb8dd2a50b7.svg"}}]);

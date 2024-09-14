@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[402733],{402733:(e,s,n)=>{e.exports=n.p+"static/media/microphone-question.326ea327f8d3432d7546.svg"}}]);

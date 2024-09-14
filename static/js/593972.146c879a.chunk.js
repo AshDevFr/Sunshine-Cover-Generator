@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[593972],{593972:(e,s,a)=>{e.exports=a.p+"static/media/razor-double-edge.7284f227328e2316aafd.svg"}}]);

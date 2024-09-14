@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[436630],{436630:(e,s,a)=>{e.exports=a.p+"static/media/badminton.4d410257e4a755dba33e.svg"}}]);

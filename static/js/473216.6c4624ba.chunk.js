@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[473216],{473216:(e,s,a)=>{e.exports=a.p+"static/media/volume-off.56b6f32f6a743c87900d.svg"}}]);

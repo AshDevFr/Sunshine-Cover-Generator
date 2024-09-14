@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[355759],{355759:(e,a,s)=>{e.exports=s.p+"static/media/keyboard-backspace.3a89b69098a397021d5d.svg"}}]);

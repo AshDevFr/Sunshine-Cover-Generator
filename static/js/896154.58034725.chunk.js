@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[896154],{896154:(e,s,t)=>{e.exports=t.p+"static/media/format-letter-matches.034e669cf7c826970236.svg"}}]);

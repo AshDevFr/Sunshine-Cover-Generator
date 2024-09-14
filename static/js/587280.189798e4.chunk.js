@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[587280],{587280:(e,s,a)=>{e.exports=a.p+"static/media/ring.52a8b974046f313b5860.svg"}}]);

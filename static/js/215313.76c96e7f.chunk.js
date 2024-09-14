@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[215313],{215313:(e,a,s)=>{e.exports=s.p+"static/media/watch-variant.86966180fb89982af0c3.svg"}}]);

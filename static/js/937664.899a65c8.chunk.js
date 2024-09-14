@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[937664],{937664:(e,s,a)=>{e.exports=a.p+"static/media/sim-off-outline.ddf28e120c7b383eddac.svg"}}]);

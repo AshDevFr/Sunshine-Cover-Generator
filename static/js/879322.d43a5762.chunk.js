@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[879322],{879322:(e,s,i)=>{e.exports=i.p+"static/media/medication-outline.47cf2fb6174905305485.svg"}}]);

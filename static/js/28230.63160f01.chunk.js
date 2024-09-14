@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[28230],{28230:(e,a,s)=>{e.exports=s.p+"static/media/airplane-landing.8a5977dbe0759e91cbde.svg"}}]);

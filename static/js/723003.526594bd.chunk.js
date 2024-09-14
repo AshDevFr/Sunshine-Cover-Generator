@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[723003],{723003:(e,s,a)=>{e.exports=a.p+"static/media/math-compass.fb0678a5be3c4b544894.svg"}}]);

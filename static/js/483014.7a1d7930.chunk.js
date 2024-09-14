@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[483014],{483014:(e,s,a)=>{e.exports=a.p+"static/media/liquor.34f2200bb3d65a2d33c0.svg"}}]);

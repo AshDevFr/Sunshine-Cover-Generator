@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[257418],{257418:(e,s,a)=>{e.exports=a.p+"static/media/notebook-heart.8497fabcf58fb5fd6073.svg"}}]);

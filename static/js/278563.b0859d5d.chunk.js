@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[278563],{278563:(e,s,a)=>{e.exports=a.p+"static/media/coat-rack.b065b0a5b0c82240dcc1.svg"}}]);

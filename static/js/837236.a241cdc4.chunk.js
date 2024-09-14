@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[837236],{837236:(e,a,s)=>{e.exports=s.p+"static/media/cloud-cancel.f9a0aed13fd8e3acedf6.svg"}}]);

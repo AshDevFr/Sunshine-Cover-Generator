@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[982577],{982577:(e,s,a)=>{e.exports=a.p+"static/media/party-popper.355bb0e790650eb531eb.svg"}}]);

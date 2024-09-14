@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[348175],{348175:(e,s,a)=>{e.exports=a.p+"static/media/bus-articulated-front.8be5cbe4d061a3690c34.svg"}}]);

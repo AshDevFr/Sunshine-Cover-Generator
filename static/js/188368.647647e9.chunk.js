@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[188368],{188368:(e,s,i)=>{e.exports=i.p+"static/media/credit-card-minus-outline.3342e2b083c34bd8fe51.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[607103],{607103:(e,a,s)=>{e.exports=s.p+"static/media/decagram-outline.e3be9b107ba45c626a44.svg"}}]);

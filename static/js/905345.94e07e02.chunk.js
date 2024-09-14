@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[905345],{905345:(e,s,a)=>{e.exports=a.p+"static/media/bus-school.ad987694bde48be75f56.svg"}}]);

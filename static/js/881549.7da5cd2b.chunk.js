@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[881549],{881549:(e,s,a)=>{e.exports=a.p+"static/media/bridge.5d4d0096cc4400980b79.svg"}}]);

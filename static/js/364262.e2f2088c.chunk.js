@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[364262],{364262:(e,s,a)=>{e.exports=a.p+"static/media/google-lens.7a8afd9d4623e5151635.svg"}}]);

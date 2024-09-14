@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[371065],{371065:(e,s,a)=>{e.exports=a.p+"static/media/octahedron-off.44336dae2725b2ecf8f2.svg"}}]);

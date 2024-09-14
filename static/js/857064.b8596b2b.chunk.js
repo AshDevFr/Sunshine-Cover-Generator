@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[857064],{857064:(e,s,a)=>{e.exports=a.p+"static/media/bow-arrow.56b721b59a0e0f901c47.svg"}}]);

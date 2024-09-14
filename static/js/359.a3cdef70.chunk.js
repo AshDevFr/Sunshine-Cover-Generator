@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[359],{359:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-xbox-controller-off.716d095632f068a60a0f.svg"}}]);

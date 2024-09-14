@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[439545],{439545:(e,s,a)=>{e.exports=a.p+"static/media/waze.98c2308114a7b8f4c0ac.svg"}}]);

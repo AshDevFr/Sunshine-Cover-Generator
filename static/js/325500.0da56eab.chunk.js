@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[325500],{325500:(e,s,a)=>{e.exports=a.p+"static/media/crop-landscape.80a9e6cc10c7381a2f65.svg"}}]);

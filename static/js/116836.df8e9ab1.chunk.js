@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[116836],{116836:(e,s,a)=>{e.exports=a.p+"static/media/pot-mix.8f03a959b9eb056bbbfe.svg"}}]);

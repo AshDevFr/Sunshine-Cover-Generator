@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[649736],{649736:(e,s,a)=>{e.exports=a.p+"static/media/skip-next-circle.7fb417086d9cbdc0dae6.svg"}}]);

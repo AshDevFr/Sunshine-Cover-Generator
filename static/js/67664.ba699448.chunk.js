@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[67664],{67664:(e,s,a)=>{e.exports=a.p+"static/media/hospital-box.3fbd323b1448f6e63f1f.svg"}}]);

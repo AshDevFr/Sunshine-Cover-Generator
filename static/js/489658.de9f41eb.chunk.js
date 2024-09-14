@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[489658],{489658:(e,s,a)=>{e.exports=a.p+"static/media/asterisk.1912e5ca08c8b8c7c3af.svg"}}]);

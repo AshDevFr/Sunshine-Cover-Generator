@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[624520],{624520:(e,s,a)=>{e.exports=a.p+"static/media/hand-peace.e2bc20a22462b403e645.svg"}}]);

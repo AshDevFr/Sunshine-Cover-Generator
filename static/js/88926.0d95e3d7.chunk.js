@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[88926],{88926:(e,s,a)=>{e.exports=a.p+"static/media/wifi-arrow-left-right.dbac8411c6ad9ddd691f.svg"}}]);

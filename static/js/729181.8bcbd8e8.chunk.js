@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[729181],{729181:(e,a,s)=>{e.exports=s.p+"static/media/airplane-marker.86992bb439dd3f3fc0ad.svg"}}]);

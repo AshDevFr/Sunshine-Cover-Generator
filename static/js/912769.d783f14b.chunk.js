@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[912769],{912769:(e,s,i)=>{e.exports=i.p+"static/media/video-wireless-outline.977e881777696c315e68.svg"}}]);

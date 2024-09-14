@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[896118],{896118:(e,a,s)=>{e.exports=s.p+"static/media/train-variant.1b856ac1a5497cbf7b7e.svg"}}]);

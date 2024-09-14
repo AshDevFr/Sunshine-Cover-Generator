@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[532991],{532991:(e,s,a)=>{e.exports=a.p+"static/media/space-invaders.245558fcd0a92571cd99.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[50469],{50469:(e,s,a)=>{e.exports=a.p+"static/media/car-windshield-outline.38ba48fe6cdf3d749d2e.svg"}}]);

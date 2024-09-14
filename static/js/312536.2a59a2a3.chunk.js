@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[312536],{312536:(e,s,a)=>{e.exports=a.p+"static/media/expansion-card.e3807bd8c4529607fde9.svg"}}]);

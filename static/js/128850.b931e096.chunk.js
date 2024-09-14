@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[128850],{128850:(e,s,a)=>{e.exports=a.p+"static/media/egg-fried.250211bee817cbac75b3.svg"}}]);

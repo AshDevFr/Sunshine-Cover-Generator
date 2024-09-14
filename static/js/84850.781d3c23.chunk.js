@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[84850],{84850:(e,s,i)=>{e.exports=i.p+"static/media/emoticon-sick-outline.847eb35fb1e3367b82fb.svg"}}]);

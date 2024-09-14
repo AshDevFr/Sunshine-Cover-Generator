@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[294859],{294859:(e,s,n)=>{e.exports=n.p+"static/media/gift-open.56c321b16637707044e7.svg"}}]);

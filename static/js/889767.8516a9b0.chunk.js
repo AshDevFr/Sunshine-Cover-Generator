@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[889767],{889767:(e,s,a)=>{e.exports=a.p+"static/media/flag-triangle.4b718812b14180e1d44b.svg"}}]);

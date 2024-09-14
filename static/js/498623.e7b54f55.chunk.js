@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[498623],{498623:(e,s,n)=>{e.exports=n.p+"static/media/music-note-minus.59d51a3639d8b118c0c5.svg"}}]);

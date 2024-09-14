@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[71164],{71164:(e,s,a)=>{e.exports=a.p+"static/media/billiards-rack.676152b17d4d4296fa5c.svg"}}]);

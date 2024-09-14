@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[311692],{311692:(e,s,a)=>{e.exports=a.p+"static/media/monitor-cellphone-star.f0dc56754e1a71f5058a.svg"}}]);

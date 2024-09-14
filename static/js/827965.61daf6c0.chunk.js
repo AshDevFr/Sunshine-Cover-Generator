@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[827965],{827965:(e,s,a)=>{e.exports=a.p+"static/media/pig-variant-outline.633eeb9a5be7e5e4cb9b.svg"}}]);

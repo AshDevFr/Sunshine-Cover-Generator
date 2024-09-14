@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[695282],{695282:(e,a,s)=>{e.exports=s.p+"static/media/pentagon.b4ebea90efdaa13d8028.svg"}}]);

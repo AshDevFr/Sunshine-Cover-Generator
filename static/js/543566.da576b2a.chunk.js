@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[543566],{543566:(e,s,t)=>{e.exports=t.p+"static/media/kettle-off-outline.138694bb825b13cfdd09.svg"}}]);

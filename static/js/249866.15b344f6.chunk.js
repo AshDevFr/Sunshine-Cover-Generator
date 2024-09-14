@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[249866],{249866:(e,s,a)=>{e.exports=a.p+"static/media/headset.ed6d351e0b42ac975f13.svg"}}]);

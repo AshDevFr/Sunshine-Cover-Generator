@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[132644],{132644:(e,s,a)=>{e.exports=a.p+"static/media/restart-alert.47d6de688f6791f136cb.svg"}}]);

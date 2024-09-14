@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[903285],{903285:(e,a,s)=>{e.exports=s.p+"static/media/augmented-reality.fe18d0a8fb87b1afe2c4.svg"}}]);

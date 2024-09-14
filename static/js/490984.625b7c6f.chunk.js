@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[490984],{490984:(e,s,n)=>{e.exports=n.p+"static/media/printer-3d-nozzle-outline.8c5715606f89e73aaff7.svg"}}]);

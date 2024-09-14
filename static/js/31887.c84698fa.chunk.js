@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[31887],{31887:(e,s,a)=>{e.exports=a.p+"static/media/nfc-variant-off.c66a5dce6201bb2db74e.svg"}}]);

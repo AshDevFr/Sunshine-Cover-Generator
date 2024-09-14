@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[151971],{151971:(e,s,a)=>{e.exports=a.p+"static/media/weather-cloudy.1cb78264a80688e4da8d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[538773],{538773:(e,s,a)=>{e.exports=a.p+"static/media/google-classroom.78fbd9814d3b9cff78b3.svg"}}]);

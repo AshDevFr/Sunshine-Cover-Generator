@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[790355],{790355:(e,s,a)=>{e.exports=a.p+"static/media/book-remove-multiple.fdc8000802e1f0867933.svg"}}]);

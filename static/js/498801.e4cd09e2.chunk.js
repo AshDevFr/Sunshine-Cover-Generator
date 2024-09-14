@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[498801],{498801:(e,s,a)=>{e.exports=a.p+"static/media/table-picnic.e2184eb7bd897fea1b80.svg"}}]);

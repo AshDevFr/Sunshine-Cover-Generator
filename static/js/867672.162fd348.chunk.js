@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[867672],{867672:(e,s,a)=>{e.exports=a.p+"static/media/book-edit.b5c213f52b537a0b7e8d.svg"}}]);

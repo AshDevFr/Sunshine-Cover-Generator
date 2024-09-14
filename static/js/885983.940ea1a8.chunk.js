@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[885983],{885983:(e,s,a)=>{e.exports=a.p+"static/media/projector-screen-variant.0be1c6e4f060f5e89b96.svg"}}]);

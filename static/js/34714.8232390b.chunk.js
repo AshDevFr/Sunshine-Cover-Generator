@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[34714],{34714:(e,s,a)=>{e.exports=a.p+"static/media/polaroid.2c58d8267fe3e98ed96b.svg"}}]);

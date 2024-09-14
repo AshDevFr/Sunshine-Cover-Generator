@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[124576],{124576:(e,s,a)=>{e.exports=a.p+"static/media/clock-edit-outline.a7470551d713a330941b.svg"}}]);

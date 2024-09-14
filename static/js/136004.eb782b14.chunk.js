@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[136004],{136004:(e,s,a)=>{e.exports=a.p+"static/media/grill.fca25a11ee0090e178f7.svg"}}]);

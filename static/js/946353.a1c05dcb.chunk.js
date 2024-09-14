@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[946353],{946353:(e,s,a)=>{e.exports=a.p+"static/media/silo.a6952d140702d8a8485c.svg"}}]);

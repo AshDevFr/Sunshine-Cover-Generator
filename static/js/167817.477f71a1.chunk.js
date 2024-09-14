@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[167817],{167817:(e,s,a)=>{e.exports=a.p+"static/media/star-box-multiple.6329849274ef952deede.svg"}}]);

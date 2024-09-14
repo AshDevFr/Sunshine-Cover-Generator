@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[675525],{675525:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-bluetooth.aa81729e8e62e725aede.svg"}}]);

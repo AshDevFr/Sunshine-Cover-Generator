@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[954145],{954145:(e,s,a)=>{e.exports=a.p+"static/media/lightbulb-on-90.c7958330cbbf683e19fa.svg"}}]);

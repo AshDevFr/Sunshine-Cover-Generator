@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[928099],{928099:(e,s,a)=>{e.exports=a.p+"static/media/pac-man.42bb75d3133d3e9ec7ac.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[796416],{796416:(e,s,a)=>{e.exports=a.p+"static/media/pot-outline.64fd90f357c3bcaec244.svg"}}]);

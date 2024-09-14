@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[57936],{57936:(e,s,a)=>{e.exports=a.p+"static/media/wifi-alert.e7e7c48bf85691d5a4cb.svg"}}]);

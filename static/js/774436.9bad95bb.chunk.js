@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[774436],{774436:(e,s,a)=>{e.exports=a.p+"static/media/diving-scuba-tank-multiple.4c995dbd599800dafbc4.svg"}}]);

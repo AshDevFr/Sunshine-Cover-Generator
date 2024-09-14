@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[112751],{112751:(e,a,s)=>{e.exports=s.p+"static/media/download-box-outline.36a89daf5a03e51ebb0d.svg"}}]);

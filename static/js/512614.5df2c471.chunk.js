@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[512614],{512614:(e,s,a)=>{e.exports=a.p+"static/media/gondola.50441364c8e5fb9f838a.svg"}}]);

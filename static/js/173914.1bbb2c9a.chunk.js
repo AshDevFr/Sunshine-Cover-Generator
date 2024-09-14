@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[173914],{173914:(e,s,a)=>{e.exports=a.p+"static/media/robot-industrial.224c21b7d87dd2e98d92.svg"}}]);

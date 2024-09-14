@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[192005],{192005:(e,s,t)=>{e.exports=t.p+"static/media/lightbulb-fluorescent-tube.d34ca4ddee63b2dec5bc.svg"}}]);

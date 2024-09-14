@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[394968],{394968:(e,s,a)=>{e.exports=a.p+"static/media/screw-machine-flat-top.709d00f58fd4bbf07a92.svg"}}]);

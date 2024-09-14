@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[304810],{304810:(e,s,a)=>{e.exports=a.p+"static/media/sign-language.d057a7c79d46571becfa.svg"}}]);

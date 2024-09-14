@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[27466],{27466:(e,s,a)=>{e.exports=a.p+"static/media/triangle.692e43925a741660cf26.svg"}}]);

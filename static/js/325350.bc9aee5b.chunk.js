@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[325350],{102969:(e,s,a)=>{e.exports=a.p+"static/media/clock-star-four-points.9d27164abb4969296be7.svg"}}]);

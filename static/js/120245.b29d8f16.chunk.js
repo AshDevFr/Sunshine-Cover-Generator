@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[120245],{120245:(e,s,a)=>{e.exports=a.p+"static/media/bus-stop.b0cbed4c3ad2f9889533.svg"}}]);

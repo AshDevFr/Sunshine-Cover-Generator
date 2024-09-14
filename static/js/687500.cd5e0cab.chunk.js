@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[687500],{687500:(e,s,a)=>{e.exports=a.p+"static/media/rickshaw-electric.064462c1a7f0bb34fa12.svg"}}]);

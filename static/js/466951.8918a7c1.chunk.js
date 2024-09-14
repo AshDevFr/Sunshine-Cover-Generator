@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[466951],{466951:(e,s,t)=>{e.exports=t.p+"static/media/ticket-percent-outline.636a59170029e68b65bd.svg"}}]);

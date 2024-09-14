@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[202635],{202635:(e,s,a)=>{e.exports=a.p+"static/media/currency-rupee.12f9dfbeea73579ae935.svg"}}]);

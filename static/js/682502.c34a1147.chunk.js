@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[682502],{682502:(e,s,a)=>{e.exports=a.p+"static/media/star-shooting.bf830e1d643441585e00.svg"}}]);

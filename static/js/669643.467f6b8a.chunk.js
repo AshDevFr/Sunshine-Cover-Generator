@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[669643],{669643:(e,a,s)=>{e.exports=s.p+"static/media/ray-start-arrow.a9659fb9b834a0b10cd8.svg"}}]);

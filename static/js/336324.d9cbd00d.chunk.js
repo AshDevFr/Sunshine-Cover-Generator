@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[336324],{336324:(e,s,a)=>{e.exports=a.p+"static/media/sticker-remove.e3713fc64836714cde1c.svg"}}]);

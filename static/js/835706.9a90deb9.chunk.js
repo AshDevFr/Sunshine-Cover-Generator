@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[835706],{835706:(e,s,a)=>{e.exports=a.p+"static/media/timer-sand-complete.dd469f3e3853a8863b9c.svg"}}]);

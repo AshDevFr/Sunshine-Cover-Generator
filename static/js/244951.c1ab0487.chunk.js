@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[244951],{244951:(e,s,a)=>{e.exports=a.p+"static/media/train-car-intermodal.1c518b25d2b010973dd9.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[888571],{888571:(e,s,a)=>{e.exports=a.p+"static/media/car-brake-parking.f1bffccfb8df02bfc4c7.svg"}}]);

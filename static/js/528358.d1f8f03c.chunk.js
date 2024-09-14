@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[528358],{528358:(e,s,a)=>{e.exports=a.p+"static/media/pokeball.1b09a50c5bf9f2cd07d5.svg"}}]);

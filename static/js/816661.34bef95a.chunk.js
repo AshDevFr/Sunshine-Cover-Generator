@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[816661],{816661:(e,s,a)=>{e.exports=a.p+"static/media/kettle-pour-over.f08aae919f0d83cb3263.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[520509],{520509:(e,s,a)=>{e.exports=a.p+"static/media/call-split.9be25728809bd1486c06.svg"}}]);

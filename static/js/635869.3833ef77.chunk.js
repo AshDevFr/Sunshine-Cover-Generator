@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[635869],{635869:(e,s,n)=>{e.exports=n.p+"static/media/book-clock-outline.70024889ce8c7ee6581b.svg"}}]);

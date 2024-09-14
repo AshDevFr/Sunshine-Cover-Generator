@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[355511],{355511:(e,s,c)=>{e.exports=c.p+"static/media/chevron-left-circle-outline.4d28e0c34a8cc88b067b.svg"}}]);

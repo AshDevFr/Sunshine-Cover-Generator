@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[492529],{492529:(e,s,n)=>{e.exports=n.p+"static/media/text-recognition.706be52439bd22034d7a.svg"}}]);

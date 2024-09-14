@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[594267],{594267:(e,s,a)=>{e.exports=a.p+"static/media/record-player.d6ada27018f757d8d885.svg"}}]);

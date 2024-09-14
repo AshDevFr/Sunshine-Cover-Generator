@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[965622],{965622:(e,a,s)=>{e.exports=s.p+"static/media/hand-pointing-up.7518da0abf9f59aa4851.svg"}}]);

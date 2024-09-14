@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[481660],{481660:(e,s,a)=>{e.exports=a.p+"static/media/ice-cream-off.15116e2ac4ef3293a485.svg"}}]);

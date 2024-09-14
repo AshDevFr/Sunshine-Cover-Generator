@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[681186],{681186:(e,s,a)=>{e.exports=a.p+"static/media/kubernetes.1695a272a0d37128cb82.svg"}}]);

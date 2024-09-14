@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[313700],{313700:(e,s,a)=>{e.exports=a.p+"static/media/shopping-music.45824a5a864e17372a84.svg"}}]);

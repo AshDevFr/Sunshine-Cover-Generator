@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[36577],{36577:(e,s,a)=>{e.exports=a.p+"static/media/phone-ring.b541118c1b8069a006a0.svg"}}]);

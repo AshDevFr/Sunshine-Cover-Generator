@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[832789],{832789:(e,s,a)=>{e.exports=a.p+"static/media/toy-brick-marker.81ce4b350a77135e1356.svg"}}]);

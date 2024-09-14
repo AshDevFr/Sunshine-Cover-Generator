@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[677244],{677244:(e,s,a)=>{e.exports=a.p+"static/media/water-circle.fe2cdc43b8974b4afede.svg"}}]);

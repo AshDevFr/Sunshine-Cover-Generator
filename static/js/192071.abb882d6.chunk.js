@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[192071],{192071:(e,s,i)=>{e.exports=i.p+"static/media/video-input-hdmi.de5cb7ce9c82dac14294.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[975274],{975274:(e,s,a)=>{e.exports=a.p+"static/media/wifi-strength-outline.104ad62f2effcfbee9a7.svg"}}]);

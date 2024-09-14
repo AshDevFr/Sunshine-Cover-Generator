@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[724902],{724902:(e,s,a)=>{e.exports=a.p+"static/media/water-boiler-alert.502ed41ea9b98d6f56b6.svg"}}]);

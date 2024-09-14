@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[153909],{153909:(e,s,i)=>{e.exports=i.p+"static/media/television-classic.53814b930141bc42cb81.svg"}}]);

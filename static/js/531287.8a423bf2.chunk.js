@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[531287],{531287:(e,s,a)=>{e.exports=a.p+"static/media/math-integral.f60947bb6ac36c4e318d.svg"}}]);

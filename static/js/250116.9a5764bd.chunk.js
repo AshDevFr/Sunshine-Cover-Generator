@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[250116],{250116:(e,s,a)=>{e.exports=a.p+"static/media/video-input-scart.7cac6af6f5482d2ef7a1.svg"}}]);

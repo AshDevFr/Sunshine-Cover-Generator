@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[616117],{616117:(e,s,n)=>{e.exports=n.p+"static/media/heart-broken-outline.fb915c8dd609070c8e9d.svg"}}]);

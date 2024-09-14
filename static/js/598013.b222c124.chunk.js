@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[598013],{598013:(e,s,a)=>{e.exports=a.p+"static/media/restart-off.821f83241b50e3a4ae40.svg"}}]);

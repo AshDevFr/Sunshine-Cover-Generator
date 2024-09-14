@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[439611],{439611:(e,a,s)=>{e.exports=s.p+"static/media/weight-kilogram.1c2a8408f53b3c06a2a5.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[169946],{169946:(e,s,a)=>{e.exports=a.p+"static/media/xamarin.bffc046247e49a671308.svg"}}]);

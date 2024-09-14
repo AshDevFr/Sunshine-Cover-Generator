@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[919979],{919979:(e,s,i)=>{e.exports=i.p+"static/media/video-stabilization.4bff4e25e9020c260186.svg"}}]);

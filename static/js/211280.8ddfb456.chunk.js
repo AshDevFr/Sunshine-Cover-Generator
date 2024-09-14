@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[211280],{211280:(e,s,a)=>{e.exports=a.p+"static/media/floppy-variant.ab2304457532023fe1e6.svg"}}]);

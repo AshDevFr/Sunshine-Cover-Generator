@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[856039],{856039:(e,s,a)=>{e.exports=a.p+"static/media/badge-account.f296981eaef1e5010c20.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[739061],{739061:(e,s,a)=>{e.exports=a.p+"static/media/music-rest-quarter.d673f887b6da19997194.svg"}}]);

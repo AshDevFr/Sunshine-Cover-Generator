@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[11964],{11964:(e,s,a)=>{e.exports=a.p+"static/media/water-well.b225f1144947ad2b09d9.svg"}}]);

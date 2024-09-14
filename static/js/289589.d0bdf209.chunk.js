@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[289589],{289589:(e,s,a)=>{e.exports=a.p+"static/media/food-hot-dog.f5a40f3f45a0c0d5899b.svg"}}]);

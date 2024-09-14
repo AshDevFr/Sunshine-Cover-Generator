@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[12689],{12689:(e,s,a)=>{e.exports=a.p+"static/media/cloud-refresh-variant.4feb6a832309a12ed6d9.svg"}}]);

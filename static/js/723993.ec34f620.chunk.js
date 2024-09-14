@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[723993],{723993:(e,s,n)=>{e.exports=n.p+"static/media/calendar-weekend-outline.cb9d086036867ebdff1f.svg"}}]);

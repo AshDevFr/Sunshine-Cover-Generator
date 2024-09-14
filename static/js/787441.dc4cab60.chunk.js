@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[787441],{787441:(e,s,i)=>{e.exports=i.p+"static/media/file-gif-box.fe8972de19346b497d8e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[388920],{388920:(e,s,a)=>{e.exports=a.p+"static/media/cards-spade-outline.fe19cb00fd31ccb270d7.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[986649],{986649:(e,s,a)=>{e.exports=a.p+"static/media/phone-bluetooth.0256e2516291a24ee5c3.svg"}}]);

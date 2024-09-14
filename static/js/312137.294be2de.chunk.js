@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[312137],{312137:(e,s,n)=>{e.exports=n.p+"static/media/led-on.9d54cc40fc2865f9294e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[126014],{126014:(e,s,a)=>{e.exports=a.p+"static/media/card-minus-outline.6bcfecc9af107e45784c.svg"}}]);

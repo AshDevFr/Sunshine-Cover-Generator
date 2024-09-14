@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[43042],{43042:(e,s,a)=>{e.exports=a.p+"static/media/card-account-details-star.2c18833d8c8020cf8046.svg"}}]);

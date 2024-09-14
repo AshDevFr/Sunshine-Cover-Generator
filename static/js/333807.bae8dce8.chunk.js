@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[333807],{333807:(e,s,a)=>{e.exports=a.p+"static/media/chart-donut.f16ca9f09bca3d0d7e95.svg"}}]);

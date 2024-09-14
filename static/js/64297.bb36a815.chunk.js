@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[64297],{64297:(e,s,a)=>{e.exports=a.p+"static/media/phone-dial.4041cd8409dfe8e1b82f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[225705],{225705:(e,s,a)=>{e.exports=a.p+"static/media/passport-cancel.a79e9bd6bee1bbd395c1.svg"}}]);

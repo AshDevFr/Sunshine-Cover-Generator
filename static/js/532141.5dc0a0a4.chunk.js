@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[532141],{532141:(e,s,a)=>{e.exports=a.p+"static/media/silverware-fork-knife.411b2927043f09399004.svg"}}]);

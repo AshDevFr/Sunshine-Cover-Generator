@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[126691],{126691:(e,s,a)=>{e.exports=a.p+"static/media/washing-machine.783079ac9981d6f8eff3.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[520870],{520870:(e,a,s)=>{e.exports=s.p+"static/media/pier-crane.b1aac2f743e0eaae4b5b.svg"}}]);

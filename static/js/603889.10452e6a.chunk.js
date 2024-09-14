@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[603889],{603889:(e,s,a)=>{e.exports=a.p+"static/media/cup-off-outline.3994237d8c5eda61cbc9.svg"}}]);

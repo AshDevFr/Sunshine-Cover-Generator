@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[944688],{944688:(e,s,a)=>{e.exports=a.p+"static/media/bed-clock.07ae2aead73828be5dff.svg"}}]);

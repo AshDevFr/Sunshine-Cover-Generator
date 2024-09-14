@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[137556],{137556:(e,s,a)=>{e.exports=a.p+"static/media/backburger.c3d479f88bfdfe63aa31.svg"}}]);

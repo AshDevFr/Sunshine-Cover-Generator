@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[572468],{572468:(e,s,c)=>{e.exports=c.p+"static/media/bus-stop-covered.c920e0cd734400640dcc.svg"}}]);

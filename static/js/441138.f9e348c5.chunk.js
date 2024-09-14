@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[441138],{441138:(e,s,n)=>{e.exports=n.p+"static/media/printer-pos-wrench-outline.382f9afb1df90cfdc968.svg"}}]);

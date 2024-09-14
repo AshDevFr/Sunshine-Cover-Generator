@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[531555],{531555:(e,s,i)=>{e.exports=i.p+"static/media/file-certificate-outline.38702cc88248035dd83d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[97659],{97659:(e,s,a)=>{e.exports=a.p+"static/media/mastodon.b38a934985f8da586584.svg"}}]);

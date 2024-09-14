@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[124156],{124156:(e,s,a)=>{e.exports=a.p+"static/media/parachute-outline.d504265d1658f2b36c94.svg"}}]);

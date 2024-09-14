@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[167185],{167185:(e,s,a)=>{e.exports=a.p+"static/media/star-circle.fb4f07a913ddb229e873.svg"}}]);

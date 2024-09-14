@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[927574],{927574:(e,s,a)=>{e.exports=a.p+"static/media/volcano.034682c3e896629e7edf.svg"}}]);

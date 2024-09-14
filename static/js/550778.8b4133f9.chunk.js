@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[550778],{550778:(e,s,a)=>{e.exports=a.p+"static/media/microsoft-azure-devops.59344b32958a76ec4a36.svg"}}]);

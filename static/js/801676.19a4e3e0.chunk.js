@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[801676],{801676:(e,s,a)=>{e.exports=a.p+"static/media/diamond-stone.213dae9f1a420064d5e6.svg"}}]);

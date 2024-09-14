@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[389520],{389520:(e,a,s)=>{e.exports=s.p+"static/media/kabaddi.2af7deae40b2cd9faf0a.svg"}}]);

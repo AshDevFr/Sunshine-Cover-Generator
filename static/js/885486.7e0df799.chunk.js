@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[885486],{885486:(e,a,s)=>{e.exports=s.p+"static/media/database-marker.0e98ae843e3f2effa878.svg"}}]);

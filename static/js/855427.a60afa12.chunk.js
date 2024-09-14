@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[855427],{855427:(e,s,a)=>{e.exports=a.p+"static/media/hook-off.13214cc13534904e3d6a.svg"}}]);

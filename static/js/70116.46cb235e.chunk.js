@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[70116],{70116:(e,s,a)=>{e.exports=a.p+"static/media/pig-variant.6f57822e748a46d5248b.svg"}}]);

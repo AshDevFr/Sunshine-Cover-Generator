@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[957769],{957769:(e,s,a)=>{e.exports=a.p+"static/media/rollupjs.359cff08b15c18488b12.svg"}}]);

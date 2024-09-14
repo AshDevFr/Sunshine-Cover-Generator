@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[242099],{242099:(e,s,a)=>{e.exports=a.p+"static/media/thermometer-plus.94017c9907b2a9c650c9.svg"}}]);

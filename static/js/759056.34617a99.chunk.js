@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[759056],{759056:(e,a,s)=>{e.exports=s.p+"static/media/sort-calendar-descending.0acab09d6fa1230c52a5.svg"}}]);

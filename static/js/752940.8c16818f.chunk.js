@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[752940],{752940:(e,s,a)=>{e.exports=a.p+"static/media/soccer-field.4fbfdaf913816c9670b8.svg"}}]);

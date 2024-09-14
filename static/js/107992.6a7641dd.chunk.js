@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[107992],{107992:(e,s,a)=>{e.exports=a.p+"static/media/file-cancel-outline.3d7d0e7ac2a865d5ece4.svg"}}]);

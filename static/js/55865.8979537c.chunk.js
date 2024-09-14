@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[55865],{55865:(e,s,a)=>{e.exports=a.p+"static/media/shape-oval-plus.82fb4d34453bc0919c70.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[431320],{431320:(e,a,s)=>{e.exports=s.p+"static/media/zodiac-capricorn.e2b72daf790ee4e745da.svg"}}]);

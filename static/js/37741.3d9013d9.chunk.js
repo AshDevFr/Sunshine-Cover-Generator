@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[37741],{37741:(e,s,a)=>{e.exports=a.p+"static/media/gavel.c349967f828f8984b8eb.svg"}}]);

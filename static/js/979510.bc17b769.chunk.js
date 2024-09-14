@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[979510],{979510:(e,s,a)=>{e.exports=a.p+"static/media/cash-multiple.2314d1b555a4067735d5.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[99670],{99670:(e,s,a)=>{e.exports=a.p+"static/media/signal-variant.9d27eba6f16ec90f382c.svg"}}]);

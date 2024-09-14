@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[526300],{526300:(e,s,i)=>{e.exports=i.p+"static/media/wifi-plus.553783cedfbb4447e840.svg"}}]);

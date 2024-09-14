@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[465516],{465516:(e,a,s)=>{e.exports=s.p+"static/media/bed-queen.38a22ac21a801c1a45e4.svg"}}]);

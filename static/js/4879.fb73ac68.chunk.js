@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[4879],{4879:(e,s,a)=>{e.exports=a.p+"static/media/checkbox-multiple-marked.0593730388c35c62e845.svg"}}]);

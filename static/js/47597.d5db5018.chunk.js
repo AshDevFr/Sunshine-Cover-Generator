@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[47597],{47597:(e,s,a)=>{e.exports=a.p+"static/media/timer-sand-paused.8f6fdc9af03d97f2155f.svg"}}]);

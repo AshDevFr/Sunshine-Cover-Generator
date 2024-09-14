@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[947754],{947754:(e,s,a)=>{e.exports=a.p+"static/media/material-design.dd8ff74dd4e166236ed7.svg"}}]);

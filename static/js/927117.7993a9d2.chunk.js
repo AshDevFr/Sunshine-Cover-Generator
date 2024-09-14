@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[927117],{927117:(e,s,a)=>{e.exports=a.p+"static/media/bank-outline.15138955a3540d19554e.svg"}}]);

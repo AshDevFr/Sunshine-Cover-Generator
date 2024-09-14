@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[590912],{590912:(e,a,s)=>{e.exports=s.p+"static/media/rewind-15.74ec2cacdd7faaf55ad2.svg"}}]);

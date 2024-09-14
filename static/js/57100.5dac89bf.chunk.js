@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[57100],{57100:(e,a,s)=>{e.exports=s.p+"static/media/subway-alert-variant.962e9f906a9c47391f39.svg"}}]);

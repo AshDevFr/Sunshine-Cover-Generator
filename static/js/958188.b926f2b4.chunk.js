@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[958188],{958188:(e,s,a)=>{e.exports=a.p+"static/media/trophy-award.d52f0dd198d88bed5cc6.svg"}}]);

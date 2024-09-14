@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[485336],{485336:(e,s,a)=>{e.exports=a.p+"static/media/plus-circle-multiple.39a271229995b88f2c8c.svg"}}]);

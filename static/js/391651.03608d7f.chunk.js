@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[391651],{391651:(e,s,t)=>{e.exports=t.p+"static/media/pool-thermometer.651b5f98f7d717602d8f.svg"}}]);

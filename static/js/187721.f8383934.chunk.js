@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[187721],{187721:(e,s,a)=>{e.exports=a.p+"static/media/cookie-clock.0c019d037d8bda5e59d6.svg"}}]);

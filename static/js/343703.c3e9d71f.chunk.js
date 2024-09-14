@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[343703],{343703:(e,s,c)=>{e.exports=c.p+"static/media/bicycle-electric.16e2f5f9c2c7b29d3173.svg"}}]);

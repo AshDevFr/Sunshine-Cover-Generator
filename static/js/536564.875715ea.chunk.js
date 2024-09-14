@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[536564],{536564:(e,s,a)=>{e.exports=a.p+"static/media/hammer.349c13191040ca0fdf16.svg"}}]);

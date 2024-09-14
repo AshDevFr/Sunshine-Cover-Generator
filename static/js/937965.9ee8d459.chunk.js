@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[937965],{937965:(e,s,a)=>{e.exports=a.p+"static/media/scatter-plot-outline.f6c7510a4b6ac36ca00b.svg"}}]);

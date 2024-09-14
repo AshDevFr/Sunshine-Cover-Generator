@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[355483],{355483:(e,s,a)=>{e.exports=a.p+"static/media/baby-face-outline.8393b3cec469f7f2185a.svg"}}]);

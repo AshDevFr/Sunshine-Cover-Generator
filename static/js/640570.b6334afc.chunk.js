@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[640570],{640570:(e,s,a)=>{e.exports=a.p+"static/media/hand-wave-outline.89967066689c832af679.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[787695],{787695:(e,s,n)=>{e.exports=n.p+"static/media/folder-pound.0ecc7e457b21f9dd6203.svg"}}]);

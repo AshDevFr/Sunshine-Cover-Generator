@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[494959],{494959:(e,s,a)=>{e.exports=a.p+"static/media/hospital-building.639171fa4be260ed380a.svg"}}]);

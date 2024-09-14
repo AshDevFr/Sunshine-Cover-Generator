@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[360080],{360080:(e,s,a)=>{e.exports=a.p+"static/media/sword-cross.7a080f8601135a52d168.svg"}}]);

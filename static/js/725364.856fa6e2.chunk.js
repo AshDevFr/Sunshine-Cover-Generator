@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[725364],{725364:(e,s,a)=>{e.exports=a.p+"static/media/calendar-star-four-points.1a9b274e0f0f7274918f.svg"}}]);

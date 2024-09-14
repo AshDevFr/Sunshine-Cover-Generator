@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[805073],{805073:(e,s,a)=>{e.exports=a.p+"static/media/seal-variant.1eebf134cee20a6f1591.svg"}}]);

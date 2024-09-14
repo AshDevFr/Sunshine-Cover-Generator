@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[535608],{535608:(e,s,a)=>{e.exports=a.p+"static/media/gas-burner.bca76cfd8f404144cc38.svg"}}]);

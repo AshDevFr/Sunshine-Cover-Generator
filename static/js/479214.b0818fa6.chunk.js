@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[479214],{479214:(e,s,a)=>{e.exports=a.p+"static/media/ship-wheel.5eb0fea1a68fa288f18d.svg"}}]);

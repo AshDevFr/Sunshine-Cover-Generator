@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[180573],{180573:(e,a,s)=>{e.exports=s.p+"static/media/book-open-variant-outline.73295de895a38fd0a89b.svg"}}]);

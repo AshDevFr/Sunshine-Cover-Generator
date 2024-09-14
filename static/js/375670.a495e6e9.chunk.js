@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[375670],{375670:(e,s,t)=>{e.exports=t.p+"static/media/border-bottom.549222807d642d8b835f.svg"}}]);

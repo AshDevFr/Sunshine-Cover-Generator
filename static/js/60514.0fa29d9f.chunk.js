@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[60514],{60514:(e,s,a)=>{e.exports=a.p+"static/media/solar-power-variant-outline.62e26b961efe21ad2175.svg"}}]);

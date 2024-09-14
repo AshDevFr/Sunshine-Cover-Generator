@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[315912],{315912:(e,s,a)=>{e.exports=a.p+"static/media/stop-circle-outline.463f204720a6e93e38f6.svg"}}]);

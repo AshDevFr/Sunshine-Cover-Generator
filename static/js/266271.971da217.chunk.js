@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[266271],{266271:(e,s,a)=>{e.exports=a.p+"static/media/cross-bolnisi.f318642eaf78e77cf85b.svg"}}]);

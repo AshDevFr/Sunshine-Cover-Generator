@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[844088],{844088:(e,s,a)=>{e.exports=a.p+"static/media/palette-swatch-variant.210b51b52b9b4404b8db.svg"}}]);

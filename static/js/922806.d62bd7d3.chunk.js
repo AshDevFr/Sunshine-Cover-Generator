@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[922806],{922806:(e,s,a)=>{e.exports=a.p+"static/media/glass-mug-variant-off.1da2d0f3a40298c68808.svg"}}]);

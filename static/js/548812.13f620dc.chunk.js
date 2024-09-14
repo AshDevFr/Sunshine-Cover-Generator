@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[548812],{548812:(e,s,a)=>{e.exports=a.p+"static/media/shield-car.96b183e4b94e02648716.svg"}}]);

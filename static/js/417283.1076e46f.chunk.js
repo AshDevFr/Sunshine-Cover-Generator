@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[417283],{417283:(e,s,i)=>{e.exports=i.p+"static/media/office-building-marker-outline.68fc20072bd68b78d305.svg"}}]);

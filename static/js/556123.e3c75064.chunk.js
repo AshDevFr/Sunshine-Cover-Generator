@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[556123],{556123:(e,s,n)=>{e.exports=n.p+"static/media/microsoft-xbox-controller-menu.81071fdbb2cc72116e8b.svg"}}]);

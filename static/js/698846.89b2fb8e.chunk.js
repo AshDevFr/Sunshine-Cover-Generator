@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[698846],{698846:(e,s,a)=>{e.exports=a.p+"static/media/train.d657c4964d737c4491fb.svg"}}]);

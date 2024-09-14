@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[551641],{551641:(e,s,a)=>{e.exports=a.p+"static/media/account-school-outline.2b10e1a053087be72304.svg"}}]);

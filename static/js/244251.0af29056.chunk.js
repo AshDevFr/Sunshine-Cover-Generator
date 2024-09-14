@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[244251],{244251:(e,s,a)=>{e.exports=a.p+"static/media/percent-circle-outline.bc76655e7aa210be4302.svg"}}]);

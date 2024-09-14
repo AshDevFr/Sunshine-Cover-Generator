@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[223074],{223074:(e,a,s)=>{e.exports=s.p+"static/media/water-pump-off.306364000a1ab599afb4.svg"}}]);

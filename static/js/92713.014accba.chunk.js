@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[92713],{92713:(e,s,a)=>{e.exports=a.p+"static/media/fax.b7eb43865404d890772b.svg"}}]);

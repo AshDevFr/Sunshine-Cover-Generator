@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[994445],{994445:(e,s,c)=>{e.exports=c.p+"static/media/invoice-text-clock-outline.6f8ac262c155d06706ec.svg"}}]);

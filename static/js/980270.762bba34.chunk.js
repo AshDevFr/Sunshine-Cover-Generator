@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[980270],{980270:(e,s,a)=>{e.exports=a.p+"static/media/image-filter-center-focus-weak.ed17caef6b5d44097518.svg"}}]);

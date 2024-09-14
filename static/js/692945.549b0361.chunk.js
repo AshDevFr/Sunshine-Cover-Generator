@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[692945],{692945:(e,a,s)=>{e.exports=s.p+"static/media/food-halal.ef1a03abaeec539d4278.svg"}}]);

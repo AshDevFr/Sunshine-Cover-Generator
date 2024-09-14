@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[625540],{625540:(e,s,a)=>{e.exports=a.p+"static/media/football-australian.20651ec43821517de494.svg"}}]);

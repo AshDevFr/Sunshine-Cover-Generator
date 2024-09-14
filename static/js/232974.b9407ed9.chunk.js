@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[232974],{232974:(e,s,a)=>{e.exports=a.p+"static/media/coffee-off.939227b63bd0b9acf8d7.svg"}}]);

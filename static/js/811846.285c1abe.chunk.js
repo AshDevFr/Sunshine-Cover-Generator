@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[811846],{811846:(e,s,a)=>{e.exports=a.p+"static/media/waves-arrow-left.6123754676dcd87114ae.svg"}}]);

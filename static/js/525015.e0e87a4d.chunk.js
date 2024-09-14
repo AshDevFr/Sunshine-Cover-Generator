@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[525015],{525015:(e,s,a)=>{e.exports=a.p+"static/media/beaker-remove.d5445447fa4bedda7eb2.svg"}}]);

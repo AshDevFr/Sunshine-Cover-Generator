@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[228101],{228101:(e,s,n)=>{e.exports=n.p+"static/media/phone-clock.44047788c06c7510e861.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[204324],{204324:(e,s,a)=>{e.exports=a.p+"static/media/point-of-sale.2524442ed412ece0ebb1.svg"}}]);

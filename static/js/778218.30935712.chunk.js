@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[778218],{778218:(e,s,a)=>{e.exports=a.p+"static/media/police-badge.f18fd7c9332a7c0fcf5b.svg"}}]);

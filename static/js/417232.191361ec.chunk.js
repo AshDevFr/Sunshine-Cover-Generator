@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[417232],{417232:(e,s,i)=>{e.exports=i.p+"static/media/timeline-minus.2f6c850ca214e4f19321.svg"}}]);

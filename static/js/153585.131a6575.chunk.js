@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[153585],{153585:(e,s,a)=>{e.exports=a.p+"static/media/cpu-64-bit.c4536b1ac021556718cf.svg"}}]);

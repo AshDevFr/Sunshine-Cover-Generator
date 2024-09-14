@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[494205],{494205:(e,s,i)=>{e.exports=i.p+"static/media/fishbowl-outline.6c0f9cde688fe1668cd0.svg"}}]);

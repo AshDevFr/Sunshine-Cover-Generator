@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[666511],{666511:(e,s,i)=>{e.exports=i.p+"static/media/file-excel-outline.b48281432d38136f5de5.svg"}}]);

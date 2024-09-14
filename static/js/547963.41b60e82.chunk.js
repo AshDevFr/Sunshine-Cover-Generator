@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[547963],{547963:(e,s,a)=>{e.exports=a.p+"static/media/headphones-box.41babbbf6fd646e7dcb0.svg"}}]);

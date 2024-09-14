@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[1286],{1286:(e,s,a)=>{e.exports=a.p+"static/media/battery-charging-outline.af0d362ffb1431d11ef2.svg"}}]);

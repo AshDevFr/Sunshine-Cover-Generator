@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[122518],{122518:(e,s,a)=>{e.exports=a.p+"static/media/crosshairs-gps.12d95b7afaea2b112e5f.svg"}}]);

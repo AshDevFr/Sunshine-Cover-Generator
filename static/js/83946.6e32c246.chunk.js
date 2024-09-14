@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[83946],{83946:(e,s,a)=>{e.exports=a.p+"static/media/crystal-ball.3e3938d1566832af83b6.svg"}}]);

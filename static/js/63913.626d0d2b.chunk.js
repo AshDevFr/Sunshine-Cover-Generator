@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[63913],{63913:(e,s,a)=>{e.exports=a.p+"static/media/paw-outline.67d6d9795e7bb84bafe6.svg"}}]);

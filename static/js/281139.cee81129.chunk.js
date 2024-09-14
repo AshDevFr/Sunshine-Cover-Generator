@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[281139],{281139:(e,s,a)=>{e.exports=a.p+"static/media/calendar-week-begin.36686f9a9b935c3694b0.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[141084],{141084:(e,s,a)=>{e.exports=a.p+"static/media/fridge-off-outline.64312cba7d15cb135f06.svg"}}]);

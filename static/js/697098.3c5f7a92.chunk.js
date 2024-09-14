@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[697098],{697098:(e,s,a)=>{e.exports=a.p+"static/media/map-marker-circle.8a20bc894fe984e89bfc.svg"}}]);

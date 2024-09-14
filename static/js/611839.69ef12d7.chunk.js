@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksunshine_image_generator=self.webpackChunksunshine_image_generator||[]).push([[611839],{611839:(e,s,a)=>{e.exports=a.p+"static/media/folder-move-outline.1cb1ede03757a5c1a44b.svg"}}]);
