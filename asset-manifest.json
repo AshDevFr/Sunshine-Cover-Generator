@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sunshine-Cover-Generator/static/css/main.e6c13ad2.css",
-    "main.js": "/Sunshine-Cover-Generator/static/js/main.042dcb23.js",
+    "main.js": "/Sunshine-Cover-Generator/static/js/main.925a0a6c.js",
     "static/js/846453.646c22fc.chunk.js": "/Sunshine-Cover-Generator/static/js/846453.646c22fc.chunk.js",
     "static/js/859244.aa9bcb2f.chunk.js": "/Sunshine-Cover-Generator/static/js/859244.aa9bcb2f.chunk.js",
     "static/js/714635.f3d82986.chunk.js": "/Sunshine-Cover-Generator/static/js/714635.f3d82986.chunk.js",
@@ -16476,7 +16476,7 @@
     "static/media/square.svg?raw": "/Sunshine-Cover-Generator/static/media/square.dedb311799226c661cc9.svg",
     "static/media/solid.svg?raw": "/Sunshine-Cover-Generator/static/media/solid.cc8af6f4d83e8420d767.svg",
     "main.e6c13ad2.css.map": "/Sunshine-Cover-Generator/static/css/main.e6c13ad2.css.map",
-    "main.042dcb23.js.map": "/Sunshine-Cover-Generator/static/js/main.042dcb23.js.map",
+    "main.925a0a6c.js.map": "/Sunshine-Cover-Generator/static/js/main.925a0a6c.js.map",
     "846453.646c22fc.chunk.js.map": "/Sunshine-Cover-Generator/static/js/846453.646c22fc.chunk.js.map",
     "761928.f213300a.chunk.js.map": "/Sunshine-Cover-Generator/static/js/761928.f213300a.chunk.js.map",
     "68152.3852a2f1.chunk.js.map": "/Sunshine-Cover-Generator/static/js/68152.3852a2f1.chunk.js.map",
@@ -18057,6 +18057,6 @@
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.042dcb23.js"
+    "static/js/main.925a0a6c.js"
   ]
 }
