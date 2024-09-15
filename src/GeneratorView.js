@@ -1,7 +1,7 @@
 import * as React from 'react';
 import CssBaseline from '@mui/material/CssBaseline';
 import Stack from '@mui/material/Stack';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
+import {createTheme, ThemeProvider} from '@mui/material/styles';
 import GeneratorCard from './GeneratorCard';
 import TemplateFrame from './TemplateFrame';
 import {useState} from "react";
@@ -10,9 +10,8 @@ import {Box} from "@mui/material";
 export default function GeneratorView() {
   const [mode, setMode] = React.useState('light');
   const [image, setImage] = useState('');
-  const [loading, setLoading] = useState(false)
 
-  const defaultTheme = createTheme({ palette: { mode } });
+  const defaultTheme = createTheme({palette: {mode}});
   // This code only runs on the client side, to determine the system color preference
   React.useEffect(() => {
     // Check if there is a preferred mode in localStorage
@@ -41,14 +40,14 @@ export default function GeneratorView() {
       toggleColorMode={toggleColorMode}
     >
       <ThemeProvider theme={defaultTheme}>
-        <CssBaseline enableColorScheme />
+        <CssBaseline enableColorScheme/>
         <Stack
           direction="column"
           component="main"
           sx={[
             {
               justifyContent: 'space-between',
-              height: { xs: 'auto', md: '100%' },
+              height: {xs: 'auto', md: '100%'},
             },
             (theme) => ({
               backgroundImage:
@@ -62,19 +61,18 @@ export default function GeneratorView() {
           ]}
         >
           <Stack
-            direction={{ xs: 'column-reverse', md: 'row' }}
+            direction={{xs: 'column-reverse', md: 'row'}}
             sx={{
               justifyContent: 'center',
-              gap: { xs: 6, sm: 12 },
+              gap: {xs: 6, sm: 12},
               p: 2,
               m: 'auto',
             }}
           >
             <Box>
-              {loading ? <p>Loading...</p> : null}
               {image && <img alt="Preview" src={`data:image/jpeg;base64,${image}`}/>}
             </Box>
-            <GeneratorCard setImage={setImage} setLoading={setLoading} />
+            <GeneratorCard setImage={setImage}/>
           </Stack>
         </Stack>
       </ThemeProvider>

@@ -13,6 +13,7 @@ import {GeneratePNGImage} from "./service/images";
 import {Autocomplete, Link} from "@mui/material";
 
 import {getAvailableFonts} from "@remotion/google-fonts";
+import Stack from "@mui/material/Stack";
 
 
 const Card = styled(MuiCard)(({theme}) => ({
@@ -33,9 +34,10 @@ const Card = styled(MuiCard)(({theme}) => ({
   }),
 }));
 
-function GeneratorCard({setImage, setLoading}) {
+function GeneratorCard({setImage}) {
   const newFonts = getAvailableFonts();
 
+  const [loading, setLoading] = useState(false)
   const [backgroundURL, setBackgroundURL] = useState('');
   const [mdiIcon, setMdiIcon] = useState('monitor-dashboard');
   const [font, setFont] = useState(null);
@@ -63,13 +65,25 @@ function GeneratorCard({setImage, setLoading}) {
 
   return (
     <Card variant="outlined">
-      <Typography
-        component="h1"
-        variant="h4"
-        sx={{width: '100%', fontSize: 'clamp(2rem, 10vw, 2.15rem)'}}
-      >
-        Options
-      </Typography>
+      <Stack direction="row">
+        <Typography
+          component="h1"
+          variant="h4"
+          sx={{width: '100%', fontSize: 'clamp(2rem, 10vw, 2.15rem)'}}
+        >
+          Options
+        </Typography>
+        {loading ?
+          <Typography
+            component="h1"
+            variant="h5"
+            size="small"
+            color="primary"
+          >
+            Loading...
+          </Typography>
+          : null}
+      </Stack>
       <Box
         component="form"
         noValidate
@@ -190,7 +204,6 @@ function GeneratorCard({setImage, setLoading}) {
 
 GeneratorCard.propTypes = {
   setImage: PropTypes.func.isRequired,
-  setLoading: PropTypes.func.isRequired,
 };
 
 export default GeneratorCard;
